@@ -13,16 +13,22 @@ The core idea is to provide a simple and flexible way to generate a static websi
 
 ## Getting Started
 
-To use Divisor, run the following command from the root of the project:
+1. **Install dependencies:**
 
-```bash
-python cli.py generate
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-This will generate the website based on the configuration in your `config.yml` file.
+2. **Run the tool:**
 
-To deploy the website to GitHub Pages, run:
+   To generate the website based on the configuration in your `config.yml` file, run:
 
-```bash
-python cli.py deploy
-```
+   ```bash
+   python cli.py generate
+   ```
+
+   To deploy the website to GitHub Pages, run:
+
+   ```bash
+   python cli.py deploy
+   ```
