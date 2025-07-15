@@ -1,10 +1,10 @@
 import click
-from .config import load_config
-from .source import SourceFetcher
-from .jekyll import JekyllSite
-from .converter import Converter
-from .assets import AssetHandler
-from .deploy import Deployer
+from divisor.config import load_config
+from divisor.source import SourceFetcher
+from divisor.jekyll import JekyllSite
+from divisor.converter import Converter
+from divisor.assets import AssetHandler
+from divisor.deploy import Deployer
 
 @click.group()
 def main():
