@@ -9,6 +9,10 @@ class AssetHandler:
         """
         Copies all assets from the source directory to the destination directory.
         """
+        if not os.path.exists(source_dir):
+            print(f"Warning: Source directory '{source_dir}' not found. Skipping asset copy.")
+            return
+
         if not os.path.exists(dest_dir):
             os.makedirs(dest_dir)
 
