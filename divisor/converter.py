@@ -1,5 +1,6 @@
 import os
 import re
+import yaml
 
 class Converter:
     def __init__(self, config):
@@ -12,18 +13,33 @@ class Converter:
         with open(source_path, "r") as f:
             content = f.read()
 
-        # Adapt front matter (simple implementation)
-        front_matter = {
-            "layout": "default",
-            "title": self.get_title_from_content(content),
-        }
-        content = self.add_front_matter(content, front_matter)
+        # Separate front matter from content
+        match = re.search(r"^---\n(.*?)\n---\n(.*)", content, re.DOTALL)
+        if match:
+            front_matter_str = match.group(1)
+            content_body = match.group(2)
+            # Parse existing front matter
+            try:
+                front_matter = yaml.safe_load(front_matter_str)
+            except yaml.YAMLError:
+                front_matter = {}
+        else:
+            front_matter = {}
+            content_body = content
 
-        # Rewrite internal links (simple implementation)
-        content = self.rewrite_internal_links(content)
+        # Adapt front matter
+        front_matter["layout"] = "default"
+        if "title" not in front_matter:
+            front_matter["title"] = self.get_title_from_content(content_body)
+
+        # Rewrite internal links
+        content_body = self.rewrite_internal_links(content_body)
+
+        # Re-assemble the file
+        new_content = self.add_front_matter(content_body, front_matter)
 
         with open(dest_path, "w") as f:
-            f.write(content)
+            f.write(new_content)
 
     def get_title_from_content(self, content):
         """
