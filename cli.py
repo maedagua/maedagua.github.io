@@ -1,3 +1,4 @@
+import os
 import click
 from divisor.config import load_config
 from divisor.source import SourceFetcher
@@ -32,13 +33,24 @@ def generate(config):
 
     # Convert the content
     converter = Converter(cfg)
-    # This is a simplified version of the conversion process
-    # In a real application, you would iterate over the files and folders
-    # in the source repository and convert them accordingly.
+    # Convert the home page
     converter.convert_file(
         f"source_repo/{cfg.content_mapping.home_page_source}",
         f"{cfg.content_mapping.destination_folder}/index.md",
     )
+
+    # Convert the subpages
+    subpages_source_dir = f"source_repo/{cfg.content_mapping.subpages_folder}"
+    subpages_dest_dir = f"{cfg.content_mapping.destination_folder}"
+    if os.path.exists(subpages_source_dir):
+        for root, _, files in os.walk(subpages_source_dir):
+            for file in files:
+                if file.endswith(".md"):
+                    source_path = os.path.join(root, file)
+                    relative_path = os.path.relpath(source_path, subpages_source_dir)
+                    dest_path = os.path.join(subpages_dest_dir, relative_path)
+                    os.makedirs(os.path.dirname(dest_path), exist_ok=True)
+                    converter.convert_file(source_path, dest_path)
 
     # Copy the assets
     asset_handler = AssetHandler(cfg)
