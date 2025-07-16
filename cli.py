@@ -27,7 +27,7 @@ def generate(config):
     fetcher.fetch()
 
     # Create the Jekyll site structure
-    site = JekyllSite(cfg.content_mapping.destination_folder)
+    site = JekyllSite(cfg.content_mapping.destination_folder, cfg)
     site.create_structure()
 
     # Convert the content
