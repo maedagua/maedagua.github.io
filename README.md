@@ -25,9 +25,11 @@ The core idea is to provide a simple and flexible way to generate a static websi
    python cli.py generate
    ```
 
+   This will create a directory (specified as `destination_folder` in your `config.yml`) containing the generated Jekyll site.
+
 3. **Run the Jekyll server:**
 
-   To preview your site locally, you'll need to have Ruby and Bundler installed. Then, run the following commands from your generated site's directory:
+   To preview your site locally, you'll need to have Ruby and Bundler installed. Then, `cd` into your generated site's directory and run:
 
    ```bash
    bundle install
