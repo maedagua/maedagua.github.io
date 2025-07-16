@@ -35,9 +35,10 @@ class Converter:
             front_matter["title"] = self.get_title_from_content(content_body)
 
         # Add nav_order based on directory depth
-        relative_path = os.path.relpath(source_path, source_repo_dir)
+        subpages_folder_path = os.path.join(source_repo_dir, self.config.content_mapping.subpages_folder)
+        relative_path = os.path.relpath(source_path, subpages_folder_path)
         depth = relative_path.count(os.sep)
-        if depth == 1:
+        if depth == 0:
             front_matter["nav_order"] = 2 # Show top-level pages in nav
         else:
             front_matter["nav_order"] = 99
@@ -50,6 +51,8 @@ class Converter:
 
         with open(dest_path, "w") as f:
             f.write(new_content)
+
+        return content_body, front_matter, new_content
 
     def get_title_from_content(self, content):
         """
@@ -76,7 +79,16 @@ class Converter:
         """
         def replace_link(match):
             original_path_str = match.group(2)
-            if original_path_str.endswith(".md"):
+            if not original_path_str.endswith(".md") and not any(original_path_str.lower().endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".pdf", ".mp3", ".mp4"]):
+                # It's a page link without the .md extension
+                subpages_folder = self.config.content_mapping.subpages_folder
+                if original_path_str.startswith(f"/{subpages_folder}"):
+                    path = original_path_str[len(subpages_folder) + 1:]
+                else:
+                    path = original_path_str
+                new_path = path
+                return f"{match.group(1)}{{{{ '{new_path}' | relative_url }}}})"
+            elif original_path_str.endswith(".md"):
                 # It's a page link
                 subpages_folder = self.config.content_mapping.subpages_folder
                 if original_path_str.startswith(f"/{subpages_folder}"):
