@@ -2,6 +2,8 @@ import os
 import re
 import yaml
 
+ASSET_REGEX = re.compile(r"(!?\[.*?\]\()((?!https?:\/\/|#|mailto:).*?)\)")
+
 class Converter:
     def __init__(self, config):
         self.config = config
@@ -72,21 +74,24 @@ class Converter:
         """
         Rewrites internal links to be compatible with Jekyll.
         """
-        # Rewrite page links
-        def replace_page_link(match):
-            path = match.group(1)
-            # Remove the subpages_folder prefix from the path
-            subpages_folder = self.config.content_mapping.subpages_folder
-            if path.startswith(f"/{subpages_folder}"):
-                path = path[len(subpages_folder) + 1:]
-            return f"({{ '{path}' | relative_url }})"
-        content = re.sub(r"\((\/[^)]+)\.md\)", replace_page_link, content)
+        def replace_link(match):
+            original_path_str = match.group(2)
+            if original_path_str.endswith(".md"):
+                # It's a page link
+                subpages_folder = self.config.content_mapping.subpages_folder
+                if original_path_str.startswith(f"/{subpages_folder}"):
+                    path = original_path_str[len(subpages_folder) + 1:]
+                else:
+                    path = original_path_str
+                new_path = path.replace(".md", "")
+                return f"{match.group(1)}{{{{ '{new_path}' | relative_url }}}})"
+            elif any(original_path_str.lower().endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".pdf", ".mp3", ".mp4"]):
+                # It's a media link
+                file_name = os.path.basename(original_path_str)
+                new_path = f"/assets/media/{file_name}"
+                return f"{match.group(1)}{{{{ '{new_path}' | relative_url }}}})"
+            else:
+                # Not a link we want to rewrite
+                return match.group(0)
 
-        # Rewrite media links
-        def replace_media_link(match):
-            path = match.group(1)
-            filename = os.path.basename(path)
-            return f"({{ '/assets/media/{filename}' | relative_url }})"
-        content = re.sub(r"\((\/assets\/media\/[^)]+)\)", replace_media_link, content)
-
-        return content
+        return ASSET_REGEX.sub(replace_link, content)
