@@ -6,7 +6,7 @@ class Converter:
     def __init__(self, config):
         self.config = config
 
-    def convert_file(self, source_path, dest_path):
+    def convert_file(self, source_path, dest_path, source_repo_dir):
         """
         Converts a single file.
         """
@@ -31,6 +31,13 @@ class Converter:
         front_matter["layout"] = "default"
         if "title" not in front_matter:
             front_matter["title"] = self.get_title_from_content(content_body)
+
+        # Add nav_order based on directory depth
+        depth = source_path.replace(source_repo_dir, "").count(os.sep)
+        if depth == 1:
+            front_matter["nav_order"] = 2 # Show top-level pages in nav
+        else:
+            front_matter["nav_order"] = 99
 
         # Rewrite internal links
         content_body = self.rewrite_internal_links(content_body)
@@ -65,7 +72,7 @@ class Converter:
         Rewrites internal links to be compatible with Jekyll.
         """
         # Rewrite page links
-        content = re.sub(r"\(\/(.*?)\.md\)", r"(/{{ site.baseurl }}/\1)", content)
+        content = re.sub(r"\((\/[^)]+)\.md\)", r"({{ '\1' | relative_url }})", content)
         # Rewrite media links
-        content = re.sub(r"\(/(assets/media/.*?)\)", r"({{ '/\1' | relative_url }})", content)
+        content = re.sub(r"\((\/assets\/media\/[^)]+)\)", r"({{ '\1' | relative_url }})", content)
         return content

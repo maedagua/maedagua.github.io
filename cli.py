@@ -37,6 +37,7 @@ def generate(config):
     converter.convert_file(
         f"source_repo/{cfg.content_mapping.home_page_source}",
         f"{cfg.content_mapping.destination_folder}/index.md",
+        "source_repo",
     )
 
     # Convert the subpages
@@ -51,7 +52,7 @@ def generate(config):
                     dest_dir = os.path.join(subpages_dest_dir, os.path.splitext(relative_path)[0])
                     os.makedirs(dest_dir, exist_ok=True)
                     dest_path = os.path.join(dest_dir, "index.md")
-                    converter.convert_file(source_path, dest_path)
+                    converter.convert_file(source_path, dest_path, "source_repo")
 
     # Copy the assets
     asset_handler = AssetHandler(cfg)
