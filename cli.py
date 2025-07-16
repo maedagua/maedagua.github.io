@@ -48,14 +48,15 @@ def generate(config):
                 if file.endswith(".md"):
                     source_path = os.path.join(root, file)
                     relative_path = os.path.relpath(source_path, subpages_source_dir)
-                    dest_path = os.path.join(subpages_dest_dir, relative_path)
-                    os.makedirs(os.path.dirname(dest_path), exist_ok=True)
+                    dest_dir = os.path.join(subpages_dest_dir, os.path.splitext(relative_path)[0])
+                    os.makedirs(dest_dir, exist_ok=True)
+                    dest_path = os.path.join(dest_dir, "index.md")
                     converter.convert_file(source_path, dest_path)
 
     # Copy the assets
     asset_handler = AssetHandler(cfg)
     asset_handler.copy_assets(
-        f"source_repo/{cfg.content_mapping.media_destination_folder}",
+        "source_repo",
         f"{cfg.content_mapping.destination_folder}/{cfg.content_mapping.media_destination_folder}",
     )
 

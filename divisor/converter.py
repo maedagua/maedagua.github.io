@@ -64,5 +64,8 @@ class Converter:
         """
         Rewrites internal links to be compatible with Jekyll.
         """
-        # This is a placeholder for a more sophisticated implementation
-        return content.replace(".md", ".html")
+        # Rewrite page links
+        content = content.replace(".md", "")
+        # Rewrite media links
+        content = re.sub(r"\(/(assets/media/.*?)\)", r"(/{{ site.baseurl }}/\1)", content)
+        return content
