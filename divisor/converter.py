@@ -33,7 +33,8 @@ class Converter:
             front_matter["title"] = self.get_title_from_content(content_body)
 
         # Add nav_order based on directory depth
-        depth = source_path.replace(source_repo_dir, "").count(os.sep)
+        relative_path = os.path.relpath(source_path, source_repo_dir)
+        depth = relative_path.count(os.sep)
         if depth == 1:
             front_matter["nav_order"] = 2 # Show top-level pages in nav
         else:
@@ -72,7 +73,20 @@ class Converter:
         Rewrites internal links to be compatible with Jekyll.
         """
         # Rewrite page links
-        content = re.sub(r"\((\/[^)]+)\.md\)", r"({{ '\1' | relative_url }})", content)
+        def replace_page_link(match):
+            path = match.group(1)
+            # Remove the subpages_folder prefix from the path
+            subpages_folder = self.config.content_mapping.subpages_folder
+            if path.startswith(f"/{subpages_folder}"):
+                path = path[len(subpages_folder) + 1:]
+            return f"({{ '{path}' | relative_url }})"
+        content = re.sub(r"\((\/[^)]+)\.md\)", replace_page_link, content)
+
         # Rewrite media links
-        content = re.sub(r"\((\/assets\/media\/[^)]+)\)", r"({{ '\1' | relative_url }})", content)
+        def replace_media_link(match):
+            path = match.group(1)
+            filename = os.path.basename(path)
+            return f"({{ '/assets/media/{filename}' | relative_url }})"
+        content = re.sub(r"\((\/assets\/media\/[^)]+)\)", replace_media_link, content)
+
         return content
