@@ -26,3 +26,18 @@ class JekyllSite:
             f.write(f"description: {self.config.site_metadata.description}\n")
             f.write(f"theme: {self.config.site_metadata.theme}\n")
             f.write(f"url: {self.config.site_metadata.github_pages_url}\n")
+
+        # Copy layout and includes
+        self.copy_template_files()
+
+    def copy_template_files(self):
+        """
+        Copies the template files (_layouts, _includes, assets) to the generated site.
+        """
+        template_dir = os.path.dirname(__file__)
+        for dir_name in ["_layouts", "_includes", "assets"]:
+            source_dir = os.path.join(template_dir, dir_name)
+            dest_dir = os.path.join(self.path, dir_name)
+            if os.path.exists(source_dir):
+                import shutil
+                shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)

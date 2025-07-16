@@ -65,7 +65,7 @@ class Converter:
         Rewrites internal links to be compatible with Jekyll.
         """
         # Rewrite page links
-        content = content.replace(".md", "")
+        content = re.sub(r"\(\/(.*?)\.md\)", r"(/{{ site.baseurl }}/\1)", content)
         # Rewrite media links
-        content = re.sub(r"\(/(assets/media/.*?)\)", r"(/{{ site.baseurl }}/\1)", content)
+        content = re.sub(r"\(/(assets/media/.*?)\)", r"({{ '/\1' | relative_url }})", content)
         return content

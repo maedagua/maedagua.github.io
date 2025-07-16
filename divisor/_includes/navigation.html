@@ -1,0 +1,9 @@
+<nav>
+  <ul>
+    {% for p in site.pages %}
+      {% if p.title and p.url.size > 1 and (p.url | split: '/' | size) <= 2 %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

@@ -7,12 +7,17 @@ class AssetHandler:
 
     def copy_assets(self, source_repo_dir, dest_media_dir):
         """
-        Copies all media assets from the source repository to the destination media directory.
+        Copies media assets from the specified subpages_folder to the destination media directory.
         """
+        subpages_folder = os.path.join(source_repo_dir, self.config.content_mapping.subpages_folder)
+        if not os.path.exists(subpages_folder):
+            print(f"Warning: Subpages folder '{subpages_folder}' not found. Skipping asset copy.")
+            return
+
         if not os.path.exists(dest_media_dir):
             os.makedirs(dest_media_dir)
 
-        for root, _, files in os.walk(source_repo_dir):
+        for root, _, files in os.walk(subpages_folder):
             for file in files:
                 if self.is_media_file(file):
                     source_path = os.path.join(root, file)
