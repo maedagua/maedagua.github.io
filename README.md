@@ -19,13 +19,22 @@ The core idea is to provide a simple and flexible way to generate a static websi
    pip install -r requirements.txt
    ```
 
-2. **Run the tool:**
-
-   To generate the website based on the configuration in your `config.yml` file, run:
+2. **Generate the website:**
 
    ```bash
    python cli.py generate
    ```
+
+3. **Run the Jekyll server:**
+
+   To preview your site locally, you'll need to have Ruby and Bundler installed. Then, run the following commands from your generated site's directory:
+
+   ```bash
+   bundle install
+   bundle exec jekyll serve
+   ```
+
+4. **Deploy the website:**
 
    To deploy the website to GitHub Pages, run:
 
