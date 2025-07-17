@@ -7,7 +7,8 @@ class SiteMetadata:
     description: str
     theme: str
     github_pages_url: str
-    description_paragraph: str = ""
+    about_page_title: str = "About this site"
+    about_page_body: str = ""
 
 @dataclass
 class ContentMapping:
@@ -21,7 +22,6 @@ class Config:
     site_metadata: SiteMetadata
     source_repository: str
     content_mapping: ContentMapping
-    license: str
 
 def load_config(path: str = "config.yml") -> Config:
     """Loads the configuration from a YAML file."""
@@ -31,5 +31,4 @@ def load_config(path: str = "config.yml") -> Config:
         site_metadata=SiteMetadata(**data["site_metadata"]),
         source_repository=data["source_repository"],
         content_mapping=ContentMapping(**data["content_mapping"]),
-        license=data["license"],
     )

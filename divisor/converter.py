@@ -40,8 +40,8 @@ class Converter:
         content_body = self.rewrite_internal_links(content_body)
 
         # Add description paragraph if it's the home page
-        if dest_path.endswith("index.md") and self.config.site_metadata.description_paragraph:
-            content_body = f"\n{self.config.site_metadata.description_paragraph}\n\n" + content_body
+        if dest_path.endswith("index.md") and self.config.site_metadata.about_page_body:
+            content_body = f"\n{self.config.site_metadata.about_page_body}\n\n" + content_body
 
         # Re-assemble the file
         new_content = self.add_front_matter(content_body, front_matter)

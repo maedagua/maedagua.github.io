@@ -30,6 +30,21 @@ class JekyllSite:
         # Copy layout and includes
         self.copy_template_files()
 
+        # Create about page
+        self.create_about_page()
+
+    def create_about_page(self):
+        """
+        Creates the about page from the config.
+        """
+        about_path = os.path.join(self.path, "about.md")
+        with open(about_path, "w") as f:
+            f.write("---\n")
+            f.write("layout: page\n")
+            f.write(f"title: {self.config.site_metadata.about_page_title}\n")
+            f.write("---\n")
+            f.write(f"\n{self.config.site_metadata.about_page_body}\n")
+
     def copy_template_files(self):
         """
         Copies the template files (_layouts, _includes, assets) to the generated site.
