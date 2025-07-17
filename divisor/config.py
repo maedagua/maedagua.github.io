@@ -7,7 +7,8 @@ class SiteMetadata:
     description: str
     theme: str
     github_pages_url: str
-    description_paragraph: str = ""
+    about_page_title: str = "About this site"
+    about_page_body: str = ""
 
 @dataclass
 class ContentMapping:
