@@ -34,14 +34,7 @@ class Converter:
         if "title" not in front_matter:
             front_matter["title"] = self.get_title_from_content(content_body)
 
-        # Add nav_order based on directory depth
-        subpages_folder_path = os.path.join(source_repo_dir, self.config.content_mapping.subpages_folder)
-        relative_path = os.path.relpath(source_path, subpages_folder_path)
-        depth = relative_path.count(os.sep)
-        if depth == 0:
-            front_matter["nav_order"] = 2 # Show top-level pages in nav
-        else:
-            front_matter["nav_order"] = 99
+        pass
 
         # Rewrite internal links
         content_body = self.rewrite_internal_links(content_body)
