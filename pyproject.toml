@@ -1,0 +1,16 @@
+[project]
+name = "divisor"
+version = "0.1.0"
+description = "A tool for creating Jekyll websites from Git repositories."
+authors = [{ name = "Your Name", email = "your@email.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pyyaml",
+    "gitpython",
+    "click",
+]
+
+[project.scripts]
+divisor = "divisor.cli:main"
