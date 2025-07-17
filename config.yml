@@ -13,5 +13,3 @@ content_mapping:
   subpages_folder: "pages"
   destination_folder: "site_contents"
   media_destination_folder: "assets/media"
-
-license: "CC-BY"

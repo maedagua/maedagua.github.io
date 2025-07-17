@@ -26,12 +26,6 @@ class JekyllSite:
             f.write(f"description: {self.config.site_metadata.description}\n")
             f.write(f"theme: {self.config.site_metadata.theme}\n")
             f.write(f"url: {self.config.site_metadata.github_pages_url}\n")
-            f.write("footer_content: \"\"\n")
-            if self.config.license == "CC-BY":
-                f.write("footer_content: '<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0</a>'\n")
-                if "fonte.wiki" in self.config.source_repository:
-                    f.write("footer_content: '<a href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0</a> <a href=\"https://fonte.wiki\">fonte.wiki</a>'\n")
-            f.write("divisor_link: '<a href=\"https://github.com/fonte-wiki/divisor\">Made with Divisor</a>'\n")
 
         # Copy layout and includes
         self.copy_template_files()
