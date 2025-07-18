@@ -1,5 +1,6 @@
 import os
 import git
+from urllib.parse import urlparse
 
 class Deployer:
     def __init__(self, site_path: str):
@@ -25,10 +26,13 @@ class Deployer:
 
         # Push to the gh-pages branch
         if github_token:
-            if remote_url.startswith("https://"):
-                remote_url = remote_url.replace("https://", f"https://x-access-token:{github_token}@")
-            elif remote_url.startswith("git@"):
-                remote_url = remote_url.replace("git@", f"https://x-access-token:{github_token}@").replace(":", "/")
+            url = urlparse(remote_url)
+            if url.scheme == 'https':
+                url = url._replace(netloc=f"x-access-token:{github_token}@{url.netloc}")
+                remote_url = url.geturl()
+            elif url.scheme == '' and url.path.startswith('git@'):
+                remote_url = f"https://x-access-token:{github_token}@{url.path[4:].replace(':', '/')}"
+
         try:
             repo.git.remote("add", "origin", remote_url)
         except git.exc.GitCommandError:
