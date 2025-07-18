@@ -72,7 +72,7 @@ def deploy(config):
     """
     cfg = load_config(config)
     deployer = Deployer(cfg.content_mapping.destination_folder)
-    remote_url = cfg.site_metadata.github_pages_url
+    remote_url = cfg.site_metadata.github_repository_url
     deployer.deploy(remote_url)
     click.echo("Website deployed successfully!")
 
