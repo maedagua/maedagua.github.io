@@ -1,21 +1,22 @@
 import yaml
 from dataclasses import dataclass
+from typing import Optional
 
 @dataclass
 class SiteMetadata:
     title: str
-    description: str
     theme: str
     github_pages_url: str
+    description: str = "Website created with fonte.wiki and Divisor"
     about_page_title: str = "About this site"
     about_page_body: str = ""
 
 @dataclass
 class ContentMapping:
     home_page_source: str
-    subpages_folder: str
     destination_folder: str
     media_destination_folder: str
+    subpages_folder: Optional[str] = None
 
 @dataclass
 class Config:
