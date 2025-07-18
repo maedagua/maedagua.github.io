@@ -19,7 +19,7 @@ site_metadata:
   title: "My Awesome Website"
   description: "Website created with fonte.wiki and Divisor"
   theme: "minima"
-  github_repository_url: "https://github.com/your-git-username/your-repository.git" #edit this line
+  github_repository_url: "https://github.com/your-git-username/your-repository.git" # Recommended: use HTTPS URL
   github_pages_url: "https://your-git-username.github.io/your-repository/" #edit this line
   about_page_title: "About this site"
   about_page_body: "This is a sample description paragraph."

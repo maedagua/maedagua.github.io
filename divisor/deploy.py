@@ -25,7 +25,10 @@ class Deployer:
 
         # Push to the gh-pages branch
         if github_token:
-            remote_url = remote_url.replace("https://", f"https://x-access-token:{github_token}@")
+            if remote_url.startswith("https://"):
+                remote_url = remote_url.replace("https://", f"https://x-access-token:{github_token}@")
+            elif remote_url.startswith("git@"):
+                remote_url = remote_url.replace("git@", f"https://x-access-token:{github_token}@").replace(":", "/")
 
         try:
             repo.git.remote("add", "origin", remote_url)
