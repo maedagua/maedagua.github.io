@@ -5,7 +5,7 @@ class Deployer:
     def __init__(self, site_path: str):
         self.site_path = site_path
 
-    def deploy(self):
+    def deploy(self, remote_url="origin"):
         """
         Deploys the generated website to GitHub Pages.
         """

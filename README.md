@@ -52,6 +52,12 @@ The `config.yml` file allows you to customize the generated website. You can def
    python cli.py deploy
    ```
 
+   If you want to push to a remote other than `origin`, you can use the `--remote` option:
+
+   ```bash
+   python cli.py deploy --remote <your-remote-name>
+   ```
+
 ## GitHub Pages Setup
 
 To deploy your website to GitHub Pages, you need to configure your repository correctly.

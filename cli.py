@@ -66,13 +66,14 @@ def generate(config):
 
 @main.command()
 @click.option("--config", default="config.yml", help="Path to the configuration file.")
-def deploy(config):
+@click.option("--remote", default="origin", help="The remote to push to.")
+def deploy(config, remote):
     """
     Deploys the website to GitHub Pages.
     """
     cfg = load_config(config)
     deployer = Deployer(cfg.content_mapping.destination_folder)
-    deployer.deploy()
+    deployer.deploy(remote)
     click.echo("Website deployed successfully!")
 
 if __name__ == "__main__":
