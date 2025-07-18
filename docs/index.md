@@ -50,7 +50,7 @@ The URL of the Git repository to use as the source for your website's content.
 ### `content_mapping`
 
 *   `home_page_source`: The path to the Markdown file to use as the home page.
-*   `subpages_folder`: The path to the folder containing the subpages.
+*   `subpages_folder`: The path to the folder containing the subpages. This field is optional. If you don't want to include any subpages, you can remove this line from the configuration file.
 *   `destination_folder`: The folder where the generated Jekyll site will be created.
 *   `media_destination_folder`: The folder where the media files will be copied.
 
