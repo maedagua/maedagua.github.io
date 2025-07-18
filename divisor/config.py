@@ -6,7 +6,7 @@ from typing import Optional
 class SiteMetadata:
     title: str
     theme: str
-    github_pages_url: str
+    github_repository_url: str
     description: str = "Website created with fonte.wiki and Divisor"
     about_page_title: str = "About this site"
     about_page_body: str = ""
