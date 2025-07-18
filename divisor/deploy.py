@@ -5,7 +5,7 @@ class Deployer:
     def __init__(self, site_path: str):
         self.site_path = site_path
 
-    def deploy(self, remote_url):
+    def deploy(self, remote_url, github_token=None):
         """
         Deploys the generated website to GitHub Pages.
         """
@@ -24,6 +24,9 @@ class Deployer:
             repo.git.branch("gh-pages")
 
         # Push to the gh-pages branch
+        if github_token:
+            remote_url = remote_url.replace("https://", f"https://x-access-token:{github_token}@")
+
         try:
             repo.git.remote("add", "origin", remote_url)
         except git.exc.GitCommandError:
