@@ -9,6 +9,12 @@ class Deployer:
         """
         Deploys the generated website to GitHub Pages.
         """
+        # remove .git directory if it exists
+        git_dir = os.path.join(self.site_path, ".git")
+        if os.path.exists(git_dir):
+            import shutil
+            shutil.rmtree(git_dir)
+
         repo = git.Repo.init(self.site_path)
         repo.git.add(A=True)
         repo.index.commit("Deploy to GitHub Pages")
