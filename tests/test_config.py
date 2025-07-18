@@ -35,7 +35,6 @@ license: "MIT"
         self.assertEqual(config.site_metadata.title, "Test Site")
         self.assertEqual(config.source_repository, "https://example.com/repo.git")
         self.assertEqual(config.content_mapping.destination_folder, "site")
-        self.assertEqual(config.license, "MIT")
 
 if __name__ == '__main__':
     unittest.main()

@@ -41,18 +41,19 @@ def generate(config):
     )
 
     # Convert the subpages
-    subpages_source_dir = f"source_repo/{cfg.content_mapping.subpages_folder}"
-    subpages_dest_dir = f"{cfg.content_mapping.destination_folder}"
-    if os.path.exists(subpages_source_dir):
-        for root, _, files in os.walk(subpages_source_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    source_path = os.path.join(root, file)
-                    relative_path = os.path.relpath(source_path, subpages_source_dir)
-                    dest_dir = os.path.join(subpages_dest_dir, os.path.splitext(relative_path)[0])
-                    os.makedirs(dest_dir, exist_ok=True)
-                    dest_path = os.path.join(dest_dir, "index.md")
-                    converter.convert_file(source_path, dest_path, "source_repo")
+    if cfg.content_mapping.subpages_folder:
+        subpages_source_dir = f"source_repo/{cfg.content_mapping.subpages_folder}"
+        subpages_dest_dir = f"{cfg.content_mapping.destination_folder}"
+        if os.path.exists(subpages_source_dir):
+            for root, _, files in os.walk(subpages_source_dir):
+                for file in files:
+                    if file.endswith(".md"):
+                        source_path = os.path.join(root, file)
+                        relative_path = os.path.relpath(source_path, subpages_source_dir)
+                        dest_dir = os.path.join(subpages_dest_dir, os.path.splitext(relative_path)[0])
+                        os.makedirs(dest_dir, exist_ok=True)
+                        dest_path = os.path.join(dest_dir, "index.md")
+                        converter.convert_file(source_path, dest_path, "source_repo")
 
     # Copy the assets
     asset_handler = AssetHandler(cfg)
