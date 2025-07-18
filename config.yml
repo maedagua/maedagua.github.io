@@ -10,6 +10,6 @@ source_repository: "https://github.com/fonte-wiki/Backup-fonte-wiki"
 
 content_mapping:
   home_page_source: "home.md"
-  subpages_folder: "pages"
+  subpages_folder: "<none>"
   destination_folder: "site_contents"
   media_destination_folder: "assets/media"

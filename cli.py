@@ -41,7 +41,7 @@ def generate(config):
     )
 
     # Convert the subpages
-    if cfg.content_mapping.subpages_folder:
+    if cfg.content_mapping.subpages_folder and cfg.content_mapping.subpages_folder != "<none>":
         subpages_source_dir = f"source_repo/{cfg.content_mapping.subpages_folder}"
         subpages_dest_dir = f"{cfg.content_mapping.destination_folder}"
         if os.path.exists(subpages_source_dir):
