@@ -20,6 +20,7 @@ site_metadata:
   description: "Website created with fonte.wiki and Divisor"
   theme: "minima"
   github_repository_url: "https://github.com/your-git-username/your-repository.git" #edit this line
+
   github_pages_url: "https://your-git-username.github.io/your-repository/" #edit this line
   about_page_title: "About this site"
   about_page_body: "This is a sample description paragraph."
@@ -127,3 +128,13 @@ This repository includes a GitHub Actions workflow that automates the process of
 2.  **Checkout and Setup:** The workflow checks out the repository, sets up the Python environment, and installs the required dependencies.
 3.  **Generate Website:** It runs the `python cli.py generate` command to fetch the latest content from the source repository and generate the website.
 4.  **Deploy to GitHub Pages:** Finally, it runs the `python cli.py deploy` command to deploy the generated website to the `gh-pages` branch.
+
+### Workflow Secrets
+
+The workflow requires the following secrets to be set in your repository's settings:
+
+*   `GIT_USER`: The username to use for the commit.
+*   `GIT_EMAIL`: The email address to use for the commit.
+
+You can add these secrets by going to `Settings > Secrets and variables > Actions` in your GitHub repository.
+
