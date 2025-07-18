@@ -3,6 +3,7 @@ site_metadata:
   description: "Website created with fonte.wiki and Divisor"
   theme: "minima"
   github_repository_url: "git@github.com:fonte-wiki/Divisor.git"
+  github_pages_url: "https://fonte-wiki.github.io/Divisor/"
   about_page_title: "About this site"
   about_page_body: "This is a sample description paragraph."
 
