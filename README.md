@@ -51,3 +51,20 @@ The `config.yml` file allows you to customize the generated website. You can def
    ```bash
    python cli.py deploy
    ```
+
+## GitHub Pages Setup
+
+To deploy your website to GitHub Pages, you need to configure your repository correctly.
+
+1.  **Create a `gh-pages` branch:**
+
+    ```bash
+    git checkout --orphan gh-pages
+    git rm -rf .
+    git commit --allow-empty -m "Initial commit"
+    git push origin gh-pages
+    ```
+
+2.  **Configure GitHub Pages:**
+
+    In your repository's settings, go to the "Pages" section and select the `gh-pages` branch as the source for your GitHub Pages site.
