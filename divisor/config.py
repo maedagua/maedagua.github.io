@@ -1,5 +1,6 @@
 import yaml
 from dataclasses import dataclass
+from typing import Optional
 
 @dataclass
 class SiteMetadata:
@@ -9,8 +10,6 @@ class SiteMetadata:
     description: str = "Website created with fonte.wiki and Divisor"
     about_page_title: str = "About this site"
     about_page_body: str = ""
-
-from typing import Optional
 
 @dataclass
 class ContentMapping:
