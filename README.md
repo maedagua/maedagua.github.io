@@ -110,9 +110,7 @@ This option provides a fully automated way to keep your website in sync with you
 
 1.  **Fork the repository:**
     Fork this repository to your own GitHub account or organization.
-2.  **Enable the workflow:**
-    This repository includes a sample workflow file that you can use to automate the website generation and deployment. To enable the workflow, you need to rename the file `.github/workflows/main.yml.sample` to `.github/workflows/main.yml`.
-3.  **Enable workflows in your forked repository:**
+2.  **Enable workflows in your forked repository:**
     By default, GitHub Actions workflows are disabled on forked repositories. To enable them, go to the "Actions" tab in your forked repository and click the "I understand my workflows, go ahead and enable them" button.
 4.  **Configure `config.yml`:**
     Edit the `config.yml` file to customize your website. Ensure that the `github_repository_url` points to your forked repository.
@@ -123,7 +121,7 @@ This option provides a fully automated way to keep your website in sync with you
 
 ## Automated Workflow Details
 
-This repository includes a GitHub Actions workflow that automates the process of generating and deploying the website. The workflow is defined in the `.github/workflows/main.yml.sample` file and consists of the following steps:
+This repository includes a GitHub Actions workflow that automates the process of generating and deploying the website. The workflow is defined in the `.github/workflows/main.yml` file and consists of the following steps:
 
 1.  **Scheduled Trigger:** The workflow is configured to run automatically every hour. It can also be triggered manually from the Actions tab in your GitHub repository.
 2.  **Checkout and Setup:** The workflow checks out the repository, sets up the Python environment, and installs the required dependencies.
