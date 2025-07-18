@@ -12,6 +12,7 @@ site_metadata:
   description: "A test site."
   theme: "minima"
   github_pages_url: "https://example.com"
+  github_repository_url: "https://github.com/user/repo.git"
 
 source_repository: "https://example.com/repo.git"
 
