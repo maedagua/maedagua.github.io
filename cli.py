@@ -64,5 +64,18 @@ def generate(config):
 
     click.echo("Website generated successfully!")
 
+@main.command()
+@click.option("--config", default="config.yml", help="Path to the configuration file.")
+@click.option("--github-token", envvar="GITHUB_TOKEN", help="GitHub token for authentication.")
+def deploy(config, github_token):
+    """
+    Deploys the website to GitHub Pages.
+    """
+    cfg = load_config(config)
+    deployer = Deployer(cfg.content_mapping.destination_folder)
+    remote_url = cfg.site_metadata.github_repository_url
+    deployer.deploy(remote_url, github_token)
+    click.echo("Website deployed successfully!")
+
 if __name__ == "__main__":
     main()
