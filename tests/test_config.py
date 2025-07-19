@@ -1,5 +1,6 @@
 import os
 import unittest
+import yaml
 from divisor.config import load_config, Config, SiteMetadata, ContentMapping
 
 class TestConfig(unittest.TestCase):
