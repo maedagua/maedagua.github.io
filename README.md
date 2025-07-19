@@ -86,11 +86,12 @@ This option is ideal if you want to generate a one-time static website from the 
     bundle install
     bundle exec jekyll serve
     ```
-6.  **Deploy the website:**
+6.  **Deploy the website (Manual Only):**
     To deploy the website to GitHub Pages, run:
     ```bash
     python cli.py deploy
     ```
+    **Note:** This command is intended for manual deployments only. If you are using the automated GitHub Actions setup, you do not need to run this command.
     The destination repository is configured in the `config.yml` file via the `github_repository_url` field.
 7.  **GitHub Pages Setup:**
     To deploy your website to GitHub Pages, you need to configure your repository correctly.
