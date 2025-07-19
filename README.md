@@ -118,7 +118,7 @@ This option provides a fully automated way to keep your website in sync with you
 4.  **Commit and push:**
     Commit the changes to your `config.yml`. The workflow will then automatically generate and deploy your website.
 
-**Note:** The workflow uses the `GITHUB_TOKEN` to authenticate and push to your repository. You don't need to set up any secrets for this to work.
+**Note:** The workflow uses a personal access token (PAT) to authenticate and push to your repository. You need to create a PAT with the `repo` scope and add it as a secret named `GH_PAGES_TOKEN` to your forked repository. You can find instructions on how to create a PAT [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 ## Automated Workflow Details
 
