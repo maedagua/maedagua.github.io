@@ -86,11 +86,12 @@ This option is ideal if you want to generate a one-time static website from the 
     bundle install
     bundle exec jekyll serve
     ```
-6.  **Deploy the website:**
+6.  **Deploy the website (Manual Only):**
     To deploy the website to GitHub Pages, run:
     ```bash
     python cli.py deploy
     ```
+    **Note:** This command is intended for manual deployments only. If you are using the automated GitHub Actions setup, you do not need to run this command.
     The destination repository is configured in the `config.yml` file via the `github_repository_url` field.
 7.  **GitHub Pages Setup:**
     To deploy your website to GitHub Pages, you need to configure your repository correctly.
@@ -110,22 +111,21 @@ This option provides a fully automated way to keep your website in sync with you
 
 1.  **Fork the repository:**
     Fork this repository to your own GitHub account or organization.
-2.  **Enable the workflow:**
-    This repository includes a sample workflow file that you can use to automate the website generation and deployment. To enable the workflow, you need to rename the file `.github/workflows/main.yml.sample` to `.github/workflows/main.yml`.
-3.  **Enable workflows in your forked repository:**
+2.  **Enable workflows in your forked repository:**
     By default, GitHub Actions workflows are disabled on forked repositories. To enable them, go to the "Actions" tab in your forked repository and click the "I understand my workflows, go ahead and enable them" button.
-4.  **Configure `config.yml`:**
+3.  **Configure `config.yml`:**
     Edit the `config.yml` file to customize your website. Ensure that the `github_repository_url` points to your forked repository.
-5.  **Commit and push:**
-    Commit the changes to your `config.yml` and the renamed workflow file. The workflow will then automatically generate and deploy your website.
+4.  **Commit and push:**
+    Commit the changes to your `config.yml`. The workflow will then automatically generate and deploy your website.
 
 **Note:** The workflow uses the `GITHUB_TOKEN` to authenticate and push to your repository. You don't need to set up any secrets for this to work.
 
 ## Automated Workflow Details
 
-This repository includes a GitHub Actions workflow that automates the process of generating and deploying the website. The workflow is defined in the `.github/workflows/main.yml.sample` file and consists of the following steps:
+This repository includes a GitHub Actions workflow that automates the process of generating and deploying the website. The workflow is defined in the `.github/workflows/main.yml` file and consists of the following steps:
 
 1.  **Scheduled Trigger:** The workflow is configured to run automatically every hour. It can also be triggered manually from the Actions tab in your GitHub repository.
 2.  **Checkout and Setup:** The workflow checks out the repository, sets up the Python environment, and installs the required dependencies.
 3.  **Generate Website:** It runs the `python cli.py generate` command to fetch the latest content from the source repository and generate the website.
-4.  **Deploy to GitHub Pages:** Finally, it runs the `python cli.py deploy` command to deploy the generated website to the `gh-pages` branch.
+4.  **Upload Artifact:** The workflow uploads the generated website as an artifact.
+5.  **Deploy to GitHub Pages:** Finally, it deploys the artifact to GitHub Pages.
