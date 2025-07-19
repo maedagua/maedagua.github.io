@@ -74,7 +74,7 @@ This option is ideal if you want to generate a one-time static website from the 
     pip install -r requirements.txt
     ```
 3.  **Configure the website:**
-    Edit the `config.yml` file to customize your website.
+    First, rename `config.yml.sample` to `config.yml`. Then, edit the `config.yml` file to customize your website.
 4.  **Generate the website:**
     ```bash
     python cli.py generate
@@ -114,7 +114,7 @@ This option provides a fully automated way to keep your website in sync with you
 2.  **Enable workflows in your forked repository:**
     By default, GitHub Actions workflows are disabled on forked repositories. To enable them, go to the "Actions" tab in your forked repository and click the "I understand my workflows, go ahead and enable them" button.
 3.  **Configure `config.yml`:**
-    Edit the `config.yml` file to customize your website. Ensure that the `github_repository_url` points to your forked repository.
+    First, rename `config.yml.sample` to `config.yml`. Then, edit the `config.yml` file to customize your website. Ensure that the `github_repository_url` points to your forked repository.
 4.  **Commit and push:**
     Commit the changes to your `config.yml`. The workflow will then automatically generate and deploy your website.
 
