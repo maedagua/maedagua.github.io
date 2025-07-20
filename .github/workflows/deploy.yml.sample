@@ -61,3 +61,5 @@ jobs:
           github_token: ${{ secrets.GH_PAGES_TOKEN }}
           publish_dir: site_contents
           # publish_branch: gh-pages # Explicitly define if not default
+          # disable the nojekyll default option of peaceiris actions
+          disable_nojekyll: true # Tells the action NOT to add a .nojekyll file
