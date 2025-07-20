@@ -12,22 +12,38 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed for pushing to gh-pages branch
+      actions: read # Potentially needed for listing artifacts via CLI, safer to include
     steps:
       - name: Checkout repository code
         uses: actions/checkout@v3
 
+      - name: List available artifacts from triggering workflow
+        run: |
+          echo "Attempting to list artifacts from triggering run ID: ${{ github.event.workflow_run.id }}"
+          gh auth setup-git
+          gh api \
+            --method GET \
+            -H "Accept: application/vnd.github.v3+json" \
+            /repos/${{ github.event.workflow_run.head_repository.full_name }}/actions/runs/${{ github.event.workflow_run.id }}/artifacts \
+            | jq '.artifacts[] | {name, size_in_bytes, created_at}'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Download website artifact
         uses: actions/download-artifact@v4
         with:
-          name: jekyll-site-contents # Must match the artifact name from generate-website.yml
+          name: jekyll-site-contents
           path: site_contents
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Default token for internal repo access.
-          # These parameters are crucial for workflow_run to correctly identify the source artifact
+          # --- FIX IS HERE ---
+          github-token: ${{ secrets.GITHUB_TOKEN }} # Changed from github_token
           repository: ${{ github.event.workflow_run.head_repository.full_name }}
-          run_id: ${{ github.event.workflow_run.id }}
+          run-id: ${{ github.event.workflow_run.id }} # Changed from run_id
+          # --- END FIX ---
 
       - name: Verify downloaded site_contents directory
         run: |
+          echo "Current directory after artifact download:"
+          pwd
           echo "Listing contents of 'site_contents' after download:"
           ls -la site_contents
           if [ ! -d "site_contents" ]; then
@@ -42,7 +58,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAGES_TOKEN }} # Use your specific token for deploying to Pages
+          github_token: ${{ secrets.GH_PAGES_TOKEN }}
           publish_dir: site_contents
-          # The default branch is 'gh-pages', but you can explicitly set it:
-          # publish_branch: gh-pages
+          # publish_branch: gh-pages # Explicitly define if not default
