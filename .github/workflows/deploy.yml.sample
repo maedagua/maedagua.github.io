@@ -1,8 +1,9 @@
-name: Deploy Website
+# .github/workflows/deploy-website.yml
+name: Deploy Website to GitHub Pages
 
 on:
   workflow_run:
-    workflows: ["Generate and Deploy Website"]
+    workflows: ["Generate Jekyll Website"]
     types:
       - completed
 
@@ -10,22 +11,38 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Needed for pushing to gh-pages branch
     steps:
-      - name: Checkout
+      - name: Checkout repository code
         uses: actions/checkout@v3
 
-      - name: Download artifact
+      - name: Download website artifact
         uses: actions/download-artifact@v4
         with:
-          name: github-pages
+          name: jekyll-site-contents # Must match the artifact name from generate-website.yml
           path: site_contents
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Default token for internal repo access.
+          # These parameters are crucial for workflow_run to correctly identify the source artifact
           repository: ${{ github.event.workflow_run.head_repository.full_name }}
           run_id: ${{ github.event.workflow_run.id }}
+
+      - name: Verify downloaded site_contents directory
+        run: |
+          echo "Listing contents of 'site_contents' after download:"
+          ls -la site_contents
+          if [ ! -d "site_contents" ]; then
+            echo "Error: 'site_contents' directory does not exist after download!"
+            exit 1
+          fi
+          if [ -z "$(ls -A site_contents)" ]; then
+            echo "Error: 'site_contents' directory is empty after download. Nothing to deploy!"
+            exit 1
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAGES_TOKEN }}
+          github_token: ${{ secrets.GH_PAGES_TOKEN }} # Use your specific token for deploying to Pages
           publish_dir: site_contents
+          # The default branch is 'gh-pages', but you can explicitly set it:
+          # publish_branch: gh-pages
