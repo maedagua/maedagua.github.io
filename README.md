@@ -80,7 +80,7 @@ This option is ideal if you want to generate a one-time static website from the 
     python cli.py generate
     ```
     **Note:** This command will always fetch the latest content from the source repository before generating the website.
-5.  **Preview the website:**
+5.  **Preview the website locally (Requires Ruby/Jekyll):**
     To preview your site locally, you'll need to have Ruby and Bundler installed. Then, `cd` into your generated site's directory and run:
     ```bash
     bundle install
@@ -94,38 +94,123 @@ This option is ideal if you want to generate a one-time static website from the 
     **Note:** This command is intended for manual deployments only. If you are using the automated GitHub Actions setup, you do not need to run this command.
     The destination repository is configured in the `config.yml` file via the `github_repository_url` field.
 7.  **GitHub Pages Setup:**
-    To deploy your website to GitHub Pages, you need to configure your repository correctly.
-    *   **Create a `gh-pages` branch:**
-        ```bash
-        git checkout --orphan gh-pages
-        git rm -rf .
-        git commit --allow-empty -m "Initial commit"
-        git push origin gh-pages
-        ```
-    *   **Configure GitHub Pages:**
-        In your repository's settings, go to the "Pages" section and select the `gh-pages` branch as the source for your GitHub Pages site.
+    If you manually deploy your generated Jekyll source files to a gh-pages branch, you need to configure GitHub Pages:
+    * **Ensure `gh-pages` branch exists:**
+    If it doesn't, create it:
+    ```bash
+    git checkout --orphan gh-pages
+    git rm -rf . # Remove all files from the new orphan branch
+    git commit --allow-empty -m "Initial gh-pages commit"
+    git push origin gh-pages
+    git checkout main # Go back to your main branch
+    ```
+
+    * **Configure GitHub Pages:**
+    In your GitHub repository's `Settings > Pages` section:
+        * Set "Source" to "Deploy from a branch".
+        * Select the `gh-pages` branch and / (root) folder.
+        * Click "Save".
 
 ### Option B: Automated Setup with GitHub Actions
 
 This option provides a fully automated way to keep your website in sync with your source repository.
 
-1.  **Fork the repository:**
-    Fork this repository to your own GitHub account or organization.
+1.  **Fork Divisor to your GitHub account:**
+    Fork this repository (`https://github.com/fonte-wiki/divisor`) to your own GitHub account or organization.
 2.  **Enable workflows in your forked repository:**
     By default, GitHub Actions workflows are disabled on forked repositories. To enable them, go to the "Actions" tab in your forked repository and click the "I understand my workflows, go ahead and enable them" button.
-3.  **Configure `config.yml`:**
-    First, rename `config.yml.sample` to `config.yml`. Then, edit the `config.yml` file to customize your website. Ensure that the `github_repository_url` points to your forked repository.
-4.  **Commit and push:**
-    Commit the changes to your `config.yml`. The workflow will then automatically generate and deploy your website.
+3. **Rename Workflow Files:**
+    The workflow files are provided with a .sample extension to prevent them from running automatically in the main Divisor repository. For automated deployment in your forked repository, you need to rename them:
+    * Rename `.github/workflows/generate-website.yml-sample` to `.github/workflows/generate-website.yml`
+    * Rename `.github/workflows/deploy-website.yml-sample` to `.github/workflows/deploy-website.yml`
+    You can do this directly on GitHub's web interface or by cloning the repository, renaming locally, and pushing the changes.
+4.  **Configure GitHub Pages settings:**
+    Before your first deployment, ensure your GitHub Pages are set up:
+    * Navigate to your forked repository on GitHub.
+    * Go to `Settings > Pages`.
+    * Under "Build and deployment", ensure:
+        * "Source" is set to "Deploy from a branch".
+        * "Branch" is set to `gh-pages` and `/ (root)`.
+    * Click "Save".
+    (GitHub will automatically create the gh-pages branch on the first successful push by the deployment action.)
+5. **Set up GitHub Secrets:**
+    The automated workflow uses a Personal Access Token (PAT) to authenticate and push the generated Jekyll site to your `gh-pages` branch. You need to create this PAT and add it as a repository secret.
+    * **Generate a Personal Access Token (PAT):**
+        * Go to your GitHub profile settings: `Settings > Developer settings > Personal access tokens > Tokens (classic)`.
+        * Click "Generate new token (classic)".
+        * **Note:** Give it a descriptive name (e.g., `Divisor GH Pages Deploy Token`).
+        * **Expiration:** Set an appropriate expiration (e.g., 90 days, 1 year, or "No expiration" for continuous deployment, though regular rotation is good practice).
+        * **Select Scopes:** Crucially, enable the `repo` scope. This grants the token sufficient permissions to push content to your `gh-pages` branch.
+        * Click "Generate token" and **immediately copy the token value**. You will not see it again.
+    * **Add the PAT as a Repository Secret:**
+        * Navigate to your forked Divisor repository on GitHub.
+        * Go to `Settings > Secrets and variables > Actions`.
+        * Click "New repository secret".
+        * **Name:** Enter `GH_PAGES_TOKEN` (this name must match exactly what is used in the `deploy-website.yml` workflow).
+        * **Value:** Paste the PAT you copied in the previous step.
+        * Click "Add secret".
+6.  **Configure Divisor's `config.yml`:**
+    * Rename `config.yml.sample` to `config.yml`.
+    * Edit the `config.yml` file to customize your website.
+    * Crucially, ensure `site_metadata.github_pages_url` is set correctly for your forked repository's GitHub Pages URL. For example, if your forked repo is `your-username/divisor`, github_pages_url should be `https://your-username.github.io/divisor/`.
+    * The baseurl generated by Divisor in `_config.yml` (within `site_contents`) will be derived from this, and it must match your GitHub Pages path (e.g., `/divisor`).
+7.  **Workflow Files Setup:**
+    The necessary GitHub Actions workflow files are already included in the `.github/workflows/` directory of this repository, but require renaming as described in step 3.
+8.  **Commit and push:**
+    Commit your `config.yml` changes (and the renamed workflow files from step 3) to your forked repository. A `push` event will automatically trigger the `generate-website.yml` workflow, which, upon completion, will trigger the `deploy-website.yml` workflow.
 
-**Note:** The workflow uses a personal access token (PAT) to authenticate and push to your repository. You need to create a PAT with the `repo` scope and add it as a secret named `GH_PAGES_TOKEN` to your forked repository. You can find instructions on how to create a PAT [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
 ## Automated Workflow Details
 
-This repository includes a GitHub Actions workflow that automates the process of generating and deploying the website. The workflow is defined in the `.github/workflows/main.yml` file and consists of the following steps:
+This repository includes two GitHub Actions workflows that automate the process of generating and deploying the website:
 
-1.  **Scheduled Trigger:** The workflow is configured to run automatically every hour. It can also be triggered manually from the Actions tab in your GitHub repository.
-2.  **Checkout and Setup:** The workflow checks out the repository, sets up the Python environment, and installs the required dependencies.
-3.  **Generate Website:** It runs the `python cli.py generate` command to fetch the latest content from the source repository and generate the website.
-4.  **Upload Artifact:** The workflow uploads the generated website as an artifact.
-5.  **Deploy to GitHub Pages:** Finally, it deploys the artifact to GitHub Pages.
+1.  `generate-website.yml`:
+    * **Triggers:** Runs automatically every hour (`cron: '0 * * * *'`), can be triggered manually via `workflow_dispatch`, or on every `push` to the repository.
+    * **Steps:** Checks out the repository, sets up the Python environment, installs dependencies, runs `python cli.py generate` to fetch content and create the Jekyll source files in `site_contents`. It then uploads these generated files as a GitHub Action artifact named `jekyll-site-source`.
+2.  `deploy-website.yml`:
+    * **Triggers:** Activated automatically (`workflow_run`) once the `generate-website.yml` workflow successfully completes.
+    * **Steps:** Checks out the repository, downloads the `jekyll-site-source `artifact from the completed `generate-website.yml` run. It then uses the `peaceiris/actions-gh-pages` action to push the Jekyll source to your `gh-pages` branch. Crucially, the `disable_nojekyll: true` option is used to ensure GitHub Pages processes your content as a Jekyll site (rather than serving it as plain static files).
+
+## Using Custom Jekyll Themes with GitHub Pages
+
+Since Divisor generates standard Jekyll source files, you can leverage Jekyll's powerful theming capabilities directly through GitHub Pages.
+
+**Key Considerations for Themes:**
+
+* GitHub Pages Theme Compatibility: GitHub Pages only supports a [specific set of Jekyll themes](https://pages.github.com/themes/) and a limited set of plugins. If your chosen theme or its required plugins are not on this list, your Jekyll build on GitHub Pages will fail. Always verify compatibility.
+
+* `_config.yml baseurl:` For GitHub Pages "Project Sites" (e.g., `https://username.github.io/your-repository/`), the `baseurl` in the `_config.yml` generated by Divisor must be set to the repository name, e.g., `baseurl: /divisor`. Divisor handles this based on your `site_metadata.github_pages_url` in `config.yml`.
+* **Theme Specification:** Themes are specified in your `_config.yml` (which Divisor generates).
+
+**Steps to use an alternative Jekyll theme:**
+
+1.  **Choose a Compatible Theme:**
+    * Browse themes from the [GitHub Pages Themes website](https://pages.github.com/themes/). These are guaranteed to work.
+    * Explore "remote themes" from the `pages-themes` organization on GitHub (e.g., `pages-themes/cayman`). These are also generally compatible.
+    * If using a custom theme, ensure it primarily uses Jekyll's built-in features and supported plugins.
+2. **Update Divisor's `config.yml`:**
+    Modify your `config.yml` (the input file for `python cli.py generate`) to specify your desired theme under the `site_metadata` section. Divisor will then use this to configure the `_config.yml` it generates for Jekyll.
+    * **Example for a GitHub Pages supported theme (gem-based):**
+
+    ```yaml
+    # In your Divisor's config.yml
+    site_metadata:
+    # ... other settings ...
+    theme: jekyll-theme-cayman # Example: use the 'cayman' theme
+    # ...
+    ```
+    (Make sure your generated `_config.yml` also includes `remote_theme: "pages-themes/cayman@vX.Y.Z"` if it's a remote theme, or just `theme: jekyll-theme-cayman` if it's a gem-based theme.)
+    * Example for a remote theme (e.g., from `pages-themes` organization):
+
+    ```yaml
+    # In your Divisor's config.yml
+    site_metadata:
+      # ... other settings ...
+      theme: "pages-themes/architect@v0.2.0" # Example: use Architect remote theme
+      # ...
+    ```
+    (Divisor should ensure that the generated `_config.yml` also includes plugins: `[jekyll-remote-theme]` if `jekyll-remote-theme` is required by `peaceiris/actions-gh-pages` for this theme, which is often the case for remote themes.)
+3. **Commit and Push:**
+    Commit the changes to your `config.yml` and push them to your Divisor repository. The GitHub Actions workflows will automatically re-generate your Jekyll site with the new theme configuration and deploy it to GitHub Pages.
+4. **Monitor GitHub Pages Build Logs:**
+    After deployment, always check the pages-build-deployment workflow in your repository's Actions tab or in Settings > Pages. This log provides crucial details on whether Jekyll successfully built your site with the new theme or if any theme-related errors (e.g., incompatible plugins) occurred.
