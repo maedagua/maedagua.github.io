@@ -77,5 +77,25 @@ def deploy(config, github_token):
     deployer.deploy(remote_url, github_token)
     click.echo("Website deployed successfully!")
 
+@main.command()
+def themes():
+    """
+    Lists the available Jekyll themes for GitHub Pages.
+    """
+    click.echo("Available themes:")
+    click.echo("- architect")
+    click.echo("- cayman")
+    click.echo("- dinky")
+    click.echo("- hacker")
+    click.echo("- leap-day")
+    click.echo("- merlot")
+    click.echo("- midnight")
+    click.echo("- minima")
+    click.echo("- minimal")
+    click.echo("- modernist")
+    click.echo("- slate")
+    click.echo("- tactile")
+    click.echo("- time-machine")
+
 if __name__ == "__main__":
     main()

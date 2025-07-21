@@ -1,6 +1,7 @@
 site_metadata:
   title: "My Awesome Website"
   description: "Website created with fonte.wiki and Divisor"
+  # Available themes: architect, cayman, dinky, hacker, leap-day, merlot, midnight, minima, minimal, modernist, slate, tactile, time-machine
   theme: "minima"
   github_repository_url: "git@github.com:your-git-username/your-repository.git" #edit this line
   github_pages_url: "https://your-git-username.github.io/your-repository/" #edit this line
