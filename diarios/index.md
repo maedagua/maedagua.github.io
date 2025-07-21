@@ -6,7 +6,6 @@ date: 2025-07-12 11:14:10.952000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-12 11:14:10.952000+00:00
-layout: default
 ---
 
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***

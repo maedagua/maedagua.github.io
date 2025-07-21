@@ -6,7 +6,6 @@ date: 2025-07-21 10:21:51.826000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
-layout: default
 ---
 
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
