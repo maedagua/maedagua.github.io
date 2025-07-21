@@ -192,3 +192,12 @@ site_metadata:
 ```
 
 Depois de alterar o tema, faça o commit das alterações no seu arquivo `config.yml`. Se você estiver usando a configuração automatizada, o fluxo de trabalho do GitHub Actions irá regenerar e implantar automaticamente seu site com o novo tema.
+
+## Templates e Layouts Personalizados
+
+Você pode personalizar a aparência do seu site fornecendo seus próprios templates e layouts. Para fazer isso, crie os diretórios `_layouts` e `_includes` dentro do diretório `divisor`.
+
+*   `divisor/_layouts`: Coloque seus layouts personalizados neste diretório.
+*   `divisor/_includes`: Coloque seus includes personalizados neste diretório.
+
+Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
