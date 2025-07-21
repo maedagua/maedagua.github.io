@@ -1,0 +1,65 @@
+# .github/workflows/deploy-website.yml
+name: Deploy Website to GitHub Pages
+
+on:
+  workflow_run:
+    workflows: ["Generate Jekyll Website"]
+    types:
+      - completed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed for pushing to gh-pages branch
+      actions: read # Potentially needed for listing artifacts via CLI, safer to include
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v3
+
+      - name: List available artifacts from triggering workflow
+        run: |
+          echo "Attempting to list artifacts from triggering run ID: ${{ github.event.workflow_run.id }}"
+          gh auth setup-git
+          gh api \
+            --method GET \
+            -H "Accept: application/vnd.github.v3+json" \
+            /repos/${{ github.event.workflow_run.head_repository.full_name }}/actions/runs/${{ github.event.workflow_run.id }}/artifacts \
+            | jq '.artifacts[] | {name, size_in_bytes, created_at}'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download website artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: jekyll-site-contents
+          path: site_contents
+          # --- FIX IS HERE ---
+          github-token: ${{ secrets.GITHUB_TOKEN }} # Changed from github_token
+          repository: ${{ github.event.workflow_run.head_repository.full_name }}
+          run-id: ${{ github.event.workflow_run.id }} # Changed from run_id
+          # --- END FIX ---
+
+      - name: Verify downloaded site_contents directory
+        run: |
+          echo "Current directory after artifact download:"
+          pwd
+          echo "Listing contents of 'site_contents' after download:"
+          ls -la site_contents
+          if [ ! -d "site_contents" ]; then
+            echo "Error: 'site_contents' directory does not exist after download!"
+            exit 1
+          fi
+          if [ -z "$(ls -A site_contents)" ]; then
+            echo "Error: 'site_contents' directory is empty after download. Nothing to deploy!"
+            exit 1
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_PAGES_TOKEN }}
+          publish_dir: site_contents
+          # publish_branch: gh-pages # Explicitly define if not default
+          # disable the nojekyll default option of peaceiris actions
+          disable_nojekyll: true # Tells the action NOT to add a .nojekyll file
