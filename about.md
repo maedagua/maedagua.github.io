@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saiba mais
+title: Saiba Mais
 ---
 
-Mãe D'água é um laboratório experimental de ciência cidadã, cultura oceânica e tecnologia, baseado na Universidade Santa Cecília, em Santos. Este site foi gerado automaticamente a partir da seção do Lab Mãe D'água na fonte.wiki, usando o software livre Divisor.
+Lab Mãe D'Água é um projeto experimental em parceria com a Universidade Santa Cecília, em Santos / SP.
