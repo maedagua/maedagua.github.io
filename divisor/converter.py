@@ -43,8 +43,14 @@ class Converter:
         if dest_path.endswith("index.md") and self.config.site_metadata.description:
             content_body = f"***{self.config.site_metadata.description}***\n\n" + content_body
 
+        with open(os.path.join(os.path.dirname(__file__), "_includes", "header.html"), "r") as f:
+            header_content = f.read()
+        with open(os.path.join(os.path.dirname(__file__), "_includes", "footer.html"), "r") as f:
+            footer_content = f.read()
+
         # Re-assemble the file
         new_content = self.add_front_matter(content_body, front_matter)
+        new_content = header_content + new_content + footer_content
 
         with open(dest_path, "w") as f:
             f.write(new_content)

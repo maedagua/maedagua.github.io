@@ -63,19 +63,26 @@ class JekyllSite:
         Creates the about page from the config.
         """
         about_path = os.path.join(self.path, "about.md")
+        with open(os.path.join(os.path.dirname(__file__), "_includes", "header.html"), "r") as f:
+            header_content = f.read()
+        with open(os.path.join(os.path.dirname(__file__), "_includes", "footer.html"), "r") as f:
+            footer_content = f.read()
+
         with open(about_path, "w") as f:
             f.write("---\n")
             f.write("layout: default\n")
             f.write(f"title: {self.config.site_metadata.about_page_title}\n")
             f.write("---\n")
+            f.write(header_content)
             f.write(f"\n{self.config.site_metadata.about_page_body}\n")
+            f.write(footer_content)
 
     def copy_template_files(self):
         """
         Copies the template files (_layouts, _includes, assets) to the generated site.
         """
         template_dir = os.path.dirname(__file__)
-        for dir_name in ["_includes", "_layouts"]:
+        for dir_name in ["_includes"]:
             source_dir = os.path.join(template_dir, dir_name)
             dest_dir = os.path.join(self.path, dir_name)
             if os.path.exists(source_dir):
