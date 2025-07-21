@@ -192,3 +192,12 @@ site_metadata:
 ```
 
 After changing the theme, commit the changes to your `config.yml` file. If you are using the automated setup, the GitHub Actions workflow will automatically regenerate and deploy your website with the new theme.
+
+## Custom Templates and Layouts
+
+You can customize the look and feel of your website by providing your own templates and layouts. To do this, create `_layouts` and `_includes` directories inside the `divisor` directory.
+
+*   `divisor/_layouts`: Place your custom layouts in this directory.
+*   `divisor/_includes`: Place your custom includes in this directory.
+
+When you run the `generate` command, Divisor will copy the contents of these directories to the generated site, overwriting any default files with the same name. This allows you to either add new templates or override the default ones provided by the theme.
