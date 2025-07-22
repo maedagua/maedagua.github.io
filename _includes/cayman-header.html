@@ -1,5 +1,11 @@
 <header class="page-header" role="banner">
-  <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-  <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-  <a href="/about" class="btn">Saiba Mais</a>
+  <h1 class="project-name">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  </h1>
+  <h2 class="project-tagline">
+    {{ Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia }}
+  </h2>
+  <a href="/about" class="btn">
+    Saiba Mais
+  </a>
 </header>
