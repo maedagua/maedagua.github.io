@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-21 10:21:51.826000+00:00
+date: 2025-07-23 20:04:40.640000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -13,22 +13,30 @@ dateCreated: 2025-06-28 16:10:28.630000+00:00
 
 # Lab Mãe D'água
 
+
+![maedagua.png]({{ '/assets/media/maedagua.png' | relative_url }})
+
+Teste do primeiro protótipo [Mãe d'Água em 2012](https://www.flickr.com/photos/maedagua/), no Caruara, Santos, Brasil. 
+
+
 ## SOBRE
 
-![capalab.png]({{ '/assets/media/capalab.png' | relative_url }})
+**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [excasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
 
-Repositório wiki: https://fonte.wiki/projetos/maedagua
+Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://www.metareciclagem.org/). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf).
 
-pic: Faw Carvalho
+- github guima//bailux
+- pubs de 2012
 
-.Quando o projeto começou (unisanta 2012, links das publicações [Referências]({{ '/referencias' | relative_url }}), hiperguardiões, o que guima fez depois. Infoamazonia, Bailux, etc, [Histórico]({{ '/historico' | relative_url }})
-.Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
+Em 2025, a proposta ressurge como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
-Onde está sediado atualmente.
+Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## **OBJETIVOS**
 
 .pensar em um equilíbrio semente x tragedia do commons.
+dopplerganger
+https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/
 
 ## **FRENTES DE PESQUISA**
 
@@ -51,7 +59,7 @@ _ Minidocumentário (depois)
 
 O que é lalallal, nome, número do edital
 
-.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD)
+.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD) .Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
 - [Tecnologias Críticas e Instrumentos Científicos Abertos]({{ '/tecnologiascriticas' | relative_url }}) Guima/Ian - Cobric 2025
 
 ## **PUBLICAÇÕES**
