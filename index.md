@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-25 00:48:38.992000+00:00
+date: 2025-07-25 12:51:07.183000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
