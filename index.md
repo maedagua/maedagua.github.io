@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-25 17:09:47.681000+00:00
+date: 2025-07-25 17:46:44.522000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -64,12 +64,13 @@ _ ZASF + Sensores (depois)
 _ Minidocumentário (depois)
 
 
-### FAPESP
+### FAPESP PRATICAR CIÊNCIA 2025/03919-2 
 
-O que é lalallal, nome, número do edital
+###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia
 
-.criar uma narrativa visual, open design, design instrucional, licenças livres (Kel/ LACO e LAD) .Mãe d'água como Orixá, tecnomagia, colaborações e desenvolvimento de tecnologias com outras narrativas.
-- [Tecnologias Críticas e Instrumentos Científicos Abertos]({{ '/tecnologiascriticas' | relative_url }}) Guima/Ian - Cobric 2025
+[Nesta proposta](https://fapesp.br/17237/edital-praticar-ciencia), **Lab Mãe d´Água** tem como objetivo promover o ensino de Ciências da Natureza no Ensino Médio por meio de atividades e trabalhos que visam o aprendizado baseado em pesquisa experimental, envolvendo a pesquisa e o desenvolvimento de:
+- [Design Aberto e outras narrativas sobre tecnologias]({{ '/designenarrativas' | relative_url }})
+- [Tecnologias Críticas e Instrumentos Científicos Abertos]({{ '/tecnologiascriticas' | relative_url }})
 
 ## **PUBLICAÇÕES**
 
