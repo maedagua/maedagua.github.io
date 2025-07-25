@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-25 12:51:07.183000+00:00
+date: 2025-07-25 17:09:47.681000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -27,9 +27,9 @@ Aqui **Mãe d'Água** se desenvolve (desde 2012) como uma [TAZ](http://www.mom.a
 
 Naquela época, as atividades desenvolvidas geraram duas publicações:
 
-**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. Tropixel: arte, ciência, tecnologia e sociedade. 1ed. Salvador: EDUFBA, 2015, p. 165-188.
+**Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 
-**Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. Revista LABVERDE, v. 1, p. 144-158, 2013.
+**Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
 Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
 
@@ -48,7 +48,8 @@ Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é
 
 ## **FRENTES DE PESQUISA**
 
-Atualmente se desdobra dem 2 iniciativas de pesquisa, recebendo fomento para suas diferentes frentes:
+Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/):
+
 
 ### CAPES
 
