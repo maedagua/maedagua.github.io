@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-26 20:28:20.201000+00:00
+date: 2025-07-26 23:10:23.215000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -31,7 +31,7 @@ Naquela época, as atividades desenvolvidas geraram duas publicações:
 
 **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
-Posteriormente Mãe d´Água permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
+Posteriormente **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
 
 Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions) como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
@@ -61,7 +61,7 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
 - [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida]({{ '/direitoszonascosteiras' | relative_url }})
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins]({{ '/eeji' | relative_url }})
-- [A Importância da Criação de Manutenção de Repositórios Abertos como Ambientes de Experimentação]({{ '/repositoriosabertos' | relative_url }})
+- [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação]({{ '/repositoriosabertos' | relative_url }})
 - ZASF + Sensores (2026)
 - Minidocumentário (2026)
 
