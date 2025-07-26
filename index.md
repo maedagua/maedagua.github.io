@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-25 17:46:44.522000+00:00
+date: 2025-07-26 20:02:42.862000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -48,22 +48,24 @@ Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é
 
 ## **FRENTES DE PESQUISA**
 
-Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/):
+Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/)
+
+![imag1.png]({{ '/assets/media/imag1.png' | relative_url }})
 
 
-### CAPES
+### CAPES SESU PROEXT-PG 03/2024 
 
-O que é lalallal, nome, número do edital
+###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
+[A proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
-Atividades de Extensão COLAB, conteúdeo/aula em vídeo + artigo sobre temas específicos da nossa realidade:
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
-- [Zonas Costeiras: direito dos ecossistemas e qualidade de vida]({{ '/direitoszonascosteiras' | relative_url }})
+- [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida]({{ '/direitoszonascosteiras' | relative_url }})
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins]({{ '/eeji' | relative_url }})
-- repositórios abertos//citar queda cultura digital, critica aos fablabs, ciencia aberta e cidada para pessoas;
-_ ZASF + Sensores (depois)
-_ Minidocumentário (depois)
+- [A Importância da Criação de Manutenção de Repositórios Abertos como Ambientes de Experimentação]({{ '/repositoriosabertos' | relative_url }})
+- ZASF + Sensores (2026)
+- Minidocumentário (2026)
 
-
+![img2.png]({{ '/assets/media/img2.png' | relative_url }})
 ### FAPESP PRATICAR CIÊNCIA 2025/03919-2 
 
 ###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia

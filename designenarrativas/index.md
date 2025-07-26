@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: None
 published: True
-date: 2025-07-26 19:09:09.827000+00:00
+date: 2025-07-26 19:35:25.762000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
