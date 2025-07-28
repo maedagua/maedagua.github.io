@@ -1,12 +1,14 @@
 # Divisor (de águas)
 
-O Divisor é uma ferramenta baseada em Python que automatiza a criação de um site com tecnologia Jekyll a partir de um repositório Git existente que mantém um backup de um site com tecnologia wiki.js.
+Divisor é uma ferramenta baseada em Python que automatiza a criação de um site com tecnologia Jekyll a partir de um repositório Git. Por padrão, usa o repositório de Backup da fonte.wiki.
 
 A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem ter que configurar manualmente um ambiente Jekyll ou gerenciar o processo de conversão de conteúdo manualmente. O site resultante será implantado no GitHub Pages por padrão.
 
+Divisor foi criado no âmbito do [Lab Mãe D'Água](https://fonte.wiki/projetos/maedagua).
+
 ## Como funciona
 
-O primeiro passo básico é buscar o conteúdo do repositório de origem. Em seguida, a ferramenta irá gerar um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado será colocado na `destination_folder` definida no arquivo de configuração.
+Divisor parte do conteúdo do repositório de origem. Em seguida, a ferramenta irá gerar um site Jekyll com base no arquivo de configuração `config.yml`. O site gerado será colocado na `destination_folder` definida no arquivo de configuração.
 
 O arquivo `config.yml` permite que você personalize o site gerado. Você pode definir o título, a descrição, o tema e outras opções do site. Você também pode mapear arquivos e pastas específicos do seu repositório de origem para o site gerado.
 
@@ -95,7 +97,7 @@ Esta opção é ideal se você deseja gerar um site estático único a partir do
     O repositório de destino é configurado no arquivo `config.yml` através do campo `github_repository_url`.
 7.  **Configuração do GitHub Pages:**
     Se você implantar manualmente seus arquivos de origem Jekyll gerados em um branch gh-pages, precisará configurar o GitHub Pages:
-    * **Garanta que o branch `gh-pages` exista:**
+    * **Certifique-se de que o branch `gh-pages` exista:**
     Se não existir, crie-o:
     ```bash
     git checkout --orphan gh-pages
@@ -204,7 +206,7 @@ Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses
 
 ### Personalizando o CSS
 
-Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar.
+Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar. Para o tema `minima`, você também pode personalizar as variáveis do tema criando um arquivo `main.scss` no diretório `divisor/assets/minima`.
 
 ## Limpando o ambiente
 

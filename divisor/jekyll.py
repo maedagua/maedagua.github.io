@@ -90,3 +90,21 @@ class JekyllSite:
             if os.path.exists(custom_source_dir):
                 import shutil
                 shutil.copytree(custom_source_dir, dest_dir, dirs_exist_ok=True)
+
+        # Copy extended.css
+        source_dir = os.path.join(template_dir, "assets")
+        dest_dir = os.path.join(self.path, "assets")
+        if os.path.exists(source_dir):
+            import shutil
+            if not os.path.exists(dest_dir):
+                os.makedirs(dest_dir)
+            shutil.copy2(os.path.join(source_dir, "extended.css"), dest_dir)
+
+        if self.config.site_metadata.theme == "minima":
+            source_dir = os.path.join(template_dir, "assets", "minima")
+            dest_dir = os.path.join(self.path, "assets")
+            if os.path.exists(source_dir):
+                import shutil
+                if not os.path.exists(dest_dir):
+                    os.makedirs(dest_dir)
+                shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
