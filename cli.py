@@ -28,6 +28,7 @@ def generate(config):
     fetcher.fetch()
 
     # Create the Jekyll site structure
+    print(f"Destination folder: {cfg.content_mapping.destination_folder}")
     site = JekyllSite(cfg.content_mapping.destination_folder, cfg)
     site.create_structure()
 
@@ -96,6 +97,19 @@ def themes():
     click.echo("- slate")
     click.echo("- tactile")
     click.echo("- time-machine")
+
+@main.command()
+def clean():
+    """
+    Removes the source_repo and site_contents directories.
+    """
+    import shutil
+    if os.path.exists("source_repo"):
+        shutil.rmtree("source_repo")
+        click.echo("Removed source_repo directory.")
+    if os.path.exists("site_contents"):
+        shutil.rmtree("site_contents")
+        click.echo("Removed site_contents directory.")
 
 if __name__ == "__main__":
     main()

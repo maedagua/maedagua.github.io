@@ -201,3 +201,11 @@ Você pode personalizar a aparência do seu site fornecendo seus próprios templ
 *   `divisor/_includes`: Coloque seus includes personalizados neste diretório.
 
 Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
+
+## Limpando o ambiente
+
+Para remover os diretórios `source_repo` e `site_contents`, você pode usar o comando `clean`:
+
+```bash
+python cli.py clean
+```
