@@ -75,7 +75,7 @@ class JekyllSite:
         Copies the template files (_layouts, _includes, assets) to the generated site.
         """
         template_dir = os.path.dirname(__file__)
-        for dir_name in ["_includes", "_layouts", "assets"]:
+        for dir_name in ["_includes", "_layouts"]:
             # Copy default templates
             source_dir = os.path.join(template_dir, dir_name)
             dest_dir = os.path.join(self.path, dir_name)
@@ -85,8 +85,25 @@ class JekyllSite:
                     os.makedirs(dest_dir)
                 shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
 
+        # Copy assets, excluding minima.scss if the theme is not minima
+        source_dir = os.path.join(template_dir, "assets")
+        dest_dir = os.path.join(self.path, "assets")
+        if os.path.exists(source_dir):
+            import shutil
+            if not os.path.exists(dest_dir):
+                os.makedirs(dest_dir)
+            for item in os.listdir(source_dir):
+                s = os.path.join(source_dir, item)
+                d = os.path.join(dest_dir, item)
+                if os.path.isdir(s):
+                    shutil.copytree(s, d, dirs_exist_ok=True)
+                else:
+                    if item == "minima.scss" and self.config.site_metadata.theme != "minima":
+                        continue
+                    shutil.copy2(s, d)
+
             # Copy custom templates if they exist
-            custom_source_dir = os.path.join("divisor", dir_name)
+            custom_source_dir = os.path.join("divisor", "assets")
             if os.path.exists(custom_source_dir):
                 import shutil
                 shutil.copytree(custom_source_dir, dest_dir, dirs_exist_ok=True)
