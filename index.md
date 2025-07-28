@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-07-28 09:24:09.167000+00:00
+date: 2025-07-28 20:01:28.713000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -58,11 +58,11 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
-- [Zonas Costeiras: Direito dos Ecossistemas e Qualidade de Vida]({{ '/direitoszonascosteiras' | relative_url }})
+- [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento]({{ '/direitoszonascosteiras' | relative_url }})
 - [Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins]({{ '/eeji' | relative_url }})
 - [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação]({{ '/repositoriosabertos' | relative_url }})
 - ZASF + Sensores (2026)
-- Minidocumentário (2026)
+- Minidocumentário (2027)
 
 ![img2.png]({{ '/assets/media/img2.png' | relative_url }})
 
@@ -84,9 +84,13 @@ Em breve
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 
+## Ficha Técnica
+Em breve
+
 ----------------------------
 
 ## Seções do site
 
 - [Diários de pesquisa]({{ '/diarios' | relative_url }})
 - [Jardinagem Geral]({{ '/jardinagemgeral' | relative_url }})
+- [Referências]({{ '/referencias' | relative_url }})
