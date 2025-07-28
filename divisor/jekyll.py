@@ -85,7 +85,7 @@ class JekyllSite:
                     os.makedirs(dest_dir)
                 shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
 
-        # Copy assets, excluding minima.scss if the theme is not minima
+        # Copy assets
         source_dir = os.path.join(template_dir, "assets")
         dest_dir = os.path.join(self.path, "assets")
         if os.path.exists(source_dir):
