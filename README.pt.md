@@ -206,7 +206,7 @@ Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses
 
 ### Personalizando o CSS
 
-Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar. Para o tema `minima`, você também pode personalizar as variáveis do tema criando um arquivo `main.scss` no diretório `divisor/assets/minima`.
+Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar. Esta é a maneira recomendada de adicionar estilos personalizados para qualquer tema.
 
 ## Limpando o ambiente
 

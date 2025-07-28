@@ -75,7 +75,7 @@ class JekyllSite:
         Copies the template files (_layouts, _includes, assets) to the generated site.
         """
         template_dir = os.path.dirname(__file__)
-        for dir_name in ["_includes", "_layouts", "assets"]:
+        for dir_name in ["_includes", "_layouts"]:
             # Copy default templates
             source_dir = os.path.join(template_dir, dir_name)
             dest_dir = os.path.join(self.path, dir_name)
@@ -85,8 +85,17 @@ class JekyllSite:
                     os.makedirs(dest_dir)
                 shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
 
+        # Copy assets
+        source_dir = os.path.join(template_dir, "assets")
+        dest_dir = os.path.join(self.path, "assets")
+        if os.path.exists(source_dir):
+            import shutil
+            if not os.path.exists(dest_dir):
+                os.makedirs(dest_dir)
+            shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
+
             # Copy custom templates if they exist
-            custom_source_dir = os.path.join("divisor", dir_name)
+            custom_source_dir = os.path.join("divisor", "assets")
             if os.path.exists(custom_source_dir):
                 import shutil
                 shutil.copytree(custom_source_dir, dest_dir, dirs_exist_ok=True)
@@ -100,11 +109,10 @@ class JekyllSite:
                 os.makedirs(dest_dir)
             shutil.copy2(os.path.join(source_dir, "extended.css"), dest_dir)
 
-        if self.config.site_metadata.theme == "minima":
-            source_dir = os.path.join(template_dir, "assets", "minima")
-            dest_dir = os.path.join(self.path, "assets")
-            if os.path.exists(source_dir):
-                import shutil
-                if not os.path.exists(dest_dir):
-                    os.makedirs(dest_dir)
-                shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
+        # Create main.scss
+        main_scss_path = os.path.join(self.path, "assets", "main.scss")
+        with open(main_scss_path, "w") as f:
+            if self.config.site_metadata.theme == "minima":
+                f.write("---\n---\n\n@import \"minima\";\n")
+            else:
+                f.write("---\n---\n")
