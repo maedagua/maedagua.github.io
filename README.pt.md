@@ -201,3 +201,15 @@ Você pode personalizar a aparência do seu site fornecendo seus próprios templ
 *   `divisor/_includes`: Coloque seus includes personalizados neste diretório.
 
 Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
+
+### Personalizando o CSS
+
+Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar. Para o tema `minima`, você também pode personalizar as variáveis do tema criando um arquivo `main.scss` no diretório `divisor/assets/minima`.
+
+## Limpando o ambiente
+
+Para remover os diretórios `source_repo` e `site_contents`, você pode usar o comando `clean`:
+
+```bash
+python cli.py clean
+```

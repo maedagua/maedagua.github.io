@@ -195,9 +195,17 @@ After changing the theme, commit the changes to your `config.yml` file. If you a
 
 ## Custom Templates and Layouts
 
-You can customize the look and feel of your website by providing your own templates and layouts. To do this, create `_layouts` and `_includes` directories inside the `divisor` directory.
+Divisor comes with a set of custom templates and layouts that are applied only when using the default theme, `minima`. These customizations are located in the `divisor/_layouts` and `divisor/_includes` directories.
+
+If you choose to use a different theme, these `minima`-specific customizations will not be applied. This gives you the flexibility to add your own templates and layouts to match your chosen theme.
+
+To add your own custom templates, create `_layouts` and `_includes` directories inside the `divisor` directory:
 
 *   `divisor/_layouts`: Place your custom layouts in this directory.
 *   `divisor/_includes`: Place your custom includes in this directory.
 
 When you run the `generate` command, Divisor will copy the contents of these directories to the generated site, overwriting any default files with the same name. This allows you to either add new templates or override the default ones provided by the theme.
+
+### Customizing the CSS
+
+To add your own custom CSS, you can create a file named `extended.css` in the `divisor/assets` directory. This file will be loaded after the theme's default CSS, allowing you to override any styles you want. For the `minima` theme, you can also customize the theme's variables by creating a `main.scss` file in the `divisor/assets/minima` directory.
