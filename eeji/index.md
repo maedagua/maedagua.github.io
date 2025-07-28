@@ -2,7 +2,7 @@
 title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
 description: None
 published: True
-date: 2025-07-28 18:34:31.214000+00:00
+date: 2025-07-28 19:17:18.403000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-08 17:46:26.886000+00:00
@@ -31,13 +31,13 @@ Tanto por apresentar uma grande diversidade de ambientes naturais, com florestas
 
 Imagem 2: Capivaras (*Hydrochoerus hydrochaeris*) na beira de corpo d’água na EEJI
 
-
-
+![capivaras.1.png]({{ '/assets/media/capivaras.1.png' | relative_url }})
 Autor: Venicio Cantareli, 2025. 
 
-O relevo da região é bastante variado, abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). 
+O relevo da região é bastante variado (Imagem 3), abrangendo desde planícies litorâneas até áreas montanhosas, como Maciço da Juréia e a Serra dos Itatins. Esses maciços rochosos chegam a altitudes de até 1.200 metros, formando paisagens marcadas por morros cobertos por vegetação densa e rios que descem até o mar (WIKIPÉDIA, 2025). Entre os anos de 2018 e 2022, um estudo utilizando imagens de satélite e ferramentas de geoprocessamento, identificou uma retração de aproximadamente 1 quilômetro da linha costeira, com perda de 11 hectares de faixa de areia na EEJI. Também foi observada a supressão de 7,8 hectares de vegetação praial no mesmo período. Esses resultados indicam um processo significativo de erosão costeira, agravado por fatores naturais e antrópicos, como mudanças climáticas e ocupação irregular (NEVES *et al*., 2023)
 
 Imagem 3: Relevo da Estação Juréia-Itatins
+![paisagem.2.png]({{ '/assets/media/paisagem.2.png' | relative_url }})
 Autor: Venicio Cantareli, 2025. 
 
 O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localização geográfica, o clima é classificado como Af, segundo a classificação de Köppen-Geiger, caracterizado por ser tropical úmido, com chuvas bem distribuídas ao longo do ano e sem estação seca definida. Essa classificação foi confirmada por Álvares (2013), em estudo que atualizou o mapa climático do Brasil. Com isso, estão previstas chuvas ao longo do ano, com precipitação média anual em torno de 2.200 mm. As temperaturas deveriam ser amenas, variando entre 19 °C e 22 °C, com umidade relativa do ar elevada, cerca de 2.200 mm a 2.300 mm por ano (WIKIPARQUES, 2025).
@@ -46,7 +46,7 @@ O clima da Estação Ecológica de Juréia-Itatins, de acordo com sua localizaç
 A região abriga populações pesqueiras, de etnia predominantemente mestiça (indígena, africana e europeia), com a identidade cultural fortemente ligada à tradição caiçara - que apesar de todas interferências antrópicas têm mantido práticas culturais e modos de vida ligados à pesca artesanal (FUNDAÇÃO FLORESTAL, 2024).      
 
 Imagem 4: Pescadores da Estação Juréia-Itatins  
-
+![pescadores.1.png]({{ '/assets/media/pescadores.1.png' | relative_url }})
 Autor: Venicio Cantareli, 2025. 
 
 Os indivíduos que vivem em áreas do entorno ou dentro da zona de amortecimento da EEJI têm enfrentado desafios constantes, já que muitas vezes, acabam sofrendo com restrições legais excessivas ou falta de apoio governamental, o que tem gerado conflitos entre conservação e sobrevivência cultural dessas populações. E, frequentemente denunciam que ações de fiscalização ambiental tratam práticas tradicionais como crimes ambientais, apesar de estas serem sustentáveis e historicamente enraizadas no território (DIEGUES, 2000; SANTILLI, 2005; SOS MATA ATLÂNTICA, 2013).                                                                                                           
@@ -57,9 +57,7 @@ Outro ponto delicado é a expansão de atividades turísticas desordenadas, como
 
 O turismo tradicional, apesar de ser promovido como possibilidade de fonte de renda para destinos “ecológicos”, tende a transformar culturas vivas em produtos e reforçar relações coloniais entre visitantes e comunidades locais. Um tipo de turismo que comumente mercantiliza a autenticidade de territórios, gerando impactos socioambientais negativos e irreversíveis - uma vez que não promove o protagonismo das populações locais, ou supera a lógica extrativista (BEY, 2014).
 
-
-
-**O objetivo central** desse trabalho é criar um glossário da fauna e flora colaborativo, a partir da caracterização do SSE da EEJI, integrando os saberes científicos e os conhecimentos locais, a fim de promover uma compreensão aprofundada das dinâmicas do território. **Como objetivos secundários, espera-se:** 1) Integrar o conhecimento ecológico da população local com informações já relatadas na literatura científica; 2) Documentar as mudanças sazonais no território (variações do clima, e eventos extremos), e nas espécies (comportamento, fisionomia, recorrências) com base na percepção da população local; 3) Identificar e detalhar as principais espécies de fauna e flora, que atuam como bioindicadores e biomarcadoras das mudanças atuais no SSE da EEJI; 4) Estimular um ambiente de colaboração e extensão acadêmica entre docentes, alunos, pesquisadores e população da EEJI; 5) Disponibilizar o conteúdo produzido em formatos abertos e que promovam a extensão científica sobre a biodiversidade da EEJI.
+**O objetivo central** desse trabalho é criar um glossário da fauna e flora colaborativo, a partir da caracterização do SSE da EEJI, integrando os saberes científicos e os conhecimentos locais, a fim de promover uma compreensão aprofundada das dinâmicas do território - uma vez que estudos com pescadores na região revelaram coincidências entre o saber popular e dados científicos, destacando a importância e a potencialidade de integrar o conhecimento local aos esforços de conservação e manejo sustentável (OLIVEIRA *et al*, 2019). **Como objetivos secundários, espera-se:** 1) Integrar o conhecimento ecológico da população local com informações já relatadas na literatura científica; 2) Documentar as mudanças sazonais no território (variações do clima, e eventos extremos), e nas espécies (comportamento, fisionomia, recorrências) com base na percepção da população local; 3) Identificar e detalhar as principais espécies de fauna e flora, que atuam como bioindicadores e biomarcadoras das mudanças atuais no SSE da EEJI; 4) Estimular um ambiente de colaboração e extensão acadêmica entre docentes, alunos, pesquisadores e população da EEJI; 5) Disponibilizar o conteúdo produzido em formatos abertos e que promovam a extensão científica sobre a biodiversidade da EEJI.
 
 ## Materiais e Métodos
 
@@ -87,6 +85,10 @@ A pesquisa foi realizada em dois momentos, sendo o primeiro por meio do levantam
 - FUNDAÇÃO FLORESTAL. Estação Ecológica Juréia-Itatins. São Paulo: Governo do Estado de São Paulo, 2024. Disponível em: https://fflorestal.sp.gov.br. Acesso em: 11 jul. 2025.
 
 - INSTITUTO CHICO MENDES – ICMBio. Sistema Nacional de Unidades de Conservação (SNUC). Brasília: MMA, 2023. Disponível em: https://www.gov.br/icmbio. Acesso em: 11 jul. 2025.
+
+- NEVES, V. W. ; Ramires, Milena ; SOUZA, U. P. ; RIBEIRO, R. B. . Análise da variação de linha de costa e cobertura de vegetação praial na Reserva de Desenvolvimento Sustentável Barra do Una, litoral sul do Estado de São Paulo, Brasil. In: XII Encontro Nacional de Pos-graduação, 2023, Santos. Anais do XII Encontro Nacional de Pos-graduação, 2023. v. 7. p. 136-141.
+
+- OLIVEIRA, P.; CALASANS, B. O.; Ramires, Milena . OS ROBALOS E A PESCA ESPORTIVA NA RESERVA DE DESENVOLVIMENTO SUSTENTÁVEL DA BARRA DO UNA (PERUÍBE/SP). In: 19º Congresso Nacional de Iniciação Científica, 2019, São Paulo. Anais do 19º Congresso Nacional de Iniciação Científica, 2019. 
 
 - SANTILLI, Juliana. Socioambientalismo e novos direitos: proteção jurídica à diversidade biológica e cultural. São Paulo: Peirópolis, 2005.
 
