@@ -92,7 +92,15 @@ class JekyllSite:
             import shutil
             if not os.path.exists(dest_dir):
                 os.makedirs(dest_dir)
-            shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
+            for item in os.listdir(source_dir):
+                s = os.path.join(source_dir, item)
+                d = os.path.join(dest_dir, item)
+                if os.path.isdir(s):
+                    shutil.copytree(s, d, dirs_exist_ok=True)
+                else:
+                    if item == "minima.scss" and self.config.site_metadata.theme != "minima":
+                        continue
+                    shutil.copy2(s, d)
 
             # Copy custom templates if they exist
             custom_source_dir = os.path.join("divisor", "assets")
@@ -109,10 +117,10 @@ class JekyllSite:
                 os.makedirs(dest_dir)
             shutil.copy2(os.path.join(source_dir, "extended.css"), dest_dir)
 
-        # Create main.scss
-        main_scss_path = os.path.join(self.path, "assets", "main.scss")
-        with open(main_scss_path, "w") as f:
-            if self.config.site_metadata.theme == "minima":
-                f.write("---\n---\n\n@import \"minima\";\n")
-            else:
-                f.write("---\n---\n")
+        # Conditionally copy main.scss for minima theme
+        if self.config.site_metadata.theme == "minima":
+            source_file = os.path.join(template_dir, "assets", "minima.scss")
+            dest_file = os.path.join(self.path, "assets", "main.scss")
+            if os.path.exists(source_file):
+                import shutil
+                shutil.copy2(source_file, dest_file)
