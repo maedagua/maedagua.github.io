@@ -1,5 +1,11 @@
 ---
-title: Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento
+title: Zonas Costeiras - Direito dos Ecossistemas e Conceito de Desenvolvimento
+description: None
+published: True
+date: 2025-07-28 18:35:43.357000+00:00
+tags: None
+editor: markdown
+dateCreated: 2025-07-28 15:10:37.161000+00:00
 ---
 
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
