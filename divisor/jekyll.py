@@ -76,7 +76,7 @@ class JekyllSite:
         """
         if self.config.site_metadata.theme == "minima":
             template_dir = os.path.dirname(__file__)
-            for dir_name in ["_includes", "_layouts"]:
+            for dir_name in ["_includes", "_layouts", "assets"]:
                 # Copy default templates
                 source_dir = os.path.join(template_dir, dir_name)
                 dest_dir = os.path.join(self.path, dir_name)
