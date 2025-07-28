@@ -74,20 +74,21 @@ class JekyllSite:
         """
         Copies the template files (_layouts, _includes, assets) to the generated site.
         """
-        if self.config.site_metadata.theme == "minima":
-            template_dir = os.path.dirname(__file__)
-            for dir_name in ["_includes", "_layouts", "assets"]:
-                # Copy default templates
-                source_dir = os.path.join(template_dir, dir_name)
-                dest_dir = os.path.join(self.path, dir_name)
-                if os.path.exists(source_dir):
-                    import shutil
-                    if not os.path.exists(dest_dir):
-                        os.makedirs(dest_dir)
-                    shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
+        if os.getenv("CI") is None:
+            if self.config.site_metadata.theme == "minima":
+                template_dir = os.path.dirname(__file__)
+                for dir_name in ["_includes", "_layouts", "assets"]:
+                    # Copy default templates
+                    source_dir = os.path.join(template_dir, dir_name)
+                    dest_dir = os.path.join(self.path, dir_name)
+                    if os.path.exists(source_dir):
+                        import shutil
+                        if not os.path.exists(dest_dir):
+                            os.makedirs(dest_dir)
+                        shutil.copytree(source_dir, dest_dir, dirs_exist_ok=True)
 
-                # Copy custom templates if they exist
-                custom_source_dir = os.path.join("divisor", dir_name)
-                if os.path.exists(custom_source_dir):
-                    import shutil
-                    shutil.copytree(custom_source_dir, dest_dir, dirs_exist_ok=True)
+                    # Copy custom templates if they exist
+                    custom_source_dir = os.path.join("divisor", dir_name)
+                    if os.path.exists(custom_source_dir):
+                        import shutil
+                        shutil.copytree(custom_source_dir, dest_dir, dirs_exist_ok=True)
