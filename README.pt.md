@@ -202,6 +202,10 @@ Você pode personalizar a aparência do seu site fornecendo seus próprios templ
 
 Quando você executa o comando `generate`, o Divisor copiará o conteúdo desses diretórios para o site gerado, sobrescrevendo quaisquer arquivos padrão com o mesmo nome. Isso permite que você adicione novos templates ou substitua os padrão fornecidos pelo tema.
 
+### Personalizando o CSS
+
+Para adicionar seu próprio CSS personalizado, você pode criar um arquivo chamado `extended.css` no diretório `divisor/assets`. Este arquivo será carregado após o CSS padrão do tema, permitindo que você substitua quaisquer estilos que desejar.
+
 ## Limpando o ambiente
 
 Para remover os diretórios `source_repo` e `site_contents`, você pode usar o comando `clean`:

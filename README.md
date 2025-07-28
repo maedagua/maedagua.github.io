@@ -205,3 +205,7 @@ To add your own custom templates, create `_layouts` and `_includes` directories 
 *   `divisor/_includes`: Place your custom includes in this directory.
 
 When you run the `generate` command, Divisor will copy the contents of these directories to the generated site, overwriting any default files with the same name. This allows you to either add new templates or override the default ones provided by the theme.
+
+### Customizing the CSS
+
+To add your own custom CSS, you can create a file named `extended.css` in the `divisor/assets` directory. This file will be loaded after the theme's default CSS, allowing you to override any styles you want.
