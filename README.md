@@ -208,4 +208,4 @@ When you run the `generate` command, Divisor will copy the contents of these dir
 
 ### Customizing the CSS
 
-To add your own custom CSS, you can create a file named `extended.css` in the `divisor/assets` directory. This file will be loaded after the theme's default CSS, allowing you to override any styles you want. For the `minima` theme, you can also customize the theme's variables by creating a `main.scss` file in the `divisor/assets/minima` directory.
+To add your own custom CSS, you can create a file named `extended.css` in the `divisor/assets` directory. This file will be loaded after the theme's default CSS, allowing you to override any styles you want. This is the recommended way to add custom styles for any theme.
