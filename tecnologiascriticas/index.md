@@ -2,7 +2,7 @@
 title: Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-07-29 18:07:18.293000+00:00
+date: 2025-07-29 18:40:57.943000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -16,7 +16,7 @@ autores: [Ricardo Guimarães](http://lattes.cnpq.br/3849375002807332), [Ian Cost
 
 ## Introdução
 
-**O objetivo** deste trabalho é agregar a apropriação crítica das tecnologias digitais, à elaboração e a experimentação de instrumentos científicos de código aberto (*hardware* e *software*) para promover práticas abertas voltadas ao ensino das Ciências da Natureza. Promovendo assim, a participação ativa de estudantes e comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia discente. Para isso, propomos o desenvolvimento de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, para uso continuado e cotidiano, que avalia: pH (indicador de acidez/neutralidade – pode apontar poluição), turbidez (sedimentos em suspensão – ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
+**O objetivo** deste trabalho é agregar a apropriação crítica das tecnologias digitais, à elaboração e a experimentação de instrumentos científicos de código aberto (*hardware* e *software*) para promover práticas abertas voltadas ao ensino das Ciências da Natureza. Promovendo assim, a participação ativa de estudantes e comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia discente. Para isso, propomos o desenvolvimento de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, que avalia: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
 ## Materiais e Métodos
 
