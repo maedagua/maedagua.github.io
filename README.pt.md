@@ -25,8 +25,6 @@ site_metadata:
   github_repository_url: "https://github.com/seu-usuario-git/seu-repositorio.git" # Recomendado: use o URL HTTPS
 
   github_pages_url: "https://seu-usuario-git.github.io/seu-repositorio/" #edite esta linha
-  about_page_title: "Sobre este site"
-  about_page_body: "Este é um parágrafo de descrição de amostra."
 
 source_repository: "https://github.com/fonte-wiki/Backup-fonte-wiki" #deixe isto para usar o fonte.wiki como o repositório de origem
 
@@ -44,8 +42,6 @@ content_mapping:
 *   `theme`: O tema Jekyll a ser usado. O padrão é "minima". Para uma lista de temas disponíveis, execute `python cli.py themes`.
 *   `github_repository_url`: O endereço do seu repositório.
 *   `github_pages_url`: O URL do seu site do GitHub Pages.
-*   `about_page_title`: O título da página "Sobre".
-*   `about_page_body`: O conteúdo da página "Sobre".
 
 ### `source_repository`
 
@@ -215,3 +211,7 @@ Para remover os diretórios `source_repo` e `site_contents`, você pode usar o c
 ```bash
 python cli.py clean
 ```
+
+## `setup.py`
+
+O arquivo `setup.py` é um script Python padrão usado para empacotar e distribuir a ferramenta Divisor. Ele define o nome do pacote, a versão, as dependências e os pontos de entrada. Você não precisa interagir com este arquivo diretamente, a menos que queira modificar o empacotamento da ferramenta.
