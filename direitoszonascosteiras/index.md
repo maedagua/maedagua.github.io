@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-07-28 15:10:37.161000+00:00
 ---
 
-***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
+***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
 # Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento

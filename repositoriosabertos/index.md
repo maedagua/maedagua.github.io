@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-07-26 20:05:21.563000+00:00
 ---
 
-***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
+***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
 # Header//
