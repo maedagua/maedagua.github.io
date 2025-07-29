@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
 ---
 
-***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
+***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
 
 
 # Lab Mãe D'água
