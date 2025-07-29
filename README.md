@@ -23,8 +23,6 @@ site_metadata:
   github_repository_url: "https://github.com/your-git-username/your-repository.git" # Recommended: use HTTPS URL
 
   github_pages_url: "https://your-git-username.github.io/your-repository/" #edit this line
-  about_page_title: "About this site"
-  about_page_body: "This is a sample description paragraph."
 
 source_repository: "https://github.com/fonte-wiki/Backup-fonte-wiki" #leave this to use fonte.wiki as the source repository
 
@@ -42,8 +40,6 @@ content_mapping:
 *   `theme`: The Jekyll theme to use. Defaults to "minima". For a list of available themes, run `python cli.py themes`.
 *   `github_repository_url`: The address of your repository.
 *   `github_pages_url`: The URL of your GitHub Pages website.
-*   `about_page_title`: The title of the "About" page.
-*   `about_page_body`: The content of the "About" page.
 
 ### `source_repository`
 
@@ -195,11 +191,7 @@ After changing the theme, commit the changes to your `config.yml` file. If you a
 
 ## Custom Templates and Layouts
 
-Divisor comes with a set of custom templates and layouts that are applied only when using the default theme, `minima`. These customizations are located in the `divisor/_layouts` and `divisor/_includes` directories.
-
-If you choose to use a different theme, these `minima`-specific customizations will not be applied. This gives you the flexibility to add your own templates and layouts to match your chosen theme.
-
-To add your own custom templates, create `_layouts` and `_includes` directories inside the `divisor` directory:
+You can customize the look and feel of your site by providing your own templates and layouts. To do so, create `_layouts` and `_includes` directories inside the `divisor` directory:
 
 *   `divisor/_layouts`: Place your custom layouts in this directory.
 *   `divisor/_includes`: Place your custom includes in this directory.
@@ -209,3 +201,7 @@ When you run the `generate` command, Divisor will copy the contents of these dir
 ### Customizing the CSS
 
 To add your own custom CSS, you can create a file named `extended.css` in the `divisor/assets` directory. This file will be loaded after the theme's default CSS, allowing you to override any styles you want. This is the recommended way to add custom styles for any theme.
+
+## `setup.py`
+
+The `setup.py` file is a standard Python script that's used to package and distribute the Divisor tool. It defines the package name, version, dependencies, and entry points. You don't need to interact with this file directly unless you want to modify the packaging of the tool.

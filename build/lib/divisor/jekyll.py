@@ -103,8 +103,8 @@ class JekyllSite:
 
         # Conditionally copy main.scss for minima theme
         if self.config.site_metadata.theme == "minima":
+            source_file = os.path.join(template_dir, "assets", "minima.scss")
             dest_file = os.path.join(self.path, "assets", "main.scss")
-            with open(dest_file, "w") as f:
-                f.write("---\n")
-                f.write("---\n")
-                f.write('@import "minima";\n')
+            if os.path.exists(source_file):
+                import shutil
+                shutil.copy2(source_file, dest_file)
