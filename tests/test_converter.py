@@ -42,5 +42,15 @@ license: "MIT"
         rewritten_content = self.converter.rewrite_internal_links(content)
         self.assertEqual(rewritten_content, "![image]({{ '/assets/media/image.jpg' | relative_url }})")
 
+    def test_rewrite_link_with_leading_space(self):
+        content = "[link]( https://example.com)"
+        rewritten_content = self.converter.rewrite_internal_links(content)
+        self.assertEqual(rewritten_content, "[link]( https://example.com)")
+
+    def test_rewrite_internal_link_with_spaces(self):
+        content = "[link]( /pages/subpage.md )"
+        rewritten_content = self.converter.rewrite_internal_links(content)
+        self.assertEqual(rewritten_content, "[link]({{ '/subpage' | relative_url }})")
+
 if __name__ == '__main__':
     unittest.main()
