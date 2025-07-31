@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: None
 published: True
-date: 2025-07-28 19:43:44.896000+00:00
+date: 2025-07-31 13:18:43.930000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-27 20:14:36.216000+00:00
@@ -26,7 +26,7 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 # TEXTO
 - **Em Lab Mãe d'Água home:** ficha técnica, no final de 2025
-
+- **Em Lab Mãe d'Água home:** produtos e publis
 
 
 # CÓDIGO
