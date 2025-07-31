@@ -2,7 +2,7 @@ import os
 import re
 import yaml
 
-ASSET_REGEX = re.compile(r"(!?\[.*?\]\()((?!https?:\/\/|#|mailto:).*?)\)")
+ASSET_REGEX = re.compile(r"(!?\[.*?\]\()((?!\s*https?:\/\/|#|mailto:).*?)\)")
 
 class Converter:
     def __init__(self, config):
@@ -72,7 +72,10 @@ class Converter:
         Rewrites internal links to be compatible with Jekyll.
         """
         def replace_link(match):
-            original_path_str = match.group(2)
+            original_path_str = match.group(2).strip()
+            if original_path_str.startswith("http"):
+                return match.group(0)
+
             if not original_path_str.endswith(".md") and not any(original_path_str.lower().endswith(ext) for ext in [".jpg", ".jpeg", ".png", ".gif", ".pdf", ".mp3", ".mp4"]):
                 # It's a page link without the .md extension
                 subpages_folder = self.config.content_mapping.subpages_folder
