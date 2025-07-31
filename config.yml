@@ -1,0 +1,15 @@
+site_metadata:
+  title: "Lab Mãe D'Água"
+  description: "Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia."
+  # Available themes: architect, cayman, dinky, hacker, leap-day, merlot, midnight, minima, minimal, modernist, slate, tactile, time-machine
+  theme: "cayman"
+  github_repository_url: "git@github.com:maedagua/maedagua.github.io.git" #edit this line
+  github_pages_url: "https://maedagua.github.io/maedagua.github.io/" #edit this line
+
+source_repository: "https://github.com/fonte-wiki/Backup-fonte-wiki" #leave this to use fonte.wiki as the source repository
+
+content_mapping:
+  home_page_source: "projetos/maedagua.md" #edit this line to choose the home page of your website
+  subpages_folder: "projetos/maedagua" #optionally add a folder from the source repository whose contents will be imported as subpages
+  destination_folder: "site_contents"
+  media_destination_folder: "assets/media"
