@@ -1,8 +1,8 @@
 ---
-title: Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
+title: Glossário Decolonial Colaborativo
 description: None
 published: True
-date: 2025-08-03 20:25:46.940000+00:00
+date: 2025-08-05 13:36:55.509000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-08 17:46:26.886000+00:00
@@ -11,7 +11,7 @@ dateCreated: 2025-07-08 17:46:26.886000+00:00
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
-# Caracterização e Glossário Colaborativo da Estação Ecológica Juréia-Itatins
+# Glossário Decolonial Colaborativo
 autores: [Beatriz Santos](http://lattes.cnpq.br/2444757069217187), [Maira Begalli](http://lattes.cnpq.br/4559907236737788), [Gabriela Neves](https://www.linkedin.com/in/gabrielaneves/)
 
 
