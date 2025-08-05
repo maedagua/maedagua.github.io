@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-08-05 13:38:06.547000+00:00
+date: 2025-08-05 17:01:30.596000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -86,6 +86,7 @@ Em breve
 - [Global Innovation Gathering](https://globalinnovationgathering.org/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 - [Reuse City](https://reuse.city/)
+- [Semente](https://semente.de/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
 
 
