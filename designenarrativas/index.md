@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: None
 published: True
-date: 2025-07-30 14:15:44.580000+00:00
+date: 2025-08-08 17:31:50.682000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
@@ -11,7 +11,7 @@ dateCreated: 2025-07-25 17:43:00.612000+00:00
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
-# Design Aberto e outras narrativas sobre tecnologias
+
 
 ###### autores: [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
