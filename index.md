@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: None
 published: True
-date: 2025-08-08 17:30:57.061000+00:00
+date: 2025-08-09 17:33:49.390000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -52,14 +52,13 @@ Atualmente o **Lab Mãe d' Água** se desdobra em duas frentes de pesquisas comp
 
 ###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
 
-A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) está vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, e tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, vamos trabalhar com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
+A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. Para isso, trabalhamos com o desenvolvimento de conceitos-chave, numa rede de difusão e colaboração:
 
 - [Antropoceno, Resiliência, Adaptação e Vulnerabilidade em Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
 - [Zonas Costeiras: Direito dos Ecossistemas e Conceito de Desenvolvimento]({{ '/direitoszonascosteiras' | relative_url }})
 - [Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }})
 - [A Importância da Criação e Manutenção de Repositórios Abertos como Ambientes de Experimentação]({{ '/repositoriosabertos' | relative_url }})
-- ZASF + Sensores (2026)
-- Minidocumentário (2027)
+- ZASF (2026)
 
 ![prancheta_4_cópia.png]({{ '/assets/media/prancheta_4_cópia.png' | relative_url }})
 

@@ -2,7 +2,7 @@
 title: Design Aberto e outras narrativas sobre tecnologias
 description: None
 published: True
-date: 2025-08-08 17:31:50.682000+00:00
+date: 2025-08-09 18:34:06.526000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
@@ -13,7 +13,7 @@ dateCreated: 2025-07-25 17:43:00.612000+00:00
 
 
 
-###### autores: [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
+###### por: [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 ## Introdução
 
@@ -34,8 +34,11 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 - Estabelecer uma linguagem replicável para: 1.vídeos curtos-tutorais; 2.vídeos no formato podcast/conversa; 3.vídeos com apelo imagético/documental, como forma de reforçar e tornar a linguagem mais assertiva e reconhecível;
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
-## Identidade Visual
-Em Breve
+## Sistema de Identidade Visual
+Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
+Cite, gentilmente essa fonte <3
+
+Lembre-se: **Mãe d'Água** é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 
 
