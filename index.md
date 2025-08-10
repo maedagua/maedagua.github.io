@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-10 13:15:07.174000+00:00
+date: 2025-08-10 20:22:53.742000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -46,17 +46,18 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 ### CAPES SESU PROEXT-PG 03/2024 
 
-###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras
+###### Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações costeiras
 
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. 
 
-Trabalhamos na elaboraçao de bases referenciais:
+Trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas e podcasts, sobre:
 
 - [Antropoceno e Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
 - [Direito das Zonas Costeiras]({{ '/direitoszonascosteiras' | relative_url }})
 - [Repositórios Abertos]({{ '/repositoriosabertos' | relative_url }})
 
-Para gerarmos produtos extensionistas:
+A partir deles geramos um conjunto de produtos extensionistas, chamado de Ipupiara - uma criatura mítica encontrada na época do Brasil Colônia em São Vicente, São Paulo. No Tupi antigo, Ipupiara significa "o que mora dentro d'água".
+
 
 - [Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }})
 - ZASF (previsto para 2026)
