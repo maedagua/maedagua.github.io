@@ -1,8 +1,8 @@
 ---
-title: Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza
+title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-08-03 23:55:58.992000+00:00
+date: 2025-08-10 12:29:09.052000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -11,8 +11,6 @@ dateCreated: 2025-07-17 18:46:12.674000+00:00
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
-# Tecnologias Críticas e Instrumentos Científicos Abertos como ferramenta de Ensino das Ciências da Natureza
-autores: [Ricardo Guimarães](https://lattes.cnpq.br/3849375002807332), [Ian Costa](https://lattes.cnpq.br/9701753965733142), [Amanda Wanderley](https://lattes.cnpq.br/9245385244782443), [Maira Begalli](https://lattes.cnpq.br/4559907236737788)
 
 ## Introdução
 

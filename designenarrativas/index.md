@@ -1,8 +1,8 @@
 ---
-title: Design Aberto e outras narrativas sobre tecnologias
-description: None
+title: Design Aberto e outras Narrativas sobre Tecnologias
+description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: True
-date: 2025-08-09 18:34:06.526000+00:00
+date: 2025-08-10 12:45:10.299000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
@@ -11,9 +11,6 @@ dateCreated: 2025-07-25 17:43:00.612000+00:00
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
 
 
-
-
-###### por: [Carolina Saravalli](https://www.linkedin.com/in/carolinasaravalli/), [Kevelyn Oliveira](https://www.linkedin.com/in/kelveira/), [Maira Begalli](http://lattes.cnpq.br/4559907236737788)
 
 ## Introdução
 
@@ -36,7 +33,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 
 ## Sistema de Identidade Visual
 Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
-Cite, gentilmente essa fonte <3
+Cite, gentilmente essa fonte.
 
 Lembre-se: **Mãe d'Água** é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
