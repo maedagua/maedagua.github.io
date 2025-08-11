@@ -1,6 +1,6 @@
 site_metadata:
   title: "Lab Mãe D'Água"
-  description: "Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia."
+  description: "Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia"
   # Available themes: architect, cayman, dinky, hacker, leap-day, merlot, midnight, minima, minimal, modernist, slate, tactile, time-machine
   theme: "cayman"
   github_repository_url: "git@github.com:maedagua/maedagua.github.io.git" #edit this line
