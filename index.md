@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-10 20:22:53.742000+00:00
+date: 2025-08-11 10:40:23.051000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -70,7 +70,7 @@ A partir deles geramos um conjunto de produtos extensionistas, chamado de Ipupia
 ###### BioEduca: desenvolvimento de materiais pedagógicos e estratégias de ensino aprendizagem para a Biologia
 
 [Nesta proposta](https://fapesp.br/17237/edital-praticar-ciencia), **Mãe d´Água** tem como objetivo promover o ensino de Ciências da Natureza no Ensino Médio por meio de atividades e trabalhos que visam o aprendizado baseado em pesquisa experimental, envolvendo a pesquisa e o desenvolvimento de:
-- [Design Aberto e outras narrativas sobre Tecnologias]({{ '/designenarrativas' | relative_url }})
+- [Design Aberto e outras Narrativas sobre Tecnologias]({{ '/designenarrativas' | relative_url }})
 - [Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza]({{ '/instrumentoscientificosabertos' | relative_url }})
 
 ## Publicações e Produtos

@@ -1,4 +1,27 @@
-/*
-This file is intentionally left blank.
-You can add your own custom CSS here to override the default theme.
-*/
+/* Custom CSS for the Cayman theme */
+
+body {
+  background-color: #fcf9eb; /* areia */
+}
+
+.page-header {
+  background-color: white;
+  background-image: none; /* remove the default gradient */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1f567f; /* azul escuro */
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8bd3f7; /* azul claro */
+  text-decoration: none;
+}
+
+.project-name {
+    color: #1f567f !important; /* azul escuro */
+}
