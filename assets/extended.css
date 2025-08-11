@@ -7,6 +7,9 @@ body {
 .page-header {
   background-color: white;
   background-image: none; /* remove the default gradient */
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,13 +29,26 @@ a:hover {
     color: #1f567f !important; /* azul escuro */
 }
 
-.page-header {
-    display: flex;
-    align-items: center;
+.logo {
+    max-height: 80px;
+    width: auto;
+    margin-right: 20px;
 }
 
-.logo {
-    max-height: 80px; /* Adjust as needed */
-    width: auto;
-    margin-right: 20px; /* Adjust as needed */
+/* Media query for smaller screens */
+@media screen and (max-width: 640px) {
+  .page-header {
+    flex-direction: column; /* Stack items vertically */
+    padding: 2rem 1rem;
+  }
+
+  .logo {
+    max-height: 60px; /* Smaller logo on small screens */
+    margin-right: 0;
+    margin-bottom: 1rem; /* Add some space below the logo */
+  }
+
+  h1.project-name {
+    font-size: 2.5rem; /* Adjust font size for smaller screens */
+  }
 }
