@@ -25,3 +25,14 @@ a:hover {
 .project-name {
     color: #1f567f !important; /* azul escuro */
 }
+
+.page-header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    max-height: 80px; /* Adjust as needed */
+    width: auto;
+    margin-right: 20px; /* Adjust as needed */
+}
