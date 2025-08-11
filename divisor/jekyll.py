@@ -50,6 +50,10 @@ class JekyllSite:
             f.write(f"description: {self.config.site_metadata.description}\n")
             f.write(f"theme: {gem_name}\n")
             f.write(f"url: {self.config.site_metadata.github_pages_url}\n")
+            f.write("sass:\n")
+            f.write("  load_paths:\n")
+            f.write("    - _sass\n")
+            f.write("    - assets\n")
 
         # Copy layout and includes
         self.copy_template_files()
