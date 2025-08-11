@@ -1,1 +1,55 @@
+/* Custom CSS for the Cayman theme */
+
+body {
+  background-color: #fcf9eb; /* areia */
+}
+
+.page-header {
+  background-color: white;
+  background-image: none; /* remove the default gradient */
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1f567f; /* azul escuro */
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8bd3f7; /* azul claro */
+  text-decoration: none;
+}
+
+.project-name {
+    color: #1f567f !important; /* azul escuro */
+}
+
+.logo {
+    max-height: 80px;
+    width: auto;
+    margin-right: 20px;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 640px) {
+  .page-header {
+    flex-direction: column; /* Stack items vertically */
+    padding: 2rem 1rem;
+  }
+
+  .logo {
+    max-height: 60px; /* Smaller logo on small screens */
+    margin-right: 0;
+    margin-bottom: 1rem; /* Add some space below the logo */
+  }
+
+  h1.project-name {
+    font-size: 2.5rem; /* Adjust font size for smaller screens */
+  }
+}
  
