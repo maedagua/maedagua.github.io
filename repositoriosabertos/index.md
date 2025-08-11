@@ -2,7 +2,7 @@
 title: Untitled
 ---
 
-***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia.***
+***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
 
 
 ## Introdução
