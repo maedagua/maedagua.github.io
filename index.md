@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-11 10:40:23.051000+00:00
+date: 2025-08-12 08:08:43.170000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -15,7 +15,7 @@ dateCreated: 2025-06-28 16:10:28.630000+00:00
 
 ## Sobre
 
-**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantastico que habita e também protege Mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [escasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
+**Mãe d'Água** é um nome popular na cultura e na mitologia brasileira. Uma encantada, um Orixá, um ser fantástico que habita e também protege Mares e Oceanos. Também é redundante afirmar, cientificamente, que a vida é codependente da existência de água - item tão abundante nesse planeta, que se torna cada vez mais [escasso](https://pubs.acs.org/doi/full/10.1021/acs.est.5b03191) e [degradado](https://www.science.org/doi/abs/10.1126/science.1208277).
 
 Aqui **Mãe d'Água** se desenvolve [desde 2012](https://www.flickr.com/photos/maedagua/) como uma [TAZ](http://www.mom.arq.ufmg.br/mom/02_arq_interface/4a_aula/Hakim_Bey_TAZ.pdf), voltada para experimentação em tecnologias críticas, nas bases da [MetaReciclagem](https://metareciclagem.github.io/). Um módulo de monitoramento de qualidade de água que usa a tecnologia como pretexto para lembrar que o ["importante são as pessoas"](https://midiatatica.desarquivo.org/wp-content/uploads/sites/6/2018/12/O_Despertar_Nartisan.pdf). Naquela época, as atividades desenvolvidas geraram duas publicações:
 
@@ -30,7 +30,7 @@ Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions
 Tudo aqui é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## Objetivos
-Nosso objetivo é o [“rewild”](https://www.noemamag.com/we-need-to-rewild-the-internet/), ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente ["vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
+Nosso objetivo é o "[rewilding](https://www.noemamag.com/we-need-to-rewild-the-internet/)", ou seja, tornar as experimentações em tecnologia selvagens novamente - ou simplesmente "[vivas](https://networkcultures.org/wp-content/uploads/2025/05/the-internet-of-dead-things-UPDATED.pdf) novamente". Buscamos unir duas grandes áreas vistas como antagônicas, mas que podem e devem se integrar: a área ambiental e os sistemas de informação tecnológicos. Desenolver, e implementar soluções colaborativas baseadas em padrões abertos, criando espaços comunitários capazes de dialogar com a produção científica para alcançar inovações que sejam desenvolvidas coletivamente para resolver problemas reais da sociedade, não apenas gerando um hype que consome recursos-gera lixo e não possui significado algum.
 
 Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Água**, mas também sequestraram a narrativa para projetos comerciais e de interesses específicos, criando [*doppelgangers*](https://www.theguardian.com/books/2023/sep/09/doppelganger-a-trip-into-the-mirror-world-by-naomi-klein-review-a-case-of-mistaken-identity): um duplo esvaziado que se apropria do projeto mas não é o projeto, e muito menos pode ser reconhecido como um remix ou uma validação de algo de uso aberto.
 
