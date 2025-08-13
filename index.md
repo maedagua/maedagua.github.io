@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-13 00:51:43.738000+00:00
+date: 2025-08-13 17:35:59.522000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -98,4 +98,4 @@ Em breve
 
 - [Diários de pesquisa]({{ '/diarios' | relative_url }})
 - [Jardinagem Geral]({{ '/jardinagemgeral' | relative_url }})
-- [Repositório]({{ '/referencias' | relative_url }})
+- [Repositório]({{ '/repo' | relative_url }})
