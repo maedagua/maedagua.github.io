@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Julho
 description: None
 published: True
-date: 2025-07-29 09:41:58.167000+00:00
+date: 2025-08-13 13:29:58.731000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-12 11:15:04.725000+00:00
