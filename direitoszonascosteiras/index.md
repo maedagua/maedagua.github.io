@@ -6,30 +6,5 @@ title: Untitled
 
 
 
-## Introdução
-
-
-
-
-## Objetivos
-
-
-
-
-## Materiais e Métodos
-
-
-
-
-## Resultados
-
-
-
-## Discussão
-
-
-
-## Conclusões
-
 
 ## Referências Bibliográficas
