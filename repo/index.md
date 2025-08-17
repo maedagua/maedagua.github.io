@@ -2,7 +2,7 @@
 title: Repositório
 description: None
 published: True
-date: 2025-08-14 20:00:09.771000+00:00
+date: 2025-08-17 13:46:30.532000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-06-29 22:29:03.453000+00:00
@@ -25,4 +25,6 @@ dateCreated: 2025-06-29 22:29:03.453000+00:00
 
 ## Clipping
 
-[Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)
+- [Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)- setembro, 2024.
+
+- [Open Source Weather Stations and Community-Led Climate Resilience: Insights from a GIG Community Call](https://globalinnovationgathering.org/2025/07/24/13th-august-2025-community-call-open-source-weather-stations/) - agosto, 2025.
