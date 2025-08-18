@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-08-18 19:13:08.967000+00:00
+date: 2025-08-18 20:04:29.359000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -15,26 +15,42 @@ dateCreated: 2025-07-17 18:46:12.674000+00:00
 ## Introdução
 
 
-Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnologias](https://movimentopelabase.org.br/wp-content/uploads/2019/06/2018_12_keyshift_Cie%CC%82ncias-da-Natureza-na-BNCC_v01.pdf), por meio de atividades e trabalhos que visam o aprendizado baseado em pesquisa experimental. A proposta envolve o desenho e a prototipação de um *toolkit*, com instrumentos científicos experimentais de [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto#:~:text=O%20movimento%20de%20c%C3%B3digo%20aberto,descoberta%20e%20pesquisa%20de%20medicamentos.&text=O%20termo%20%22c%C3%B3digo%20aberto%22%20foi,comercial%20evitando%20o%20discurso%20%C3%A9tico.) para o monitoramento da qualidade da água. Assim, como a sua utilização para gerar e analisar dados socioambientais, a partir de uma perspectiva crítica da análise e interpretação de cada território, seguindo a perspectiva de [Milton Santos](https://www.youtube.com/watch?v=TRfYvIors78):
+Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnologias](https://movimentopelabase.org.br/wp-content/uploads/2019/06/2018_12_keyshift_Cie%CC%82ncias-da-Natureza-na-BNCC_v01.pdf), por meio de atividades e trabalhos que promovem o aprendizado baseado em pesquisa experimental. A proposta envolve o desenho e a prototipação de um *toolkit*, com instrumentos científicos experimentais de [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto#:~:text=O%20movimento%20de%20c%C3%B3digo%20aberto,descoberta%20e%20pesquisa%20de%20medicamentos.&text=O%20termo%20%22c%C3%B3digo%20aberto%22%20foi,comercial%20evitando%20o%20discurso%20%C3%A9tico.) para o monitoramento da qualidade da água. Um exemplo bem sucedido e já implementado é a [senseBox](https://sensebox.de/en/), um *toolkit* desenvolvido para uso em educação digital, envolvendo Ciência Cidadã e para coleta de dados ambientais.
+
+
+Oferecemos uma estratégia de criação e implementação para atividades no Ensino Médio, assim como a sua utilização para gerar e analisar dados socioambientais, a partir de uma perspectiva crítica da análise e interpretação de cada território, seguindo a perspectiva de [Milton Santos](https://www.youtube.com/watch?v=TRfYvIors78):
 
 > Cada pessoa não vê o universo a partir do universo, mas a partir de um lugar
 
+A proposta é baseada em [design e recursos educacionais abertos](https://repositorio.ufsc.br/handle/123456789/265123), e na apropriação crítica das tecnologias digitais para promover a participação ativa de estudantes e de comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia. 
+
+## Produtos
+
+### Nascente
+
+Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. o desenvolvimento de material didático 
+
+### Iara
+
+a prototipação de um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura
 
 
-ferecendo uma estratégia de criação e implementação para atividades no Ensino Médio. A proposta é baseada em métodos empáticos e participativos de pesquisa em design, envolvendo o processo de desenvolvimento dos instrumentos científicos e que possam ser aplicados em atividades de campo, voltadas para para a realidade local.
+## Nosso Glossário
 
+Listamos abaixo alguns dos conceitos-chave que guiaram a criação do release **Iara**
 
-**O objetivo** deste trabalho é agregar a apropriação crítica das tecnologias digitais, à elaboração e a experimentação de instrumentos científicos de código aberto (*hardware* e *software*) para promover práticas abertas voltadas ao ensino das Ciências da Natureza. Promovendo a participação ativa de estudantes e comunidades locais, como produtores e investigadores de dados ambientais em diferentes territórios e realidades, com ênfase na autonomia discente. Para isso, propomos o desenvolvimento de material didático e um sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano. Esse processo foi batizado de Nascente - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas. E o sensor que foi chamado de Iara, avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
+### Apropriação Crítica de Tecnologias
+....
 
-## Materiais e Métodos
+### Ciência Aberta
+....
 
-O presente trabalho baseou-se no levantamento de dados secundários, a partir de revisão bibliográfica, entre julho à setembro de 2025, em bases de pesquisas acadêmica como: o WebScholar, Google Acadêmico, ResearchGate, Scielo usando as palavra-chaves: apropriação crítica de tecnologias, ciência aberta, ciência cidadã, recursos educacionais abertos, tecnologias críticas. Além da consulta de análise de produções específicas sobre as temáticas citadas.
+### Ciência Cidadã
+....
 
-
-## Resultados e Discussão
-
-
-## Conclusões 
-
+### Design Aberto
+...
+### Pedagogia Hacker
+....
 
 ## Referências Bibliográficas
