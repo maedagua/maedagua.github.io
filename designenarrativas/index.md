@@ -2,7 +2,7 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: True
-date: 2025-08-10 13:12:44.925000+00:00
+date: 2025-08-18 19:15:52.588000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
@@ -21,7 +21,6 @@ Surge a condição [cronicamente online](https://kumarrayna.medium.com/the-effec
 [A narrativa do bilionário bem sucedido-criador-de-tudo](https://floatvibes.substack.com/p/vibes-iluminismo-das-trevas), a rotina perfeira instagrámavel, não correspondem com a realidade do consumo e recursos, como: minérios, água, mão-de-obra, e energia que são utilizados para a manutenção dessas estruturas que caminham para um [futuro distópico sem precedentes](https://ai-2027.com/). 
 
 > ![design.png]({{ '/assets/media/design.png' | relative_url }})
-{.is-info}
 
 Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](https://drauziovarella.uol.com.br/neurologia/brain-rot-o-seu-cerebro-esta-apodrecendo/), muitos projetos e iniciativas comunitárias ["flopam"](https://www.dicionarioinformal.com.br/flopar/) por falta de apelo estético, apropriação de linguagem/tom de voz, e estratégia.
 
