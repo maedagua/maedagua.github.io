@@ -2,7 +2,7 @@
 title: Repositório
 description: None
 published: True
-date: 2025-08-17 13:46:30.532000+00:00
+date: 2025-08-19 13:19:04.567000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-06-29 22:29:03.453000+00:00
@@ -24,6 +24,7 @@ dateCreated: 2025-06-29 22:29:03.453000+00:00
 - [TBox]({{ '/repo/tbox' | relative_url }}): Incubadora para cultura de bactérias com temperatura controlada
 
 ## Clipping
+- [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/) - novembro, 2015.
 
 - [Guima San - o hacker do monitoramento ambiental](https://em-rede.com/2024/09/18/guima-san-o-hacker-do-monitoramento-ambiental/)- setembro, 2024.
 

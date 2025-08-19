@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-13 17:35:59.522000+00:00
+date: 2025-08-19 13:21:54.076000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -23,7 +23,7 @@ Aqui **Mãe d'Água** se desenvolve [desde 2012](https://www.flickr.com/photos/m
 
 **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
-Posteriormente, **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://static.publiclab.org/#/wiki/mae-d-agua-rede-infoamazonia), o [HiperGuardiões](https://innovacionciudadana.org/proyecto/hiperguadianes/), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr.com/photos/bailux3biomas/), Bahia. 
+Posteriormente, **Mãe d´Água** permeou outros projetos, como a [Rede InfoAmazônia](https://infoamazonia.org/project/rede-infoamazonia/), o [HiperGuardiões]({{ '/repo/hiperguardioes' | relative_url }}), e o [Tortuga Guardian](https://github.com/TortugaGuardian). A última atualização do módulo aconteceu em 2024, no [Bailux](https://www.flickr).com/photos/bailux3biomas/), Bahia. 
 
 Em 2025, a [proposta ressurge](https://is.efeefe.me/stuff/ritualised-repetitions) como um laboratório diverso, que conecta pessoas e aborda temáticas transversais. Estamos sediados no [LabEcoHumana](https://www.instagram.com/labecohumana/), na UNISANTA, Santos.
 
