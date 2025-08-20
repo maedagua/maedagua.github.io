@@ -62,9 +62,8 @@ a:hover {
     color: #1f567f !important; /* azul escuro */
 }
 
-.project-tagline {
+.main-content p:first-child {
   text-align: center;
-  margin-bottom: 2rem;
 }
 
 /* Media query for smaller screens */
