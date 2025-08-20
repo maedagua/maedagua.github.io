@@ -2,7 +2,7 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: True
-date: 2025-08-18 19:15:52.588000+00:00
+date: 2025-08-20 21:18:02.813000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00
@@ -15,6 +15,8 @@ dateCreated: 2025-07-25 17:43:00.612000+00:00
 ## Introdução
 
 Ao longo dos anos 2000-2020 vimos uma transição da [estética experimental/hacker](http://dx.doi.org/10.26512/2015.04.T.20590) atrelada às plataformas de compartilhamento e troca de usuários (4chan, irc, wikis, listas), para soluções baseadas em [*branding*](https://www.researchgate.net/publication/314101152_The_Language_of_Branding_Theory_Strategies_and_Tactics) que criaram ambientes experienciáveis, voltado aos consumo em massa de conteúdos virais e produtos (TikTok, Instagram, WhatsApp). 
+
+
 
 Surge a condição [cronicamente online](https://kumarrayna.medium.com/the-effects-of-being-chronically-online-and-how-it-distorts-our-view-of-reality-23ae4e58e696): as plataformas, os apps passam a ser acessórios de extensão da vida cotidiana, num contínuo que "nunca desliga". 
 
@@ -33,7 +35,7 @@ Enquanto essas estruturas se tornam cada vez sedutoras, atrativas e [nocivas](ht
 - Submeter a proposta da criação a eventos e prêmios da categoria, disseminando o conceito da proposta e sublinhando a importância de iniciativas correlatas.
 
 ## Sistema de Identidade Visual
-Disponibilizamos o [nosso board para remixes aqui](https://miro.com/app/board/uXjVIOQ2yps=/?share_link_id=472618172290). 
+Disponibilizamos o [nosso board para remixes aqui](https://www.figma.com/design/CuGn8ZSAaxvW3Xycr2H3dR/M%C3%A3e-D-%C3%81gua---Open-Design?node-id=2-1263&t=x4CXEKZaNKDDl35w-1). 
 Cite, gentilmente essa fonte.
 
 Lembre-se: **Mãe d'Água** é [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
