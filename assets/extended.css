@@ -62,6 +62,11 @@ a:hover {
     color: #1f567f !important; /* azul escuro */
 }
 
+.project-tagline {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 /* Media query for smaller screens */
 @media screen and (max-width: 640px) {
   .page-header {
