@@ -5,19 +5,19 @@ body {
 }
 
 .page-header {
-  /* Set the background color to the dark blue from the logo */
   background-color: #1f567f;
-  background-image: none; /* remove the default gradient */
+  background-image: none;
   display: flex;
   align-items: center;
-  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
-  /* Add padding for better spacing */
+  flex-wrap: wrap;
   padding: 2rem;
-  /* Add the waves background image */
   background-image: url('{{ "/assets/waves.png" | relative_url }}');
   background-repeat: no-repeat;
-  background-position: right center; /* Align the waves to the right */
-  background-size: auto 100%; /* Make waves scale with header height */
+  background-position: right center;
+  background-size: auto 100%;
+  /* New properties for centering and narrowing */
+  max-width: 1200px; /* Adjust this value as needed */
+  margin: 0 auto;
 }
 
 /* Adjust the project name to match your new HTML structure */
@@ -28,7 +28,7 @@ body {
 }
 
 .logo {
-  height: 60px; /* Set a fixed height for the logo */
+  height: 120px; /* Set a fixed height for the logo */
   width: auto;
   margin-right: 1rem;
 }
