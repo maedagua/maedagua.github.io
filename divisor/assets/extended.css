@@ -1,7 +1,7 @@
 /* Custom CSS for the Cayman theme */
 
 body {
-  background-color: #fcf9eb; /* areia */
+  background-color: #1f567f; /* azul escuro */
 }
 
 .page-header {
@@ -11,12 +11,12 @@ body {
   align-items: center;
   flex-wrap: wrap;
   padding: 2rem;
-  background-image: url('{{ "/assets/waves.png" | relative_url }}');
+  background-image: url('/assets/waves.png');
   background-repeat: no-repeat;
   background-position: right center;
   background-size: auto 100%;
   /* New properties for centering and narrowing */
-  max-width: 1200px; /* Adjust this value as needed */
+  max-width: 960px; /* Adjust this value as needed */
   margin: 0 auto;
 }
 
@@ -38,11 +38,16 @@ body {
   font-weight: bold;
 }
 
+/* This might be your main content container */
+.container {
+  background-color: #fcf9eb;
+  padding: 2rem;
+  border-radius: 5px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #1f567f; /* azul escuro */
 }
-
-/* ... other existing styles ... */
 
 a {
   text-decoration: none;
@@ -55,10 +60,6 @@ a:hover {
 
 .project-name {
     color: #1f567f !important; /* azul escuro */
-}
-
-.logo {
-    width: auto;
 }
 
 /* Media query for smaller screens */
