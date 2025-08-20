@@ -16,7 +16,7 @@ body {
   background-position: right center;
   background-size: auto 100%;
   /* New properties for centering and narrowing */
-  max-width: 960px; /* Adjust this value as needed */
+  max-width: 900px; /* Adjust this value as needed */
   margin: 0 auto;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 /* This might be your main content container */
-.container {
+.main-content {
   background-color: #fcf9eb;
   padding: 2rem;
   border-radius: 5px;
@@ -72,7 +72,7 @@ a:hover {
   }
 
   .logo {
-    max-height: 60px; /* Smaller logo on small screens */
+    max-height: 120px; /* Smaller logo on small screens */
     margin-right: 0;
     margin-bottom: 1rem; /* Add some space below the logo */
   }
