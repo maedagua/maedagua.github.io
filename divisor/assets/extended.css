@@ -5,16 +5,44 @@ body {
 }
 
 .page-header {
-  background-color: white;
+  /* Set the background color to the dark blue from the logo */
+  background-color: #1f567f;
   background-image: none; /* remove the default gradient */
   display: flex;
   align-items: center;
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+  /* Add padding for better spacing */
+  padding: 2rem;
+  /* Add the waves background image */
+  background-image: url('{{ "/assets/waves.png" | relative_url }}');
+  background-repeat: no-repeat;
+  background-position: right center; /* Align the waves to the right */
+  background-size: auto 100%; /* Make waves scale with header height */
+}
+
+/* Adjust the project name to match your new HTML structure */
+.project-name {
+  display: flex; /* Use flexbox to align logo and text */
+  align-items: center;
+  color: white !important; /* Change text color to white for contrast */
+}
+
+.logo {
+  height: 60px; /* Set a fixed height for the logo */
+  width: auto;
+  margin-right: 1rem;
+}
+
+.site-title {
+  font-size: 2.5rem; /* Adjust font size as needed */
+  font-weight: bold;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1f567f; /* azul escuro */
 }
+
+/* ... other existing styles ... */
 
 a {
   text-decoration: none;
@@ -38,6 +66,8 @@ a:hover {
   .page-header {
     flex-direction: column; /* Stack items vertically */
     padding: 2rem 1rem;
+    /* Remove the waves background on smaller screens */
+    background-image: none;
   }
 
   .logo {
@@ -46,8 +76,7 @@ a:hover {
     margin-bottom: 1rem; /* Add some space below the logo */
   }
 
-  h1.project-name {
-    font-size: 2.5rem; /* Adjust font size for smaller screens */
+  .site-title {
+    font-size: 1.5rem; /* Adjust font size for smaller screens */
   }
 }
- 
