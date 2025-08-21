@@ -46,7 +46,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1f567f; /* azul escuro */
+  color: #399989;
+}
+
+.main-content h1, h2, h3, h4 {
+  color: #399989;
 }
 
 a {
