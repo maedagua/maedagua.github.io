@@ -46,11 +46,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #399989;
+  color: red;
 }
 
 .main-content h1, h2, h3, h4 {
-  color: #399989;
+  color: red;
 }
 
 a {
