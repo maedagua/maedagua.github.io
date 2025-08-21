@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-08-19 16:14:08.447000+00:00
+date: 2025-08-21 16:11:07.830000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -15,10 +15,10 @@ dateCreated: 2025-07-17 18:46:12.674000+00:00
 ## Introdução
 
 
-Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnologias](https://movimentopelabase.org.br/wp-content/uploads/2019/06/2018_12_keyshift_Cie%CC%82ncias-da-Natureza-na-BNCC_v01.pdf), por meio de atividades e trabalhos que promovem o aprendizado baseado em pesquisa experimental. A proposta envolve o desenho e a prototipação de um *toolkit*, com instrumentos científicos experimentais de [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto#:~:text=O%20movimento%20de%20c%C3%B3digo%20aberto,descoberta%20e%20pesquisa%20de%20medicamentos.&text=O%20termo%20%22c%C3%B3digo%20aberto%22%20foi,comercial%20evitando%20o%20discurso%20%C3%A9tico.) para o monitoramento da qualidade da água. Um exemplo bem sucedido e já implementado é a [senseBox](https://sensebox.de/en/), um *toolkit* desenvolvido para uso em educação digital, envolvendo Ciência Cidadã para coleta de dados ambientais.
+Essa iniciativa visa promover o ensino de [Ciências da Natureza e suas Tecnologias](https://movimentopelabase.org.br/wp-content/uploads/2019/06/2018_12_keyshift_Cie%CC%82ncias-da-Natureza-na-BNCC_v01.pdf), por meio de atividades e trabalhos baseados em pesquisa experimental. A proposta envolve o desenho e a prototipação de um *toolkit*, composto por instrumentos científicos experimentais de [código aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto#:~:text=O%20movimento%20de%20c%C3%B3digo%20aberto,descoberta%20e%20pesquisa%20de%20medicamentos.&text=O%20termo%20%22c%C3%B3digo%20aberto%22%20foi,comercial%20evitando%20o%20discurso%20%C3%A9tico.) para o monitoramento da qualidade da água.Um exemplo bem sucedido e já implementado é a [senseBox](https://sensebox.de/en/), um *toolkit* desenvolvido para uso em educação digital, envolvendo ciência cidadã para coleta de dados ambientais.
 
 
-Oferecemos uma estratégia de criação e implementação para atividades no Ensino Médio, assim como a sua utilização para gerar e analisar dados socioambientais, a partir de uma perspectiva crítica da análise e interpretação de cada território, seguindo a perspectiva de [Milton Santos](https://www.youtube.com/watch?v=TRfYvIors78):
+Oferecemos uma estratégia de criação e implementação para atividades no Ensino Médio, assim como a sua utilização para gerar e analisar dados socioambientais, a partir de uma perspectiva crítica da análise e interpretação de cada território, seguindo um ponto crucial descrito por [Milton Santos](https://www.youtube.com/watch?v=TRfYvIors78):
 
 > Cada pessoa não vê o universo a partir do universo, mas a partir de um lugar
 
@@ -28,10 +28,16 @@ A proposta é baseada em design e recursos educacionais abertos, e na apropriaç
 
 ### Nascente
 
-O processo que envolve os vídeos-tutoriais didáticos, e o material didático-instrucional foi batizado de **Nascente** - fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
+| ![[maedagua]nascentebadge.png]({{ '/assets/media/[maedagua]nascentebadge.png' | relative_url }})       | adjetivo: que nasce, que começa a aparecer
+| ----------- | ----------- |
 
+
+O processo que envolve os vídeos-tutoriais, e o material instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
 
 ### Iara
+
+| ![[maedagua]iarabadge.png]({{ '/assets/media/[maedagua]iarabadge.png' | relative_url }})     | sereia que vive em rios e lagos, encantada da mitologia tupi-guarani |
+| ----------- | ----------- |
 
 O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, foi chamado de **Iara**. Esse protótipo avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
@@ -41,18 +47,17 @@ O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confecci
 Listamos abaixo alguns dos conceitos-chave que guiaram esse desenvolvimento:
 
 
-### Apropriação Crítica de Tecnologias
-....
+- **Apropriação Crítica de Tecnologias**: Se refere ao processo de compreender e utilizar a tecnologia de forma consciente e reflexiva, levando em consideração seus impactos sociais, culturais e ambientais, em vez de simplesmente adotar ferramentas e plataformas sem questionamento. Engloba uma análise profunda de como a tecnologia moldou as civilizações e formas de utilizá-la para promover mudanças positivas e justas.
 
-### Ciência Aberta
-....
+- **Ciência Aberta**: Um movimento que visa tornar a pesquisa e os dados científicos acessíveis a todos, facilitando a publicação e comunicação do conhecimento científico. Utilizando o predomínio da internet e de ferramentas digitais, a ciência aberta permite a colaboração de pessoas em pesquisas em um âmbito mundial.
 
-### Ciência Cidadã
-....
+- **Ciência Cidadã**: Abordagem que envolve a participação de cidadãos não acadêmicos na prática científica (chamados de cidadãos cientistas), permitindo que a ciência seja realizada de forma mais colaborativa e inclusiva, com uma abordagem decolonial e plural.
 
-### Design Aberto
+- **Design Aberto**: ..
 ...
-### Pedagogia Hacker
+- **Pedagogia Hacker**:
 ....
 
-## Referências Bibliográficas
+## Referências
+....
+## Baixe Aqui
