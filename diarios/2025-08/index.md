@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Agosto 2025
 description: None
 published: True
-date: 2025-08-13 13:33:15.663000+00:00
+date: 2025-08-22 20:59:35.586000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-08-13 13:32:21.334000+00:00
@@ -15,8 +15,13 @@ dateCreated: 2025-08-13 13:32:21.334000+00:00
 
 Atividades realizadas no lab em Agosto de 2025
 
-## FF
+## GUIMA
+### 22.08.2025
 
+LLLLLL
+
+---------------------------------------------------------------------
+## FF
 ### 13.08.2025
 
 Trabalhei um pouco nos últimos dias estabilizando o subdomínio (inserindo o `cname` no script de deploy) e customizando o tema do website (cayman). Resultados em https://maedagua.fonte.wiki/ 
