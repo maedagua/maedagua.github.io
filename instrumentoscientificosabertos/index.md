@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-08-21 18:16:48.831000+00:00
+date: 2025-08-22 13:45:25.333000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -25,19 +25,12 @@ A proposta é baseada em design e recursos educacionais abertos, e na apropriaç
 
 ## Produtos
 
-### Nascente
-
+**Nascente** - *adjetivo: que nasce, que começa a aparecer*
 ![[maedagua]nascentebadge.png]({{ '/assets/media/[maedagua]nascentebadge.png' | relative_url }})
-*adjetivo: que nasce, que começa a aparecer*
-
-
-
 O processo que envolve os vídeos-tutoriais, e o material instrucional foi batizado de **Nascente**, fazendo analogia ao nascimento de um curso d'água e ao interesse às expirementações científicas.
 
-### Iara
-
+**Iara** - *sereia que vive em rios e lagos, encantada da mitologia tupi-guarani*
 ![[maedagua]iarabadge.png]({{ '/assets/media/[maedagua]iarabadge.png' | relative_url }})
-*sereia que vive em rios e lagos, encantada da mitologia tupi-guarani*
 
 O *toolkit*/protótipo do sensor de qualidade d’água de baixo custo, confeccionado com código aberto, replicável, para uso continuado e cotidiano, foi chamado de **Iara**. Esse protótipo avaliará: pH (indicador de acidez/neutralidade, que pode apontar poluição), turbidez (sedimentos em suspensão, relacionado ligado a chuva, esgoto, erosão), condutividade elétrica (indicador indireto de sais/detergentes/esgoto), e temperatura.
 
@@ -48,15 +41,10 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 
 
 - **Apropriação Crítica de Tecnologias**: Se refere ao processo de compreender e utilizar a tecnologia de forma consciente e reflexiva, levando em consideração seus impactos sociais, culturais e ambientais, em vez de simplesmente adotar ferramentas e plataformas sem questionamento. Engloba uma análise profunda de como a tecnologia moldou as civilizações e formas de utilizá-la para promover mudanças positivas e justas.
-
 - **Ciência Aberta**: Um movimento que visa tornar a pesquisa e os dados científicos acessíveis a todos, facilitando a publicação e comunicação do conhecimento científico. Utilizando o predomínio da internet e de ferramentas digitais, a ciência aberta permite a colaboração de pessoas em pesquisas em um âmbito mundial.
-
 - **Ciência Cidadã**: Abordagem que envolve a participação de cidadãos não acadêmicos na prática científica (chamados de cidadãos cientistas), permitindo que a ciência seja realizada de forma mais colaborativa e inclusiva, com uma abordagem decolonial e plural.
-
 - **Design Aberto**: ..
-...
-- **Pedagogia Hacker**:
-....
+- **Pedagogia Hacker**:....
 
 ## Referências
 ....

@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: None
 published: True
-date: 2025-08-21 18:18:51.229000+00:00
+date: 2025-08-22 13:48:51.731000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-27 20:14:36.216000+00:00
@@ -20,7 +20,7 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-...
+- **Em Mãe d'Água Design:** escrever e fazer organograma de Panteão dos Badges (hierarquia, usos e definições)
 
 ## Texto
 - **Em Mãe d'Água Instrumentos:** escrever itens do Glossário e Referências
