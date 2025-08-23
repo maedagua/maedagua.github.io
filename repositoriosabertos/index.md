@@ -1,34 +1,16 @@
 ---
-title: Untitled
+title: A Importância de Repositórios Abertos como Ambientes de Cuidado e Experimentação
 ---
 
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
 
 
-## Introdução
+# A Importância de Repositórios Abertos como Ambientes de Cuidado e Experimentação
 
 
-
-
-## Objetivos
-
-
-
-
-## Materiais e Métodos
-
-
-
-
-## Resultados
-
-
-
-## Discussão
-
-
-
-## Conclusões
+## I
+....
 
 
 ## Referências Bibliográficas
+...
