@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-21 16:46:42.599000+00:00
+date: 2025-08-24 00:39:17.710000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -53,7 +53,7 @@ Trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://
 
 - [Antropoceno e Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
 - [Direito das Zonas Costeiras]({{ '/direitoszonascosteiras' | relative_url }})
-- [Repositórios Abertos]({{ '/repositoriosabertos' | relative_url }})
+- [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos' | relative_url }})
 
 A partir deles geramos um conjunto de produtos extensionistas, chamado de **Ipupiara** - uma criatura mítica encontrada na época do Brasil Colônia, em São Vicente, São Paulo. No Tupi antigo, Ipupiara significa "o que mora dentro d'água".
 
@@ -88,7 +88,9 @@ Em breve
 ## Ficha Técnica
 
 **Coordenação - Lab Ecologia Humana/UNISANTA:** Milena Ramires
+
 **Pesquisa:** Maira Begalli, Ricardo Guimarães, Felipe Fonseca
+
 **Design e Produtos de Mídia:** Carolina Saravalli e Kevelyn Oliveira
 
 
