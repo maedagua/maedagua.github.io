@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: None
 published: True
-date: 2025-08-24 16:09:40.481000+00:00
+date: 2025-08-24 19:53:51.355000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-26 20:05:21.563000+00:00
@@ -31,11 +31,11 @@ Outro desafio é conceber e disponibilizar uma infraestrutura para sistematizar 
 
 ![divisor.png]({{ '/assets/media/divisor.png' | relative_url }})
 
-**Divisor de Águas** é uma expressão popular que tem origem na geografia física, onde é uma formação de relevo, como uma montanha ou serra, que separa diferentes bacias hidrográficas, direcionando as águas para distintos rios ou mares.
+**Divisor de Águas** é uma expressão popular que tem origem na geografia física, onde representa uma formação de relevo, como uma montanha ou serra, que separa diferentes bacias hidrográficas, direcionando as águas para distintos rios ou mares.
 
-A ideia central é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e direcionamento para url específica, de acordo com cada demanda.
+A intenção da ferramenta é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e direcionamento para url específica, de acordo com cada demanda.
 
-O segundo significado de cuidado é subjetivo, e remete ao aviso de perigo iminente. No universo dos arquivos digitais, pertencentes aos coletivos e comunidades de interesse, é importante considerar múltiplos perigos: do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira, que quando ultrapassada pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso para aqueles que têm apreço por ele.
+Mas também há um segundo significado para cuidado mais subjetivo, que remete ao aviso de perigo iminente e soa como um alerta para o universo dos arquivos digitais pertencentes aos coletivos e comunidades de interesse. É sobre a importância de considerar os múltiplos perigos: do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira que (quando ultrapassada) pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso e irreversível para aqueles que têm apreço por ele.
 
 
 ## Referências Bibliográficas
