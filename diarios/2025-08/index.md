@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Agosto 2025
 description: None
 published: True
-date: 2025-08-22 20:59:35.586000+00:00
+date: 2025-08-25 17:54:39.545000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-08-13 13:32:21.334000+00:00
@@ -18,7 +18,7 @@ Atividades realizadas no lab em Agosto de 2025
 ## GUIMA
 ### 22.08.2025
 
-LLLLLL
+Iniciamos una pesquisa para dev de um sensor mãe d'água mais acessível que a versão Iara (Universitária), para ser construido e documentado durante os encontros/workshop no SESC Santos até Novembro/2025
 
 ---------------------------------------------------------------------
 ## FF
