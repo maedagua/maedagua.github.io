@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: None
 published: True
-date: 2025-08-24 20:52:30.203000+00:00
+date: 2025-08-25 16:25:05.377000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-26 20:05:21.563000+00:00
@@ -35,8 +35,11 @@ Outro desafio é conceber uma infraestrutura para sistematizar projetos, narrati
 
 A intenção da ferramenta é fornecer uma maneira simples e flexível de gerar um site estático a partir de conteúdos selecionados, sem a necessidade de configuração manual de um ambiente, ou de gerenciar o processo de conversão de conteúdo. Também estabelece uma diferenciação, uma divisão das interfaces entre o [wiki](https://fonte.wiki/pt-br/projetos/maedagua) - que funciona como um ambiente de organização, trabalho e sistematização para quem o alimenta, e [o site estático](https://maedagua.fonte.wiki/) customizado com a Identidade Visual, logotipo, fontes, e direcionamento para url específica, de acordo com cada demanda.
 
-Mas voltando para a palavra cuidado, também há um segundo significado mais subjetivo que remete ao aviso de perigo iminente e soa como um alerta para o universo dos arquivos digitais pertencentes aos coletivos e comunidades de interesse. É sobre a importância de considerar os múltiplos perigos: do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira que (quando ultrapassada) pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso e irreversível para aqueles que têm apreço por ele. 
+Mas voltando para a palavra cuidado, também há um segundo significado mais subjetivo que remete ao aviso de perigo iminente e soa como um alerta para o universo dos arquivos digitais pertencentes aos coletivos e comunidades de interesse. É sobre a importância de considerar os múltiplos perigos: do desaparecimento, da desatualização, da violação e exposição de dados, ou mesmo de que um determinado conteúdo seja usado de maneiras contrárias às intenções originais de quem os publicou. O cuidado aqui aponta que existe uma fronteira que (quando ultrapassada) pode expor, fragilizar, esvaziar esse conteúdo - o que pode ser danoso e irreversível para aqueles que têm apreço por ele.
 
+Infelizmente, muitos projetos de comunidades de interesse, grupos de ativismo e centros de pesquisa  e ensino, caíram na logíca dos algoritmos das plataformas digitais em busca de engajamento e visibilidade, seguindo a máxima de que "quanto mais exposto, mais recompensado". Para ganhar escala muitos desses grupos entram nas chamadas "trends", publicizando suas fragilidades, acreditando que se trata de um processo de inclusão e participação social - por não compreenderem que seus dados e conteúdos são o produto que elas comercializam. Depositando, ainda, todo resgistro documental em sites que podem desaparecer a qualquer momento.
+
+Se no passado uma das grandes problematizações da inclusão era sobre o acesso, hoje é sobre o cuidado, em elucidar onde as pessoas estão sendo incluídas e o que cada um desses ambientes pode proporcionar. Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em instalações de data centers que causam grandes impactos ambientais, e das instabilidades que eventos climáticos extremos podem gerar nas infraestruturas causando grandes apagões de conexões e perda de dados, em todo planeta.
 
 ## Referências Bibliográficas
 ...
