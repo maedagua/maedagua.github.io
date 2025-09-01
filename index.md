@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-08-25 23:12:44.111000+00:00
+date: 2025-09-01 15:38:50.588000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -78,6 +78,7 @@ Em breve
 -------------------------
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
+- [Casco Pós-Balsa](http://www.casco-pos-balsa.com)
 - [Global Innovation Gathering](https://globalinnovationgathering.org/)
 - Paradoxo/ [Universidade Federal do ABC](https://www.ufabc.edu.br)
 - [Reuse City](https://reuse.city/)
