@@ -2,7 +2,7 @@
 title: Instrumentos Científicos Abertos para o Ensino das Ciências da Natureza
 description: None
 published: True
-date: 2025-08-27 10:59:20.426000+00:00
+date: 2025-09-01 13:18:07.383000+00:00
 tags: ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-07-17 18:46:12.674000+00:00
@@ -48,11 +48,11 @@ Listamos abaixo alguns dos conceitos-chaves que guiam esse desenvolvimento:
 
 ## Referências
 
-CABEZA, E. U. R.; MOURA, M.; ROSSI, D. D**esign aberto: prática projetual para a transformação social**. Strategic Design Research Journal, São Leopoldo, v. 7, n. 2, p. 56-65, agosto, 2014. DOI: https://doi.org/10.4013/sdrj.2014.72.02.  
+CABEZA, E. U. R.; MOURA, M.; ROSSI, D. **Design aberto: prática projetual para a transformação social**. Strategic Design Research Journal, São Leopoldo, v. 7, n. 2, p. 56-65, agosto, 2014. DOI: https://doi.org/10.4013/sdrj.2014.72.02.  
 
 BARBOSA, H.; HAYASHI, M. C. P. I.; SOUSA, C. M.; ROTHBERG, D. (orgs). **Apropriação social da ciência e da tecnologia: contribuições para uma agenda**. EDUEPB, p. 155-189. Campina Grande, Paraíba, 2011.
 
-LIMA, C. S.; ROCHA, B. M. O**pen design: Compartilhamento e democratização nas práticas de projeto**. Gestão & Tecnologia de Projetos, v.15, n.3, p. 6-17, julho, 2020. DOI: https://doi.org/10.11606/gtp.v15i3.166815.
+LIMA, C. S.; ROCHA, B. M. **Open design: Compartilhamento e democratização nas práticas de projeto**. Gestão & Tecnologia de Projetos, v.15, n.3, p. 6-17, julho, 2020. DOI: https://doi.org/10.11606/gtp.v15i3.166815.
 
 OLIVEIRA, A. C. S.; SILVA, E. M. **Ciência Aberta: Dimensões para um Novo Fazer Científico**. Informação & Informação, v.21, e.2, p. 5-39, agosto, 2016. DOI: https://doi.org/10.5433/1981-8920.2016v21n2p5.
 
