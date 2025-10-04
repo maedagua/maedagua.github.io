@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: None
 published: True
-date: 2025-10-03 21:26:41.499000+00:00
+date: 2025-10-04 01:22:49.810000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-26 20:05:21.563000+00:00
@@ -21,9 +21,9 @@ Um exemplo literal é portal culturadigital.br, que costumava ser financiado e m
 
 Esse caso, certamente não isolado, nos leva a problematizar sobre a importância de [cuidar](https://fonte.wiki/pt-br/projetos/cuidado) para quem e onde “confiamos” a guarda de acervos coletivos. Assim como, alertar sobre a necessidade da criação e manutenção de repositórios abertos, [em um momento que humanidade vive a desmaterialização e a desintegração da produção artística, científica e cultural](https://www.researchgate.net/publication/355046424_The_Big_Techification_of_Everything). Compreendendo, também, a maneira que esses repositórios possam vir a apoiar comunidades (locais ou distribuídas) como ambientes seguros de troca e experimentação, em contraponto à [monocultura das plataformas sob gestão de big techs](https://www.noemamag.com/we-need-to-rewild-the-internet/).
 
-Nesse contexto, a palavra **cuidado **pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
+Nesse contexto, a palavra **cuidado** pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
 
-![cuidado.png]({{ '/assets/media/cuidado.png' | relative_url }})
+![cuidado.png]({{ '/assets/media/cuidado.png' | relative_url }}){.align-center}
 
 Plataformas [wikis](https://pt.wikiversity.org/wiki/Ajuda:O_que_%C3%A9_uma_Wiki%3F) mostram-se uma alternativa potencial nesse sentido, por permitirem um formato de edição colaborativo e intuitivo, que independe de habilidades de programação ou acesso a servidores. Em contrapartida, precisam da “jardinagem”: uma analogia ao cuidado necessário para manutenção de jardins, que remete à ação concreta de cultivo, checagem, investimento de tempo e compromisso. Já que um wiki precisa ser planejado desde a hierarquia de seu conteúdo, até a moderação, revisão e edição para que mantenha sua contínua atualização. 
 
@@ -39,6 +39,6 @@ Voltando para a palavra cuidado, também há um segundo significado mais subjeti
 
 Infelizmente, comunidades de interesse, grupos de ativismo e até mesmo centros de pesquisa  e ensino caíram na logíca dos algoritmos das plataformas digitais em busca de engajamento e visibilidade, seguindo a máxima [de que quanto mais exposto, mais recompensado](https://floatvibes.substack.com/p/rituais-de-humilhacao-a-era-low-profile). Para ganhar escala frequentemente entram em *trends* e publicizam suas fragilidades, por acreditarem que estão em um processo de validação, reconhecimento, inclusão e participação social. A maior parte das vezes, não compreenderem que seus dados e conteúdos [são o produto comercializado](https://idec.org.br/dicas-e-direitos/venda-da-iris-do-olho-conheca-os-perigos-por-tras-dessa-pratica). Depositando, ainda, todo resgistro documental em sites que podem desaparecer a qualquer momento, sem nenhum tipo de acesso ao *backup*.
 
-Se no passado uma das grandes problematizações sobre a inclusão era sobre o acesso, hoje é sobre elucidar as pessoas [onde estão sendo incluídas e o que cada um desses ambientes pode proporcionar](https://nextnature.org/en/mission/projects/check-your-technoprivilege). Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em [instalações de *data centers* que causam grandes impactos](https://elpais.com/tecnologia/2025-08-09/el-patio-trasero-de-la-ia-un-mapa-de-la-fiebre-del-oro-del-siglo-xxi.html) [ambientais](https://www.youtube.com/watch?v=yj26gqIJMrM), e das instabilidades que [eventos climáticos](https://dl.acm.org/doi/10.1145/3232755.3232775) extremos podem gerar nas infraestruturas, causando grandes apagões de conexões e perda de dados, em todo planeta.
+Se no passado uma das grandes problematizações sobre a inclusão era sobre o acesso, hoje é sobre elucidar as pessoas [onde estão sendo incluídas e o que cada um desses ambientes pode proporcionar](https://nextnature.org/en/mission/projects/check-your-technoprivilege). Se antes o principal desafio era levar o sinal para populações em lugares de vias de díficil acesso (ribeirinhos, indigenas, quilombolas, pescadores, etc), atualmente falamos em [instalações de *data centers* que causam grandes impactos](https://elpais.com/tecnologia/2025-08-09/el-patio-trasero-de-la-ia-un-mapa-de-la-fiebre-del-oro-del-siglo-xxi.html) [ambientais](https://www.youtube.com/watch?v=yj26gqIJMrM), e das instabilidades que [eventos climáticos](https://dl.acm.org/doi/10.1145/3232755.3232775) extremos podem gerar nas [infraestruturas](https://www.infrapedia.com/), causando grandes apagões de conexões e perda de dados, em todo planeta.
 
 
