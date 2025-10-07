@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-10-03 21:21:28.109000+00:00
+date: 2025-10-07 17:19:56.512000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -57,7 +57,7 @@ Para isso, trabalhamos na elaboração de bases referenciais, para gerar [artigo
 
 A partir delas geramos um conjunto de produtos extensionistas, agregados numa [ZASF](https://desvio.github.io/blog/zasf/) (Zona Autônoma Sem Fio) batizada de **Ipupiara** - criatura mítica, que teve seus primeiros relatos documentais na época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), em São Vicente, São Paulo. 
 
-**Ipupiara** *um encantado tupi-guarani, que mora dentro d'água salgada*.
+**Ipupiara** - *um encantado tupi, aquele que mora dentro d'água salgada*.
 
 ![ipupiara_1.png]({{ '/assets/media/ipupiara_1.png' | relative_url }})
 
