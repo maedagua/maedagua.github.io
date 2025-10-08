@@ -2,7 +2,7 @@
 title: Repositórios Abertos e Práticas de Cuidado
 description: None
 published: True
-date: 2025-10-08 15:21:02.876000+00:00
+date: 2025-10-08 15:42:57.887000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-26 20:05:21.563000+00:00
@@ -23,8 +23,7 @@ Esse caso, certamente não isolado, nos leva a problematizar sobre a importânci
 
 Nesse contexto, a palavra **cuidado** pode ser explorada em dois sentidos. O primeiro deles é concreto e prático, embora também afetivo: o cuidado no sentido de manutenção, de cuidar daquilo que é importante para que esteja e continue acessível, não se desatualize. Pensar em estruturas que considerem uma documentação viva, ou seja, uma documentação digital com compartilhamento que “acontece enquanto as coisas acontecem”.
 
-![cuidado.png]({{ '/assets/media/cuidado.png' | relative_url }}){.align-center}
-
+![cuidado2.png]({{ '/assets/media/cuidado2.png' | relative_url }}){.align-center}
 
 Plataformas [wikis](https://pt.wikiversity.org/wiki/Ajuda:O_que_%C3%A9_uma_Wiki%3F) mostram-se uma alternativa potencial nesse sentido, por permitirem um formato de edição colaborativo e intuitivo, que independe de habilidades de programação ou acesso a servidores. Em contrapartida, precisam da “jardinagem”: uma analogia ao cuidado necessário para manutenção de jardins, que remete à ação concreta de cultivo, checagem, investimento de tempo e compromisso. Já que um wiki precisa ser planejado desde a hierarquia de seu conteúdo, até a moderação, revisão e edição para que mantenha sua contínua atualização. 
 
