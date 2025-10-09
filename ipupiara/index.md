@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: None
 published: True
-date: 2025-10-08 16:49:27.258000+00:00
+date: 2025-10-09 00:19:44.850000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-02 17:43:04.800000+00:00
@@ -12,8 +12,9 @@ dateCreated: 2025-10-02 17:43:04.800000+00:00
 
 
 # Você está no Ipupiara
-**e existe um oceano livre por aqui**
+**existe um oceano livre e um mar aberto por aqui**
 
+![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
 
 **Ipupiara** é um encantado da mitologia tupi: *aquele que mora dentro d'água salgada* (NAVARRO, 2013). Seus primeiros registros datam da época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/) nas praias de São Vicente, no litoral de São Paulo - e tiveram uma abordagem colonial que não só o descreveram como um monstro marinho, mas também como uma criatura que deveria ser dominada e destruída pelo homem branco (BOSI, 1992; GÂNDAVO, 1575). 
 
@@ -22,7 +23,7 @@ dateCreated: 2025-10-02 17:43:04.800000+00:00
 Ilustração de como teria sido a "morte de Ipupiara" (GÂNDAVO, 1575).
 
 
-Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), que o retratava de forma asustadora, mas foi incendiada [em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
+Naquela época, relatar sua morte também foi uma forma de afirmar a vitória do colono sobre a natureza, da ordem sobre o instinto. A história foi escrita e espalhada dessa forma por muitos anos. Chegaram a criar uma estátua na [**Praça 22 de Janeiro**](https://maps.app.goo.gl/ixfp87b4SQrkwcMH8), que o retratava de forma asustadora mas foi incendiada [em 2016](https://g1.globo.com/sp/santos-regiao/noticia/2016/02/monumento-lenda-do-ipupiara-pega-fogo-em-sao-vicente-sp.html). 
 
 ![ipufogo.png]({{ '/assets/media/ipufogo.png' | relative_url }})
 
@@ -44,23 +45,32 @@ O primeiro relato de Gândavo (1564), conta que em uma determinada noite **Ipupi
 
 Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busca?id=bxEA) livre, que às vezes aparece e às vezes some, assim como o [éter](https://michaelis.uol.com.br/busca?id=zvyO) que inflamou a queima da estátua indevida. *Encantou-se, mas ainda está por aí.*
 
+![prancheta_4_cópia.png]({{ '/assets/media/prancheta_4_cópia.png' | relative_url }})
 
 ## Zona Autônoma sem Fio - ZASF
 
-**Ipupiara** surge como [ZASF](https://desvio.github.io/blog/zasf/), uma proposta de rede *wi-fi* autônoma para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados.
+![ipupiara_1.png]({{ '/assets/media/ipupiara_1.png' | relative_url }})
 
+
+**Ipupiara** surge como [ZASF](https://desvio.github.io/blog/zasf/), uma proposta de rede wi-fi autônoma para uso experimental e informacional. É uma ação de uso crítico de tecnologias em um mundo cada vez mais mediado por redes e estruturas proprietárias que monitoram e capturam dados. 
 
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
 
 Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
 
-### [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }})
-### [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }})
-### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
-### [Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) 
-### Minidocumentário
+#### [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }})
+#### [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }})
+#### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
+#### [Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) 
 
+![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
+
+## Exemplos de desenvolvimento e aplicação:
+
+**[Nhandeflix](https://vimeo.com/841716747)** - uma plataforma de *streaming* criada por e para comunidades indígenas. Foi desenvolvida como um serviço local baseado em intranet que fornece conteúdo audiovisual indígena acessível por meio de uma rede wi-fi local, sem a necessidade de acesso à internet. A iniciativa aborda o desafio do acesso e o impacto da internet nas práticas culturais em territórios indígenas. Agrega conteúdo selecionado e tem atraído, especialmente, os mais jovens - também engajados na participarem dos aspectos técnicos do desenvolvimento e manutenção da rede. 
+
+**[HERMES](https://vimeo.com/398331581?fl=pl&fe=vl)** (*High-frequency Emergency and Rural Multimedia Exchange System*) - uma [rede local que opera por rádio de ondas curtas/HF](https://www.rhizomatica.org/hermes/), utilizando uma interface visual simplificada, acessível via smartphone ou computador, permitindo a transmissão e recepção de dados (chat, áudio, documentos, fotos, coordenadas de GPS, etc.) que podem ser criptografadas e protegidas por senha pelo remetente. 
 
 A documentação desse protótipo encontra-se aberta, para que possa ser replicada em outras comunidades costeiras e pesqueiras de interesse, auxiliando-as na gestão de dados sobre recursos ecossistêmicos locais (como: monitoramento de parâmetros climáticos e ambientais, impactos socioeconômicos das atividades pesqueiras, memória e cultura, etc), para que possam fomentar estratégias táticas para a proteção desses territórios e populações.
 
