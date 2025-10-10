@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2025-10-10 16:20:44.260000+00:00
+date: 2025-10-10 16:56:17.307000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -12,7 +12,7 @@ dateCreated: 2025-06-28 16:10:28.630000+00:00
 
 
 
-![home.png]({{ '/assets/media/home.png' | relative_url }})
+![home.png]({{ '/assets/media/home.png' | relative_url }}){.align-center}
 
 ![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
 
@@ -33,7 +33,6 @@ Ao longo dos anos, muitas iniciativas não apenas se inspiraram em **Mãe d' Ág
 
 Essa retomada focada em experimentação, desenvolvimento e pesquisa, também é uma retomada para modelos de documentação - e análise crítica ao compartilhamento/apropriação além do estabelecimento de identidade visual e sistematização de assets. Já que agora o conceito "parece real mas não é" pode ser aplicado como nunca.
 
-
 ## Desenvolvimento e Pesquisa
 
 Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas complementares, contando com subsídios da **Coordenação de Aperfeiçoamento de Pessoal de Nível Superior** - [CAPES](https://www.gov.br/capes/pt-br), e da **Fundação de Amparo à Pesquisa do Estado de São Paulo** - [FAPESP](https://fapesp.br/)
@@ -47,7 +46,7 @@ Atualmente o **Mãe d' Água** se desdobra em duas frentes de pesquisas compleme
 
 A [proposta](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-extensao-da-educacao-superior-na-pos-graduacao-proext-pg/edital-conjunto-n-03-2024) vinculada ao projeto **ETNOPESCA: Ações Socioambientais em Comunidades Costeiras Vulneráveis**, tem como objetivo realizar ações de ciência aberta e cidadã, voltadas a apropriação crítica de tecnologias de informação e comunicação (TICs) livres e abertas, capazes de democratizar o acesso e a disseminação de dados de pesquisa. 
 
-Para isso, trabalhamos na elaboração de bases referenciais, para gerar [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas e podcasts. A partir delas geramos um conjunto de produtos extensionistas, agregados numa [ZASF](https://desvio.github.io/blog/zasf/) (Zona Autônoma Sem Fio) batizada de [Ipupiara]({{ '/ipupiara' | relative_url }}) - criatura mítica que teve seus primeiros relatos documentais na época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), em São Vicente, São Paulo. 
+Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Artigo) colaborativos com informações enciclopédicas e podcasts. O que deu origem a um conjunto de produtos extensionistas, que foram agregados numa [ZASF](https://desvio.github.io/blog/zasf/) (Zona Autônoma Sem Fio) batizada de [Ipupiara]({{ '/ipupiara' | relative_url }}) - criatura mítica que teve seus primeiros relatos documentais na época do [Brasil Colônia](https://www.politize.com.br/brasil-colonia/), em São Vicente, São Paulo. 
 
 ![prancheta_4_cópia.png]({{ '/assets/media/prancheta_4_cópia.png' | relative_url }})
 
@@ -64,7 +63,6 @@ Para isso, trabalhamos na elaboração de bases referenciais, para gerar [artigo
 - **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 - **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
--------------------------
 ## Parceiros
 - [Bonde Verde](https://www.instagram.com/bondeverde)
 - [Casco Pós-Balsa](http://www.casco-pos-balsa.com)
