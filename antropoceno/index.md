@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: True
-date: 2025-11-09 13:52:17.465000+00:00
+date: 2025-11-10 09:44:36.162000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-30 17:40:46.418000+00:00
@@ -10,6 +10,8 @@ dateCreated: 2025-07-30 17:40:46.418000+00:00
 
 ***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
 
+
+# Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil
 
 No início do século XXI, a [intensificação das mudanças climáticas](https://brasil.un.org/pt-br/175180-o-que-s%C3%A3o-mudan%C3%A7as-clim%C3%A1ticas#:~:text=As%20concentra%C3%A7%C3%B5es%20de%20gases%20de,catastr%C3%B3ficas%20e%20decl%C3%ADnio%20da%20biodiversidade) e ambientais passou a impactar [diretamente os territórios costeiros](https://www.prb.org/resources/ripple-effects-population-and-coastal-regions/), onde atualmente vivem cerca de 40% da população mundial - uma porcentagem equivalente a 3 bilhões de pessoas. 
 
