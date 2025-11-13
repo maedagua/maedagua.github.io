@@ -2,7 +2,7 @@
 title: Direito das Zonas Costeiras e Territórios Hidrossociais
 description: por Tiago Andrade, Maira Begalli
 published: True
-date: 2025-11-13 17:06:38.455000+00:00
+date: 2025-11-13 17:28:18.799000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-28 15:10:37.161000+00:00
@@ -46,4 +46,4 @@ Uma posição que desafia a divisão fundante do [Estado moderno](https://www.ig
 Essa discussão levanta questões que ainda estão em aberto: Em que medida é sustentável e coerente aplicar a noção moderna de direitos quando falamos de outras relações com essas áreas? Quem deveria consistir o sujeito de direitos das **Zonas Costeiras e os Territórios Hidrossociais** em frente a uma perspectiva de generalizada e complexa crise ecológica, econômica, política e social?
 
 --------------------------------------
-Acesse nosso podcast sobre o tema
+**Acesse [nosso podcast sobre o tema](https://open.spotify.com/episode/5gurmvuB4bB15Y6OjpGfhn?si=eWC2G-ldTDm2AsetHTl4MQ)**
