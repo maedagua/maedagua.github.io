@@ -2,7 +2,7 @@
 title: Antropoceno e Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: True
-date: 2025-11-13 17:07:59.951000+00:00
+date: 2026-02-26 18:02:02.804000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-30 17:40:46.418000+00:00
@@ -46,7 +46,10 @@ Características sociodemográficas, como: raça, escolaridade, renda e saneamen
 Ou seja, não estamos todos "no mesmo barco", mas sim "na mesma tempestade": alguns em transatlânticos e outros sem boias, evidenciando a desigualdade na capacidade de enfrentar os desafios das zonas costeiras no mundo atual. 
 
 -------------------
-**Acesse nosso [podcast sobre o tema](https://open.spotify.com/episode/6hSqYmCRTuVXIv4rMU3weM?si=7a3c6bb990204fc5)**
+**Acesse nosso podcast sobre o tema:**
+
+Disponível no [Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-02-26T09_55_26-08_00) e no [Spotify](https://open.spotify.com/episode/6hSqYmCRTuVXIv4rMU3weM?si=7a3c6bb990204fc5)
+
 
 
 
