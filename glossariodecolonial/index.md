@@ -2,7 +2,7 @@
 title: Glossário Decolonial Colaborativo
 description: Uma outra leitura da obra "Fundação de São Vicente" em 2025
 published: True
-date: 2025-10-08 16:15:09.415000+00:00
+date: 2026-05-09 17:52:39.549000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-08 17:46:26.886000+00:00
@@ -34,6 +34,8 @@ Enredamento de pessoas ProComun
 
 
 
-
+------------------
+- [Diários do Projeto](https://fonte.wiki/pt-br/projetos/maedagua/diarios/2026-05)
+- [Termo de Uso e Imagem e Conscentimento](https://fonte.wiki/pt-br/projetos/maedagua/termo)
 
 
