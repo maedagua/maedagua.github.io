@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Maio 2026
 description: Atividades realizadas no lab em Maio de 2026
 published: True
-date: 2026-05-09 18:40:17.823000+00:00
+date: 2026-05-11 17:14:10.207000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-05-09 17:45:32.189000+00:00
@@ -15,14 +15,34 @@ dateCreated: 2026-05-09 17:45:32.189000+00:00
 
 Atividades realizadas no lab em Maio de 2026
 
-## MAIRA + GABI
-### 09.05.2025
+## MAIRA + MILENA
+### 07.05.2025
 
-No dia 25 de abril tivemos a primeira reunião de alinhamento para as oficinas do Glossário Decolonial no ProComum. Chegamos por volta de 14hs, e também tivemos uma breve participação no FLISOL que estava acontecendo na Colaboradora.
+Reunião no ProComum, para encaminhamentos da parceria com ProExtPG, sendo que a atividade do Lab Mãe d'Água inicia esse ciclo. Listamos rapidamente os pontos abaixo:
+
+- Termo de cooperação aberto;
+
+- Desejo de formação de uma rede que apoie pesquisa, extensão e inovação dentro das temáticas de comunidades, comum, inovação e possíveis parcerias com o poder público;
+
+- ProComum como estrutura fisíca, digital e fiscal para novas parcerias; 
+
+- Disponibilidade do ProComum para apoio metodológico em seminários e extensões;
+
+- Criar um programa de estágio;
+
+- Reuniões mensais
+
+
+Estiveram presentes: Victor, Lux, Maira, Laryssa, Milena e UNISANTOS
+
+## MAIRA + GABI
+### 02.05.2025
+
+No dia 25 de abril tivemos a primeira reunião de alinhamento para as oficinas do Glossário Decolonial no ProComum. Chegamos por volta de 14hs, e também tivemos uma breve participação no [FLISOL](https://sociedadepinguim.com.br/flisol-santos-2026/) que estava acontecendo na Colaboradora.
 
 Estiveram presentes: Gabriela, Camila, Laryssa, Ian, Welton, Maira, Lux e Victor.
 
-Fizemos o reconhecimento do local, escolhemos as portas para colar os quadrantes do quadro, e desenhamos a dinâmica das oficinas. Também definimos as datas de 16, 23 e 30 de maio.
+Fizemos o reconhecimento do local, escolhemos as portas para colar os quadrantes do quadro, e desenhamos a dinâmica das oficinas. Também definimos as datas de 16, 23 e 30 de maio, das 14h às 17h.
 
 ![dia1.procomuma.png]({{ '/assets/media/dia1.procomuma.png' | relative_url }})
 
@@ -57,6 +77,7 @@ _ 9, 16 e 23: Oficinas no ProComum e Captura do Documentário
 _ organizar dados do glossário no wiki
 _ 20/06: exposição da Obra no evento do ProExt na Unisanta
 _ preparar artigo/trabalho para mostra ou seminário
+_ intervenções com o Ipupiara
 _ edição e exibição do documentário
 
 
