@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: None
 published: True
-date: 2026-05-04 14:11:53.564000+00:00
+date: 2026-05-22 18:31:06.985000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-27 20:14:36.216000+00:00
@@ -20,12 +20,12 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
+- **Em Glossário** verbetes, obra final, minidoc e tutorial kel (figma)
 
 ## Texto
 - **Em Mãe d'Água home:** produtos e publis
-- **Em Mãe d'Água home:** linkar reaserch gate do projeto? zotero (unificar refs)
 - **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais/Archive, linkar material didático
-- **Em Glossário** Intro e metodologia
+- Calculadora de Vulnerabilidade: tudo
 
 
 
