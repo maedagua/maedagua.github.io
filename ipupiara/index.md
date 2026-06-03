@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: None
 published: True
-date: 2025-11-13 18:55:16.967000+00:00
+date: 2026-06-03 13:59:19.520000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-02 17:43:04.800000+00:00
@@ -62,7 +62,7 @@ Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer di
 #### [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }})
 #### [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }})
 #### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
-#### [Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) 
+#### [Terra Rara: Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) 
 
 ![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
 
