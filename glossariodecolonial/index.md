@@ -37,6 +37,10 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 > (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas (CAMARGO & NEVES, 2025).
 
+**_ PRIMEIRO MOMENTO (discussão, arquitetura, definição)
+_ segundo momento intervenções (verbetes de futuro, apagar coisas para desenhar nova história)
+_ exposição e minidoc**
+
 E a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
 - Mulheres Pesacadoras da Barra do Una
@@ -45,10 +49,12 @@ E a obra passou por três momentos de intervenção, com fragmentos populacionai
 
 ## **O nome das Coisas: Nossos Verbetes**
 
-- Lala
-- lalala
-- Lalala
-- alalalal
+Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661):
+
+- Terra Rara: **descerever**
+- Ecologia Humana: **descrever**
+- Tecnologias: **descrever**
+- Futuros: **descrever**
 
 ## Referências Bibliográficas
 
