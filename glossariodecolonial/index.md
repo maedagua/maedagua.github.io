@@ -49,12 +49,12 @@ E a obra passou por três momentos de intervenção, com fragmentos populacionai
 
 ## **O nome das Coisas: Nossos Verbetes**
 
-Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661):
+Sumarizamos os itens do Glossário em 4 eixos-chaves com cores correspondentes, e além da obra física, disponibilizamos [aqui](https://miro.com/app/board/uXjVHJwbZqw=/?share_link_id=491463750661) num board de Miro, e detalhamos os verbetes:
 
-- Terra Rara: **descerever**
-- Ecologia Humana: **descrever**
-- Tecnologias: **descrever**
-- Futuros: **descrever**
+- [Terra Rara]({{ '/glossariodecolonial/terrarara' | relative_url }}): verbetes relativos ao [ecossistema](https://www.nationalgeographicbrasil.com/meio-ambiente/2022/08/o-que-e-um-ecossistema) retratado na obra, ou seja, fatores bióticos e abióticos.
+- [Ecologia Humana]({{ '/glossariodecolonial/ecologiahumana' | relative_url }}): verbetes que descrevem a [dinâmica populacional](https://www.sciencedirect.com/topics/social-sciences/human-ecology em relação às instituições sociais e aos contextos espaço-temporais.
+- [Tecnologias]({{ '/glossariodecolonial/tecnologias' | relative_url }}): **descrever**
+- [Futuros]({{ '/glossariodecolonial/futuros' | relative_url }}): **descrever**
 
 ## Referências Bibliográficas
 
