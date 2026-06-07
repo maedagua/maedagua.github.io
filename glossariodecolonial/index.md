@@ -7,9 +7,11 @@ title: Untitled
 
 ## **Terra Rara**
 
-Nos últimos anos, cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
+Nos últimos anos cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
 
 Uma prática familiar para a Baixada Santista: uma Terra Rara, avistada por colonos sedentos. Clima, fauna e flora exuberantes. Um ambiente a ser amplamente explorado para ganhos monetários.
+
+![boardterrarara.png]({{ '/assets/media/boardterrarara.png' | relative_url }})
 
 [São Vicente](https://www.al.sp.gov.br/noticia/?id=492566), cidade da Baixada Santista do Litoral do Sul de São Paulo, é considerada a primeira vila do país, e foi "fundada" por [Martim Afonso](https://pt.wikipedia.org/wiki/Martim_Afonso_de_Sousa), em 22 de janeiro de 1532. 
 
@@ -22,7 +24,8 @@ Não só a construção dessa materialidade, mas a própria história também fo
 O quadro ["A Fundação de São Vicente"](https://revistas.usp.br/anaismp/pt_BR/article/view/149934), traz a força desse simbolismo. Hoje sediado no [Museu Paulista](https://museudoipiranga.org.br/palestra-representando-as-origens-as-fundacoes-de-sao-paulo-e-sao-vicente-na-pintura-1900-a-1954/) em uma sala suntuosa com molduras douradas, longe de seu local de "captura", a própria Praça 22 de Janeiro, em São Vicente - hoje sucateada, povoada por pessoas e animais em situação de rua. Uma realidade muito distante da precária [Casa de Martim Afonso](https://maps.app.goo.gl/W7p2jH3qGM1BTcJRA), mal conservada, esquecida. Atualmente (em 2026), a Praça está passando por uma reforma financiada pelo BNDES, que também está financiando projetos para [Resiliência Climática](https://agenciadenoticias.bndes.gov.br/socioambiental/BNDES-aprova-R$-200-milhoes-para-projeto-de-resiliencia-climatica-em-Santos-SP/) na região.
 
 ![fsvc.png]({{ '/assets/media/fsvc.png' | relative_url }})
-Fundação de São Vicente na sala A-10, em 1937. Acervo do Museu Paulista da USP. Foto: Helio Nobre
+
+Fundação de São Vicente na sala A-10, em 1937. Acervo do Museu Paulista da USP. Imagem: Helio Nobre.
 
 Esse contexto revela uma história presa em [pálacios-mortos](https://www.goethe.de/prj/hum/pt/nac/kos/26349282.html), onde o imagético tem mais valor, mais valia do que os ecossistemas, em um cenário global em que negociamos [1 hectare de floresta por USD$ 4](https://exame.com/esg/novo-fundo-global-busca-frear-desmatamento-com-recompensa-de-us-4-por-hectare-preservado/) como algo bom, um avanço.  
 
