@@ -38,7 +38,7 @@ Uma versão crítica da própria antropofagia: [devemos nos apropriar de tudo aq
 
 ## **Como fizemos**
 
-Realizamos a divisão da obra original em frames, e criamos um tutorial de montagem para que essa experiência pudesse ser replicada, e disponibilizamos aqui.
+Realizamos a divisão da obra original em frames, e criamos um tutorial de montagem para que essa experiência pudesse ser replicada, e [disponibilizamos aqui](https://docs.google.com/presentation/d/1JC4UduYfZ2F1iMIg-cIt5nVLiw_moKpv24iBKiWgKWM/edit?usp=sharing).
 
 Depois colamos, como lambe-lambe, e começamos a intervenção. Durante esse processo, listamos e nomeamos o que gostaríamos de identificar para criarmos os verbetes colaborativos.
 
@@ -46,7 +46,7 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 > (..) o conhecimento não nasce apenas da razão abstrata, mas do corpo, do gesto, da voz, do ritual - dos sentires. São saberes desprezados pelo Ocidente, mas fundamentais para a existência da vida na Terra, transmitidos por gerações, preservados e atualizados nas práticas ancestrais e contemporâneas cotidianas (CAMARGO & NEVES, 2025).
 
-No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa. Também montamos na obra numa estrutura replicável, com tutoriial **link**.
+No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa. Também montamos na obra numa estrutura replicável, com tutorial **link**.
 
 Posteriormente, a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
