@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-06-06 23:20:27.990000+00:00
+date: 2026-06-08 21:38:33.592000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00
@@ -13,7 +13,7 @@ dateCreated: 2026-06-06 22:15:01.576000+00:00
 
 # Terra Rara: Ecossistema
 
-> *Minha terra tem palmeiras,Onde canta o Sabiá*
+> *Minha terra tem palmeiras,onde canta o sabiá*
 > *As aves, que aqui gorjeiam, não gorjeiam como lá.*
 Canção do Exílio. [Gonçalves Dias](https://www.academia.org.br/academicos/goncalves-dias/biografia), 1843.
 
