@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: None
 published: True
-date: 2026-06-03 13:59:19.520000+00:00
+date: 2026-06-09 19:42:35.619000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-02 17:43:04.800000+00:00
@@ -57,12 +57,11 @@ Desde então, **Ipupiara** virou um [espectro](https://michaelis.uol.com.br/busc
 > Uma ZASF é um ponto de reflexão sobre algumas polaridades que emergem: criação de sentido local ou dissolvência na internet; compartilhar e acessar informação livre ou ensinar e aprender a partir da descoberta e do desafio; usar ferramentas comerciais remotas ou manter serviços de rede no próprio computador; etc.
 
 
-Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, inicialmente oferecendo os conteúdos:
+Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer dispositivo que queira se conectar a ela. Uma vez conectado, qualquer tentativa de navegar na internet direcionará o dispositivo para um site local, no caso **Ipupiara**, contendo os artigos com podcasts das bases temáticas usadas neste projeto, e seus respectivos produtos extensionistas:
 
-#### [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }})
-#### [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }})
-#### [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }})
-#### [Terra Rara: Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) 
+- [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }}), e a **documentção da ZASF Ipupiara** (tutorial, código e materiais) como uma alternativa para cuidado de dados sensíveis;
+- [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }}), e [Terra Rara: Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) que traz um inventário das dinâmicas territoriais da primeira vila do Brasil, São Vicente, que moldou a dinâmica de exploração de recursos e pessoas no país;
+- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }}), e o **Índice de Vulnerabilidade Costeira** para os municípios da Baixada Santista.
 
 ![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
 
