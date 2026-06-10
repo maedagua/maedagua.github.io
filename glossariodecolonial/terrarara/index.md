@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-06-08 21:38:33.592000+00:00
+date: 2026-06-10 19:19:30.285000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00
@@ -22,7 +22,7 @@ Descerever que lindo foi alalallalaa
 
 - Campo Aberto
 
-- Jundú
+- Jundú: cordão de vegetação que fica a beira mar
 
 - Dia de Verão
 
