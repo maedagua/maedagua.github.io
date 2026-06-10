@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: None
 published: True
-date: 2026-06-09 19:42:35.619000+00:00
+date: 2026-06-10 12:58:40.203000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-02 17:43:04.800000+00:00
@@ -61,7 +61,7 @@ Ela funciona como uma rede localizada em um ambiente x, acessível a qualquer di
 
 - [Repositórios Abertos e Práticas de Cuidado]({{ '/repositoriosabertos/' | relative_url }}), e a **documentção da ZASF Ipupiara** (tutorial, código e materiais) como uma alternativa para cuidado de dados sensíveis;
 - [Direitos das Zonas Costeiras e Territórios Hidrossociais]({{ '/direitoszonascosteiras/' | relative_url }}), e [Terra Rara: Glossário Decolonial Colaborativo]({{ '/glossariodecolonial' | relative_url }}) que traz um inventário das dinâmicas territoriais da primeira vila do Brasil, São Vicente, que moldou a dinâmica de exploração de recursos e pessoas no país;
-- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }}), e o **Índice de Vulnerabilidade Costeira** para os municípios da Baixada Santista.
+- [Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil]({{ '/antropoceno' | relative_url }}), e  [Siren: Índice de Vulnerabilidade Costeira para os municípios da Baixada Santista]({{ '/indicedevulnerabilidadebaixadasantista' | relative_url }}) 
 
 ![prancheta_4_cópia_2.png]({{ '/assets/media/prancheta_4_cópia_2.png' | relative_url }})
 
