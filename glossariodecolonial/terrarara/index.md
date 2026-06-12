@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-06-10 19:19:30.285000+00:00
+date: 2026-06-12 19:43:47.106000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00
@@ -17,24 +17,24 @@ dateCreated: 2026-06-06 22:15:01.576000+00:00
 > *As aves, que aqui gorjeiam, não gorjeiam como lá.*
 Canção do Exílio. [Gonçalves Dias](https://www.academia.org.br/academicos/goncalves-dias/biografia), 1843.
 
-Descerever que lindo foi alalallalaa
+Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um dia de verão, era janeiro de 1532. O céu azul, os pássaros, as praias, a moldura da Mata Atlântica. Um novo mundo, tantos itens possíveis de extração e comercialização. 
 
 
-- Campo Aberto
+- **Campo Aberto**: local entre a faixa de areia, e a vegetação. Espaço em que os colonos se estabeleceram, negociaram. Hoje visto como [Orla](https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/orla).
 
-- Jundú: cordão de vegetação que fica a beira mar
+- **Jundú**: cordão de vegetação que fica a beira mar, ou [mato que protege o litoral](https://www.bioicos.org.br/post/jundu-o-mato-que-protege-o-litoral).
 
-- Dia de Verão
+- **Dia de Verão**: Nessa região, o verão ocorre entre o final de dezembro e o final de março, as temperaturas médias ficam acima de 30°C, com sensação térmica maior, por causa da umidade. É a época mais chuvosa do ano, com picos de chuva entre janeiro e fevereiro. Pela escala de Köppen-Geiger o clima é definido como Af (Clima Tropical Úmido). Em 22 de janeiro de 1532 não encontramos: turistas e lixo nas praias, palcos de show do verão superfaturados, sensação térmica extrema ou uso de ar condicionado.
 
-- Ilha Porchat
+- **Ilha Porchat**: Ilha adquirida pela família Porchat no século XIX. Hoje abriga uma edificação de Oscar Niemeyer, mas já sediou clubes e grandes festas. Antes não tinha esse nome, pois era um bem comum, sem dono.
 
-- Mar
+- **Mar**: Há quem chame de Kalunga Grande, local de oferenda para Iemanjá. Para populações pesqueiras: local de onde vem o sustento. Para poetas fontes de inspiração. Para a fauna e flora costeira também pode ser chamado de casa. Na época: local de onde chegou o homem branco colonizador.
 
-- Mata Atlântica
+- **Mata Atlântica**: Bioma com biodiversidade exauberante, tropical, vegetação complexa. Infelizmente encontra-se em processo de [intensa fragmentação e destruição](https://www.ibflorestas.org.br/bioma-mata-atlantica), iniciada com a exploração do Pau-Brasil no século XVI.
 
-- Morros
+- **Morros**: Ilhas com morros e morros presentes no desennho da costa. Antes compunham uma paisagem perfeita. Hoje, marcados por deslizamentos, ocupações irregulares e desmatamento. 
 
-- Pássaros
+- **Pássaros**: possivelmente Gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
 
 
 
