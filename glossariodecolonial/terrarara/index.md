@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-06-13 13:47:09.632000+00:00
+date: 2026-06-13 13:47:43.559000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00
@@ -32,7 +32,7 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 
 **Morros**: Ilhas com morros e morros presentes no desennho da costa. Antes compunham uma paisagem perfeita, com um desenho subindo acima do nível do mar. Hoje, marcados por deslizamentos, ocupações irregulares e desmatamento. 
 
-**Pássaros**: Possivelmente Gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
+**Pássaros**: Possivelmente gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
 
 
 

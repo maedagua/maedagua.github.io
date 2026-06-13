@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description: Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: True
-date: 2026-06-07 21:00:07.643000+00:00
+date: 2026-06-13 13:54:12.160000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:39:08.148000+00:00
@@ -16,16 +16,16 @@ dateCreated: 2026-06-06 22:39:08.148000+00:00
 Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pesquisa/colonizador/) realizou feitos, criou uma narrativa própria que foi contada e recontada - até hoje em comemorações. Vamos falar do que estava antes, de quem estava antes, da memória antropofágica que tem permitido que as histórias sejam questionadas, revisitadas, contestadas, recriadas.
 
 > *A fixação do progresso por meio de catálogos e aparelhos de televisão. Só a maquinaria. E os transfusores de sangue. Contra as sublimações antagônicas. Trazidas nas caravelas. Contra a verdade dos povos missionários, definida pela sagacidade de um antropófago, o Visconde de Cairu: – É mentira muitas vezes repetida.*
-> Manifesto Antropófago. [Oswalde de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
+> **Manifesto Antropófago**. [Oswalde de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
 
 
 ![img-20251228-wa0051.jpg]({{ '/assets/media/img-20251228-wa0051.jpg' | relative_url }})
 Convite do baile de carnaval organizado pela Sociedade Pró-Arte Moderna (SPAM) em 1934. Imagem: Maira Begalli, 2026.
 
-- Lideranças em Negociação
-- Nobreza
-- Padre Catequizando
-- Pessoas em Mediação
-- Povos Originários
-- Vigia
-- Vilão
+**Lideranças em Negociação**:
+**Nobreza**:
+**Padre Catequizando**:
+**Pessoas em Mediação**:
+**Povos Originários**:
+**Vigia**:
+**Vilão**:
