@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Maio 2026
 description: Atividades realizadas no lab em Maio de 2026
 published: True
-date: 2026-06-02 20:40:37.851000+00:00
+date: 2026-06-15 19:50:55.562000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-05-09 17:45:32.189000+00:00
@@ -31,7 +31,7 @@ Definimos as tags principais e tags secundárias para destrincharmos o Glossári
 
 O madeirite separado para utilizarmos molhou e acabamos usando uma porta muito pesada na primeira dinâmica. Gabi sinalizou a questão e Silvana sobre plastificarmos.
 
-Os próximos encontros ficaram definidos para 19/06, 20/06 e 17/07.
+Os próximos encontros ficaram definidos para 20/06 e 17/07.
 
 Durante os dias seguintes, conversei com o Kel sobre o ajuste, e também sobre fazer em Papel Paraná (tanto pela replicabilidade, quanto a leveza) e a possibilidade de encadernar.
 
