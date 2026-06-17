@@ -2,7 +2,7 @@
 title: Tecnologias
 description: inventividades, adaptações de instrumentos e criação de novas ferramentas
 published: True
-date: 2026-06-13 13:52:32.767000+00:00
+date: 2026-06-17 19:47:29.182000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:45:12.207000+00:00
@@ -23,7 +23,7 @@ Bem antes de usarmos água para esfriar *data centers*, enviarmos foguetes para 
 **Cruz para Demarcar Território**:
 **Espada**:
 **Espingarda**:
-**Flecha**:
+**Flecha**: ataque e corrida
 **Fogueira Apagada**:
 **Lança**:
 **Maracá**:
