@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description: Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: True
-date: 2026-06-13 13:54:12.160000+00:00
+date: 2026-06-19 21:49:16.727000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:39:08.148000+00:00
@@ -19,13 +19,16 @@ Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pe
 > **Manifesto Antropófago**. [Oswalde de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
 
 
-![img-20251228-wa0051.jpg]({{ '/assets/media/img-20251228-wa0051.jpg' | relative_url }})
-Convite do baile de carnaval organizado pela Sociedade Pró-Arte Moderna (SPAM) em 1934. Imagem: Maira Begalli, 2026.
+**Lideranças em Negociação**: Processo de convencimento por parte dos colonos e de tensionamento por parte do povo originário.
 
-**Lideranças em Negociação**:
-**Nobreza**:
-**Padre Catequizando**:
-**Pessoas em Mediação**:
-**Povos Originários**:
-**Vigia**:
-**Vilão**:
+**Nobreza**: Posição hierárquica absoluta, quem deve ser reverenciado. Possivelmente o autor da expressão "Você sabe com quem está falando?"
+
+**Padre Catequizando**: Autoridade da Igreja Católica, homem. Realizando processo de convencimento sobre sua doutrina.
+
+**Pessoas em Mediação**: Trocas, compreensão entre dois grupos populacionais, tensão.
+
+**Povos Originários**: Grupo populacional que habitava o litoral do estado de São Paulo, e de outros lugares do Brasil, antes da chegada dos colonos.
+
+**Vigia**: Aquele que observa e está pronto para agir, com armas, a favor do colonizador.
+
+**Vilão**: Não é o contrário do mocinho, é aquele que invade, destrói, engana, corrói.
