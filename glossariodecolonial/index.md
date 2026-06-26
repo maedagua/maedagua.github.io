@@ -52,7 +52,7 @@ No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-
 
 Posteriormente, a obra passou por três momentos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
-- Mulheres Pesacadoras da Barra do Una, durante o I Seminário PROEXT-PG da UNISANTA.
+- Com o público do I Seminário PROEXT-PG, na UNISANTA
 - Mulheres da Turma do Borbado, no ProComum
 - [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla, durante o encerramento do projeto.
 
