@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-06-22 19:51:24.586000+00:00
+date: 2026-07-04 22:34:44.062000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -13,8 +13,9 @@ dateCreated: 2026-06-10 13:15:37.220000+00:00
 
 # Siren
 
-Intro
-Sirene, Sereia, que canta, avisa
+Na mitologia grega, as [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia) eram criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares atraindo marinheiros com canções hipnóticas. Embora suas origens sejam difusas, é provável que suas tragetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, aquele que fosse capaz de ignorar às canções de uma sereia, deveria morrer. Quando passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as [criaturas luminescentes nas zonas abissais](https://revistapesquisa.fapesp.br/wp-content/uploads/2025/07/044-047_bioluminescencia-marinha_354.pdf).
+
+Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo Super El Niño de 2026-2027, as sereias vieram à tona, novamente, utilizando tecnomagia como meio e PureData para emitir sirenes - em uma analogia aos dados puros, sem distorções políticas de que é um oax ou que ainda há tempo. 
 
 ![ativo_13_1.png]({{ '/assets/media/ativo_13_1.png' | relative_url }})
 
