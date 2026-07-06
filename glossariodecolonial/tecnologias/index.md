@@ -2,7 +2,7 @@
 title: Tecnologias
 description: inventividades, adaptações de instrumentos e criação de novas ferramentas
 published: True
-date: 2026-06-19 21:42:00.225000+00:00
+date: 2026-07-06 22:41:02.409000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:45:12.207000+00:00
@@ -20,6 +20,8 @@ Bem antes de usarmos água para esfriar *data centers*, enviarmos foguetes para 
 
 **Cajado**: Elemento de madeira em formato de bastão. Muito utilizado como apoio em caminhadas e pastoreio de animais.
 
+**Capacete**: substantivo masculino. Chapéu de forma arredondada, de metal, couro, cortiça ou outro material resistente. Sua finalidade básica é proteger a cabeça. Os capacetes são feitos de maneira a se ajustarem bem à cabeça, protegendo os ouvidos, o pescoço e os olhos. Os capacetes são usados por soldados, aviadores, bombeiros, alguns policiais, alguns atletas e alguns trabalhadores industriais. Nos climas tropicais, as pessoas costumam usar capacetes de cortiça para proteger a cabeça do sol.
+
 **Caravelas**: Meio de transporte aquático robusto. Meio utilizado pelos colonizadores para atravessar o Atlântico e aportar em terras Abya Yala, mais tarde nomeada de Brasil.
 
 **Cocar x Coroa**: Cocar é um elemento feito de penas, utilizado na cabeça por diversas populações indígenas. Possui funções diferentes a depender da etnia. Coroa é um elemento identificador de nobreza e monarquia, utilizado na cabeça. A utilização de cocar ou coroa cria uma separação elementar entre portugueses e indígenas, entre colonizadores e colonizados.
@@ -35,6 +37,11 @@ Bem antes de usarmos água para esfriar *data centers*, enviarmos foguetes para 
 **Flecha**: Vara feita de madeira, pontiaguda em uma das extremidades e penas na outra. Utilizada junto com arco como arma para proteção, ataque e caça.
 
 **Fogueira Apagada**: Montante de madeiras escuras com aspecto de que houve queima. Utilizada para cozimento de alimentos, rituais, festividades, gerar calor. 
+
+**Indumentária**: substantivo feminino. Roupa; o que alguém usa para se vestir. Conjunto do vestuário utilizado em determinada época, região ou povo.
+
+**Instrumentos para pesca**: substantivo masculino. Aparelho que serve para executar uma obra ou fazer uma operação; nesse caso, o ato de pescar. Sinônimos: ferramenta, utensílio.
+
 
 **Lança**: Arma feita a partir de vara de madeira com extremidade pontiaguda, utilizada como proteção, ataque e caça. 
 
