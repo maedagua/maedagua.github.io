@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-07-09 22:17:37.668000+00:00
+date: 2026-07-10 19:39:01.028000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -17,7 +17,7 @@ Na mitologia grega, as [sereias](https://www.nationalgeographicbrasil.com/histor
 
 Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo ["Super" El Niño de 2026-2027](https://wmo-int.translate.goog/news/media-centre/wmo-prepare-el-nino?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc), as sereias vieram à tona, novamente, utilizando tecnomagia como meio e [PureData](https://puredata.info/) para emitir sirenes - em uma analogia aos dados puros, [sem distorções políticas de que é um hoax ou que ainda há tempo](https://apublica.org/2026/02/manipulando-a-ciencia-trump-faz-seu-pior-ataque-a-luta-contra-a-crise-climatica/). 
 
-![ativo_13_1.png]({{ '/assets/media/ativo_13_1.png' | relative_url }})
+![badgesiren.png]({{ '/assets/media/badgesiren.png' | relative_url }})
 
 A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municípios da Baixada Santista, correlacionando 2 camadas de dados: 
 
