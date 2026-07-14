@@ -54,8 +54,6 @@ Posteriormente, a obra passou por três momentos de intervenção, com fragmento
 
 - Com o público do I Seminário PROEXT-PG, na UNISANTA
 - Mulheres da Turma do Borbado, no ProComum
-- [Crias pelo Clima](https://criaspeloclima.procomum.org/), jovens do Instituto Kondizilla, durante o encerramento do projeto.
-
 
 ## **O nome das Coisas: Nossos Verbetes**
 
