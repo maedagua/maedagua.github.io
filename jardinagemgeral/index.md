@@ -2,7 +2,7 @@
 title: Jardinagem Geral
 description: None
 published: True
-date: 2026-06-14 21:10:06.273000+00:00
+date: 2026-08-09 22:18:06.135000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-27 20:14:36.216000+00:00
@@ -20,10 +20,10 @@ Os itens podem ser editados/eliminados a medida que forem solucionados, e outros
 
 
 ## Design
-- **Em Glossário** minidoc e tutorial kel (figma)
+- **Em Glossário** minidoc
 
 ## Texto
-- **Em Mãe d'Água home:** produtos e publis
+- **Em Mãe d'Água home:** produtos e publis (Proext, Gestec)
 - **Em Mãe d'Água Instrumentos:** linkar vídeos instrucionais/Archive
 - Indice de Vulnerabilidade: tudo
 - ZASF: tudo
