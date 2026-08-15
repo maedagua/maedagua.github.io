@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2026-08-05 22:12:14.633000+00:00
+date: 2026-08-15 17:13:06.349000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -59,6 +59,8 @@ Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos]
 
 ## Publicações e Produtos
 
+- **Repositórios Abertos de Práticas de Cuidado**. Apresentação de Trabalho. I Simpósio Soberania Tecnológica e Autonomia Cognitiva: Perspectivas Críticas para o Sul Global. GESTEC - Universidade Ferderal do ABC - UFBAC. São Bernardo do Campo, agosto de 2026.
+- **Lab Mãe d'Água: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia**. Apresentação de Trabalho. I Seminário de Extensão na Pós-Graduação da Universidade Santa Cecília - UNISANTA. Santos, junho de 2026.
 - **Apropriação Crítica de Tecnologias, Percepção Socioambiental e Petróleo, em Santos -SP**. [Tropixel: arte, ciência, tecnologia e sociedade](http://dx.doi.org/10.13140/RG.2.1.3633.8644). 1ed. Salvador: EDUFBA, 2015, p. 165-188.
 - **Avaliação do Potencial de desenvolvimento de Futuros Laboratórios Experimentais como células de co-manejo nos Pontos de Cultura do Muncicípio de Santos-SP**. [Revista LABVERDE](http://dx.doi.org/10.11606/issn.2179-2275.v0i6p145-158), v. 1, p. 144-158, 2013.
 
