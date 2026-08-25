@@ -2,7 +2,7 @@
 title: Futuros
 description: O que será que pode acontecer no futuro breve?
 published: True
-date: 2026-06-13 20:58:36.617000+00:00
+date: 2026-08-25 18:18:14.079000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:55:57.017000+00:00

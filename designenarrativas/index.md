@@ -2,7 +2,7 @@
 title: Design Aberto e outras Narrativas sobre Tecnologias
 description: Sistema de Identidade Visual e Assets replicáveis para Mãe d'Água
 published: True
-date: 2025-11-13 18:57:16.148000+00:00
+date: 2026-08-25 18:12:54.607000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-25 17:43:00.612000+00:00

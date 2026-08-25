@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description: Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: True
-date: 2026-07-07 21:04:16.800000+00:00
+date: 2026-08-25 18:18:00.796000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:39:08.148000+00:00

@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Maio 2026
 description: Atividades realizadas no lab em Maio de 2026
 published: True
-date: 2026-07-03 02:40:14.855000+00:00
+date: 2026-08-25 18:17:39.191000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-05-09 17:45:32.189000+00:00

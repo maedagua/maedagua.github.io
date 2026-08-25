@@ -2,7 +2,7 @@
 title: Você está no Ipupiara
 description: None
 published: True
-date: 2026-07-13 19:58:03.348000+00:00
+date: 2026-08-25 18:15:08.663000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-02 17:43:04.800000+00:00

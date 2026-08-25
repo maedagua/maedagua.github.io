@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-07-06 22:48:06.132000+00:00
+date: 2026-08-25 18:17:53.379000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00

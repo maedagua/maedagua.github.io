@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Junho 2026
 description: Atividades realizadas no lab em Junho de 2026
 published: True
-date: 2026-07-04 21:46:51.664000+00:00
+date: 2026-08-25 18:18:35.503000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-25 18:56:59.815000+00:00
