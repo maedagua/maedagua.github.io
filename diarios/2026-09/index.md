@@ -1,0 +1,97 @@
+---
+title: Diários de Pesquisa - Setembro 2026
+description: Atividades realizadas no lab em Setembro de 2026
+published: True
+date: 2026-09-21 12:13:24.769000+00:00
+tags: None
+editor: markdown
+dateCreated: 2026-09-21 11:43:27.463000+00:00
+---
+
+***Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia***
+
+
+# Diários de Pesquisa - Setembro
+
+
+## MAIRA
+### 21.09.2026
+
+Desde junho, após a realização do Simpósio de Pós-graduação na UNISANTA, tivemos um redimensionamento das atividades, que seguem listadas abaixo:
+.
+.
+.
+#### TERRA RARA: Glossário Decolonial Colaborativo
+
+[Atividades](https://fonte.wiki/projetos/maedagua/glossariodecolonial)
+
+- 28/09: Laryssa leva **a Obra no ProComum**
+
+- 29/09, às 9h: **Intervenção na Obra**, com a Equipe Interna ProComum. 
+
+Fala inicial online na reunião de planejamento, expondo brevemente o conceito e referências estáticas. Materiais: Tinta, branquinho, canetas, recortes, colagens;
+
+- 01/10, noite: Coleta para os verbetes do Glossário, com integrantes do [SALVE](https://salve.procomum.org/)
+
+O foco de trabalho com esse fragmneto populacional é abordar a quesão da violência da colonização x vulnerabilidade de populações costeiras e pesqueiras da Baixada Santista como violência sistêmica;
+
+- Até 15/10: **Sistematização da coleta, verbetes e análise crítica**;
+
+- Entre 15 e 25/10: **Diagramação e upload** de pdf;
+
+- 25/10 à 01/11: **Elaboração da Apresentação para Seminário no Museu do Imigrante** abordando: Processo de colonização inicial x práticas do branco salvador, envolvimento de populações costeiras/pesqueiras vulneráveis, quem são essas populações, novas lógicas de colaboração sem exposição;
+
+- 19/11, 11h35: **Apresentação do trabalho** + Obra no Museu do Imigrante - SP.
+.
+.
+.
+#### SIREN: ÍNDICE DE VULNERABILIDADE COSTEIRA
+
+[Atividades](https://fonte.wiki/pt-br/projetos/maedagua/indicedevulnerabilidadebaixadasantista)
+
+- Até 23/09: Laryssa, **resolução e sistematização** de dados, sobre:
+
+1. Estabelecer a variável de estresse térmico ou temperatura, e/ou usar predição térmica para os pŕoximos 6 meses;
+
+2. Definir os pesos de cada uma das 4 variáveis na fórmula final. Redifir e disponibilizar a metodologia no wiki;
+
+3. Calcular o Índice de Vulnerabilidade Costeira para cada um dos 9 municípios, e para Baixada Toda;
+
+- 24 à 02/10: **Desdobramentos**
+
+1. **Criação das sirenes, com os colaboradores** (além do som em sim, disponibilizar a lógica de criação e referências);
+
+2. Escrever a crítica territorial de cada cidade;
+
+3. Subir as sirenes como playlist, no mesmo lugar que temos os podcasts;
+
+- Outubro todo/Novembro: Elaboração do **artigo coletivo**, análise de dados quentes, com apoio da Fernanda Scur;
+
+- Novembro - Submissão, [aqui]({{ '/recursos/caminhos-para-a-inovacao' | relative_url }})https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
+.
+.
+.
+### ZASF
+
+Oferecer workshop no [ENPG 2026](https://eventos.unisanta.br/enpg/2026/) envolvendo alunos da pós-graduação da UNISANTA para prototipação
+
+Objetivo: Criar uma rede de alunos de pós-graduação que possam usar ZASF como dados seguros de pesquisa.
+
+Abordaremos:
+
+- Importância de zonas autônomas sem fio,conceito e introdução;
+- Aplicações;
+- Montagem e instalação
+- Customização do conteúdo
+.
+.
+.
+### MINI DOCUMENTÁRIO
+
+- dezembro: roteiro, montagem
+- janeiro (se possível, janeiro 22): com Roda de Conversa com Carol, para alunos de pós-graduação
+.
+.
+.
+### RELATÓRIO FINAL
+- Entre final jan e final de fev/2026

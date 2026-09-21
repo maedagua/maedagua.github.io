@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Junho 2026
 description: Atividades realizadas no lab em Junho de 2026
 published: True
-date: 2026-08-25 18:18:35.503000+00:00
+date: 2026-09-21 11:43:33.476000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-25 18:56:59.815000+00:00
@@ -16,7 +16,7 @@ dateCreated: 2026-06-25 18:56:59.815000+00:00
 Atividades realizadas no lab em Junho de 2026
 
 ## GABI 
-### 20.06.2025
+### 20.06.2026
 
 Segunda Atividade para Edição do Glossário no Seminário ProExt
 Presentes: Ian, Laryssa, Maira, Gabriela, Camila
