@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-09-21 12:13:24.769000+00:00
+date: 2026-09-22 13:27:24.853000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -25,13 +25,13 @@ Desde junho, após a realização do Simpósio de Pós-graduação na UNISANTA, 
 
 [Atividades](https://fonte.wiki/projetos/maedagua/glossariodecolonial)
 
-- 28/09: Laryssa leva **a Obra no ProComum**
+- XX: Laryssa leva **a Obra**
 
-- 29/09, às 9h: **Intervenção na Obra**, com a Equipe Interna ProComum. 
+- XX: **Intervenção na Obra**, com a Equipe. 
 
-Fala inicial online na reunião de planejamento, expondo brevemente o conceito e referências estáticas. Materiais: Tinta, branquinho, canetas, recortes, colagens;
+Fala inicial online na reunião de planejamento, expondo brevemente o conceito e referências estáticas. Materiais: Tinta, branquinho, canetas, recortes, colagens. Coleta de dados iniciais de caracterização, e planejamento da oficina.
 
-- 01/10, noite: Coleta para os verbetes do Glossário, com integrantes do [SALVE](https://salve.procomum.org/)
+- XX: Coleta para os verbetes do Glossário.
 
 O foco de trabalho com esse fragmneto populacional é abordar a quesão da violência da colonização x vulnerabilidade de populações costeiras e pesqueiras da Baixada Santista como violência sistêmica;
 
@@ -67,7 +67,7 @@ O foco de trabalho com esse fragmneto populacional é abordar a quesão da viol�
 
 - Outubro todo/Novembro: Elaboração do **artigo coletivo**, análise de dados quentes, com apoio da Fernanda Scur;
 
-- Novembro - Submissão, [aqui]({{ '/recursos/caminhos-para-a-inovacao' | relative_url }})https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
+- Novembro - Submissão, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
 .
 .
 .
