@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-01 19:06:39.123000+00:00
+date: 2026-10-02 19:08:26.526000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -53,7 +53,7 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 1. Redação da Metodologia de cálculo, com base de dados referênciadas e fontes;
 
-2. Escrever a crítica territorial de cada cidade;
+2. Escrever a crítica-base territorial de cada cidade;
 
 3. Subir as sirenes como playlist, no mesmo lugar que temos os podcasts;
 
@@ -63,15 +63,17 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 2. Estruturação e Elaboração do **artigo coletivo**, análise de dados quentes, com apoio da Fernanda Scur;
 
-3. Novembro redação e Submissão em 23/11, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
+**Novembro** 
+
+1. Workshop no [ENPG 2026](https://eventos.unisanta.br/enpg/2026/)  sobre extensão e pesquisa em plataformas colaborativas, edição colaborativa sobre a caracterização de cada cidade. Alunos de pós entrarão como aoautores do artigo;
+
+2. Redação e Submissão em 23/11, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
 .
 .
 .
 ### ZASF
 
-Oferecer workshop no [ENPG 2026](https://eventos.unisanta.br/enpg/2026/) envolvendo alunos da pós-graduação da UNISANTA para prototipação
-
-Objetivo: Criar uma rede de alunos de pós-graduação que possam usar ZASF como dados seguros de pesquisa.
+DEZEMBRO - Oferecer workshop para pescadores artesanais
 
 Abordaremos:
 
@@ -84,8 +86,8 @@ Abordaremos:
 .
 ### MINI DOCUMENTÁRIO
 
-- dezembro: montagem
-- janeiro (se possível, janeiro 22): com Roda de Conversa com Carol, Ana, Victor e Terrenas, para alunos de pós-graduação
+- dezembro - janeiro
+- janeiro (se possível, janeiro 22): com Roda de Conversa com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
 .
 .
 .
