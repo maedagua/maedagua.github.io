@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-02 19:08:26.526000+00:00
+date: 2026-10-08 16:48:50.374000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -63,17 +63,13 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 2. Estruturação e Elaboração do **artigo coletivo**, análise de dados quentes, com apoio da Fernanda Scur;
 
-**Novembro** 
-
-1. Workshop no [ENPG 2026](https://eventos.unisanta.br/enpg/2026/)  sobre extensão e pesquisa em plataformas colaborativas, edição colaborativa sobre a caracterização de cada cidade. Alunos de pós entrarão como aoautores do artigo;
-
-2. Redação e Submissão em 23/11, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
+3. Redação e Submissão em 23/11, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
 .
 .
 .
 ### ZASF
 
-DEZEMBRO - Oferecer workshop para pescadores artesanais
+DEZEMBRO - Oferecer workshop para pescadores artesanais, conectar com pós-doc Amanda
 
 Abordaremos:
 
