@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-08 16:48:50.374000+00:00
+date: 2026-10-14 19:59:25.162000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -27,9 +27,9 @@ Desde junho, após a realização do Simpósio de Pós-graduação na UNISANTA, 
 
 Estabelecemos uma parceria com a Colônia de Pescadores de Santos, por meio do Rogério
 
-- 14/10: Laryssa leva **a Obra** até nosso encontro
+- **feito** 14/10: Laryssa leva **a Obra** até nosso encontro
 
-- 14/10: **Primeira Atividade**, 14h às 18h, [Praia do Góis](https://www.google.com/maps/place/Praia+do+G%C3%B3is/@-23.9999982,-46.3372663,14z/data=!3m1!4b1!4m6!3m5!1s0x94ce027afcbe59f3:0xe4665a926ff40c93!8m2!3d-24!4d-46.3166667!16s%2Fg%2F1217tgm2?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D):
+- **feito** 14/10: **Primeira Atividade**, 14h às 18h, [Praia do Góis](https://www.google.com/maps/place/Praia+do+G%C3%B3is/@-23.9999982,-46.3372663,14z/data=!3m1!4b1!4m6!3m5!1s0x94ce027afcbe59f3:0xe4665a926ff40c93!8m2!3d-24!4d-46.3166667!16s%2Fg%2F1217tgm2?entry=ttu&g_ep=EgoyMDI2MDkyOC4wIKXMDSoASAFQAw%3D%3D):
 
 Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário + audiovisual: abordar a quesão da violência da colonização x vulnerabilidade de populações costeiras e pesqueiras da Baixada Santista como violência sistêmica.
 
@@ -83,7 +83,7 @@ Abordaremos:
 ### MINI DOCUMENTÁRIO
 
 - dezembro - janeiro
-- janeiro (se possível, janeiro 22): com Roda de Conversa com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
+- fevereiro (se possível, próximo ao dia 2): com Roda de Conversa + exibição com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
 .
 .
 .
