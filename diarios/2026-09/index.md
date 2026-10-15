@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-14 19:59:25.162000+00:00
+date: 2026-10-14 23:25:06.832000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -51,7 +51,7 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 - **Laryssa:resolução e sistematização**: DURANTE OUTUBRO
 
-1. Redação da Metodologia de cálculo, com base de dados referênciadas e fontes;
+1.  **feito** Redação da Metodologia de cálculo, com base de dados referênciadas e fontes;
 
 2. Escrever a crítica-base territorial de cada cidade;
 
