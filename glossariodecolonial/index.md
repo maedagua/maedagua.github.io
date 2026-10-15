@@ -52,9 +52,8 @@ No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-
 
 A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
 
-- Com o público do I Seminário PROEXT-PG, na UNISANTA
-- Coleta com 
-- Intervenção na Obra, 
+- Com o público do I Seminário PROEXT-PG,em 2026 na UNISANTA
+- Coleta com pescadores tradicionais na Praia do Góis, no Guarujá, entre outubro e novembro de 2026.
 
 ## **O nome das Coisas: Nossos Verbetes**
 
