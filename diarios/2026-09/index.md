@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-14 23:25:06.832000+00:00
+date: 2026-10-20 16:56:47.284000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -69,7 +69,7 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### ZASF
 
-DEZEMBRO - Oferecer workshop para pescadores artesanais, conectar com pós-doc Amanda
+DEZEMBRO - Oferecer workshop para pescadores artesanais, conectar com pós-doc Amanda, doutorando Vini
 
 Abordaremos:
 
