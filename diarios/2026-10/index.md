@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Outubro 2026
 description: Atividades realizadas no lab em Outubro de 2026
 published: True
-date: 2026-10-14 19:32:07.829000+00:00
+date: 2026-10-21 18:24:29.886000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-10-14 19:30:12.486000+00:00
@@ -17,4 +17,29 @@ dateCreated: 2026-10-14 19:30:12.486000+00:00
 ## MAIRA + Terrenas
 ### 14.10.2026
 
-Relato da visita de campo para coleta do Glossário
+**Relato da visita de campo para coleta do Glossário**
+
+
+Encontramos (Maira, Gabriela e Camila) Rogério Rocha, representante dos pescadores artesanais da região da Baixada Santista, no porto de Santos para fazer a travessia, pela catraia, até a praia do Góis por volta das 14h30 do dia 14 de outubro de 2026. 
+
+![vistagois.png]({{ '/assets/media/vistagois.png' | relative_url }})
+
+A travessia teve a duração de aproximadamete 10 minutos. Durante o trajeto, ouvimos relatos sobre a chegada dos portugueses e estabelecimento deles na região. Assim como a importância do conhecimento histórico da população local, sobre a região. 
+
+Logo na chegada, passamos por uma ponte, que segundo Rocha foi construída por um morador, que é responsável por outras melhorias na praia. Como a área da Praia do Góis é pequena, a comunidade se conhece e se apoia.
+
+![goisvila.png]({{ '/assets/media/goisvila.png' | relative_url }})
+
+Andamos por todas as ruas, entendendo que hoje a área sofre com especulação imobiliária, além da falta de conhecimento sobre a necessidade de manutenção de preservação da memória cultural da região. Os jovens não se interessam pelas tradições e profissão da pesca, e acabam deixando a praia para estudar e buscar outras oportunidades.
+
+Conversamos inicialmente com Vinicius Madureira Assumpção, um dos poucos jovens pescadores de camarão, que atualmente tem o trabalho interferido pelo El Niño. 
+
+Seguimos com uma troca descontraída com Ercilia Ramos Cuedo, cozinheira de um dos 4 bares da praia. Ela tem uma relação familiar e profunda com comunidades indígenas, e uma percepção muito crítica da história e política brasileira. Conversamos ainda com novos moradores da praia, que mesmo 2 deles sendo da baixada santista, não são nativos do Góis. Eram três frequentadores da praia, que depois de aposentados, adquiriram casas e passaram a residir por temporadas na praia. 
+
+Durante a atividade, houve uma aproximação com a população local e pudemos trocar sobre a percepção da obra. Nos trouxeram reafirmação da identificação de elementos e significados dos verbetes que já haviam sido mapeados no evento do PROEXT, em junho, além de indicações para alterações muito relevantes - que foram disponibilizadas [aqui](https://miro.com/app/board/uXjVHJwbZqw=/). 
+
+![atividadegois.png]({{ '/assets/media/atividadegois.png' | relative_url }})
+
+A visita foi encerrada em função da alta probabilidade de chuva, que impossibilitaria o retorno a Santos. Durante a travessia de retorno, o barco que estávamos teve uma falha e ficamos alguns minutos atracados no pier do Museu Histórico da Fortaleza de Santo Amaro da Barra Grande até que o barco de resgate chegou.
+
+Programamos a segunda visita para primeira semana de novembro de 2026, para realizarmos: a coleta audiovisual do documentário, assim como realizar a intervenção na obra, com colagens, branquinho e tinta para a apresentação no Museu do Imigrante dia 19.

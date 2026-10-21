@@ -2,7 +2,7 @@
 title: Ecologia Humana
 description: Dinâmica populacional, instituições sociais, contexto espaço-temporal
 published: True
-date: 2026-10-20 16:45:25.326000+00:00
+date: 2026-10-21 19:01:35.744000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:39:08.148000+00:00
@@ -16,7 +16,7 @@ dateCreated: 2026-06-06 22:39:08.148000+00:00
 Não vamos descrever como o [colonizador](https://dicionario.acad-ciencias.pt/pesquisa/colonizador/) realizou feitos, criou uma narrativa própria que foi contada e recontada - até hoje em comemorações. Vamos falar do que estava antes, de quem estava antes, da memória antropofágica que tem permitido que as histórias sejam questionadas, revisitadas, contestadas, recriadas.
 
 > *A fixação do progresso por meio de catálogos e aparelhos de televisão. Só a maquinaria. E os transfusores de sangue. Contra as sublimações antagônicas. Trazidas nas caravelas. Contra a verdade dos povos missionários, definida pela sagacidade de um antropófago, o Visconde de Cairu: – É mentira muitas vezes repetida.*
-> **Manifesto Antropófago**. [Oswalde de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
+> **Manifesto Antropófago**. [Oswald de Andrade](https://pib.socioambiental.org/files/manifesto_antropofago.pdf), 1928.
 
 **Ambiente inseguro (para crianças)**: substantivo masculino. Atmosfera; reunião do que envolve uma pessoa, sua situação financeira, cultural, psicológica e moral: ambiente tenso, perigoso, que não possui ou demonstra segurança.
 
@@ -51,7 +51,7 @@ Adjetivo. Que produz genocídio, aniquilando grupos humanos através da utiliza�
 
 **Símbolos**: Figura que representa um ser, objeto ou ideia abstrata; emblema. Algo ou alguém que representa certo modo de agir ou alguma atividade: ele é o símbolo da colonização. Etimologia. A palavra símbolo deriva do latim "symbolum,i"; pelo grego "súmbolon,ou", que pode significar uma insígnia ou marca distintiva.
 
-**Soldados**: substantivo masculino. Militar: Aquele que, na hierarquia das Forças Armadas a Auxiliares, ocupa o grau mais baixo. Homem alistado nas fileiras do exército; praça de pré. Por Extensão: Nome genérico dado a qualquer militar.
+**Soldados**: substantivo masculino. Militar: Aquele que, na hierarquia das Forças Armadas e Auxiliares, ocupa o grau mais baixo. Homem alistado nas fileiras do exército; praça de pré. Por Extensão: Nome genérico dado a qualquer militar.
 
 **Tupiniquim**: substantivo masculino e feminino. Os tupiniquins são um povo indígena de tronco linguístico Tupi-Guarani, cuja ancestralidade remonta à região da floresta amazônica (cerca de 2.000 a 5.000 anos atrás), de onde migraram para o litoral brasileiro. No ano de 1500, habitavam a faixa litorânea do sul da Bahia até o litoral de São Paulo (de Bertioga a Cananéia), sendo o primeiro grupo indígena a ter contato com a esquadra de Pedro Álvares Cabral. Na pintura histórica, Fundação de São Vicente (1900), do artista Benedito Calixto, os indígenas retratados interagindo de forma pacífica com a expedição colonizadora de Martim Afonso de Sousa são justamente os Tupiniquins e outros subgrupos Tupi da região.
 Adjetivo: no uso popular, também é empregada (muitas vezes de forma genérica ou pejorativa) como sinônimo de "brasileiro". Etimologia: A palavra vem de tupin-i-ki, que significa "tupi ao lado", "vizinhança tupi" ou "o galho dos tupis"

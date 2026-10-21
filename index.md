@@ -2,7 +2,7 @@
 title: Lab Mãe D'água
 description: Laboratório Experimental de Ciência Cidadã, Cultura Oceânica e Tecnologia
 published: True
-date: 2026-10-16 15:55:28.476000+00:00
+date: 2026-10-21 18:12:37.105000+00:00
 tags: projetos, ciência cidadã, oceano
 editor: markdown
 dateCreated: 2025-06-28 16:10:28.630000+00:00
@@ -75,6 +75,7 @@ Para isso, trabalhamos na elaboração de bases referenciais e criamos [artigos]
 - [semente](https://semente.de/)
 - [senseBox](https://sensebox.de/en/)
 - SESC Santos/ [ETA](https://www.sescsp.org.br/programacao/laboratorio-aberto-e-compartilhado/)
+- Terrenas
 
 ## Ficha Técnica
 
