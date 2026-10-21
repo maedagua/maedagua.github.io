@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-20 16:56:47.284000+00:00
+date: 2026-10-21 16:12:29.095000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -69,10 +69,9 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### ZASF
 
-DEZEMBRO - Oferecer workshop para pescadores artesanais, conectar com pós-doc Amanda, doutorando Vini
+- novembro até 03/11: [submissão no workshop](https://doity.com.br/3rd-international-workshop-on-plastic-pollution-in-the-oceans-iwppo--environmental-policies-and-tech/trabalhos) ????
 
-Abordaremos:
-
+- fevereiro (se possível, próximo ao dia 2): workshop para pescadores artesanais, conectar com pós-doc Amanda, doutorando Vini + pescadores
 - Importância de zonas autônomas sem fio,conceito e introdução;
 - Aplicações;
 - Montagem e instalação
@@ -82,10 +81,10 @@ Abordaremos:
 .
 ### MINI DOCUMENTÁRIO
 
-- dezembro - janeiro
+- edição e roteirização: dezembro - janeiro
 - fevereiro (se possível, próximo ao dia 2): com Roda de Conversa + exibição com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
 .
 .
 .
 ### RELATÓRIO FINAL
-- Entre final jan e final de fev/2026
+- Redação: entre final jan e final de fev/2026
