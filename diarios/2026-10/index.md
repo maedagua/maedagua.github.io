@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Outubro 2026
 description: Atividades realizadas no lab em Outubro de 2026
 published: True
-date: 2026-10-21 18:24:29.886000+00:00
+date: 2026-10-23 19:31:44.998000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-10-14 19:30:12.486000+00:00
@@ -24,7 +24,7 @@ Encontramos (Maira, Gabriela e Camila) Rogério Rocha, representante dos pescado
 
 ![vistagois.png]({{ '/assets/media/vistagois.png' | relative_url }})
 
-A travessia teve a duração de aproximadamete 10 minutos. Durante o trajeto, ouvimos relatos sobre a chegada dos portugueses e estabelecimento deles na região. Assim como a importância do conhecimento histórico da população local, sobre a região. 
+A travessia teve a duração de aproximadamente 10 minutos. Durante o trajeto, ouvimos relatos sobre a chegada dos portugueses e estabelecimento deles na região. Assim como a importância do conhecimento histórico da população local, sobre a região. 
 
 Logo na chegada, passamos por uma ponte, que segundo Rocha foi construída por um morador, que é responsável por outras melhorias na praia. Como a área da Praia do Góis é pequena, a comunidade se conhece e se apoia.
 

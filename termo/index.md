@@ -16,7 +16,7 @@ Optamos por um termo [adaptado](https://www.google.com/url?sa=t&source=web&rct=j
 
 Você está sendo convidada/o a participar do Projeto Extensionista
 **Ciência cidadã, apropriação crítica de tecnologias e ações socioambientais em populações pesqueiras e costeiras**
-Uma ação realizada pela CAPES, UNISANTA e ProComum.
+Uma ação realizada pela CAPES e UNISANTA.
 
 Vamos explicar sobre a atividade e solicitar a sua permissão para participar do mesmo. O objetivo é fazer uma releitura crítica do quadro "A Fundação de São Vicente", criando um Glossário que será publicado na nossa Plataforma Wiki, um novo quadro que será exposto e um minidocumentário que terá vocês como coautores. A ideia é trazer uma visão decolonial, contada pela população, nos dias atuais, sobre o território da Baixada Santista.
 
@@ -24,7 +24,6 @@ Acreditamos que essas atividades não vão trazer risco ou desconforto, mas esta
 
 Sua participação na atividade é totalmente voluntária, ou seja, não é obrigatória. Caso decida não participar, ou ainda, desistir de participar não haverá problema. Caso tenha qualquer dúvida, a qualquer momento, poderá nos contatar.
 
-Com isso, fica autorizada a utilização do material de áudio, vídeo e imagem, assim como as obras criadas, de forma integral ou parcial, desde que relacionada aos fins institucionais e aos objetivos da atividade de Extensão, por tempo indeterminado.
+Com isso, fica autorizada a utilização da imagem (como relato documental), respostas e colagens/intervenções para composição da obra extensionista, de forma integral ou parcial, desde que relacionada aos fins e objetivos da atividade, por tempo indeterminado.
 
 
-*Vamos usar uma lista de presença como o aceite
