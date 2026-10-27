@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-21 16:12:29.095000+00:00
+date: 2026-10-27 19:13:43.851000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -33,11 +33,9 @@ Estabelecemos uma parceria com a Colônia de Pescadores de Santos, por meio do R
 
 Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário + audiovisual: abordar a quesão da violência da colonização x vulnerabilidade de populações costeiras e pesqueiras da Baixada Santista como violência sistêmica.
 
-- Até 25/10: **Sistematização da coleta, verbetes e análise crítica, com caracterização socioecológica do território**;
+- **feito** Até 25/10: **Sistematização da coleta, verbetes e análise crítica, com caracterização socioecológica do território**;
 
 - Até 30/10: **Diagramação e upload** de pdf;
-
-- Primeira semana de novembro: Segunda visita estruturada, para coleta audiovisual
 
 - Até 18/11: **Elaboração da Apresentação para Seminário no Museu do Imigrante** abordando: Processo de colonização inicial x práticas do branco salvador, envolvimento de populações costeiras/pesqueiras vulneráveis, quem são essas populações, novas lógicas de colaboração sem exposição;
 
@@ -69,8 +67,6 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### ZASF
 
-- novembro até 03/11: [submissão no workshop](https://doity.com.br/3rd-international-workshop-on-plastic-pollution-in-the-oceans-iwppo--environmental-policies-and-tech/trabalhos) ????
-
 - fevereiro (se possível, próximo ao dia 2): workshop para pescadores artesanais, conectar com pós-doc Amanda, doutorando Vini + pescadores
 - Importância de zonas autônomas sem fio,conceito e introdução;
 - Aplicações;
@@ -81,6 +77,7 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### MINI DOCUMENTÁRIO
 
+- Dezembro - Segunda visita estruturada, para coleta audiovisual + ZASF
 - edição e roteirização: dezembro - janeiro
 - fevereiro (se possível, próximo ao dia 2): com Roda de Conversa + exibição com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
 .
