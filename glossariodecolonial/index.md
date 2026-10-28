@@ -51,10 +51,11 @@ Durante esse processo, realizamos a **Metodologia do Envolvimento**:
 
 No primeiro momento, identificamos os elementos na obra, e alinhamos em 4 eixos-chaves. Criamos a estrutura dos verbetes no fonte.wiki para a edição colaborativa.
 
-A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira:
+A obra passou por momentos distintos de intervenção, com fragmentos populacionais diferentes de população costeira-pesqueira, que posteriormente conduziram a releitura artistíca da obra.
 
 - Com o público do I Seminário PROEXT-PG,em 2026 na UNISANTA
 - Coleta com pescadores tradicionais na Praia do Góis, no Guarujá, entre outubro e novembro de 2026.
+
 
 ## **O nome das Coisas: Nossos Verbetes**
 

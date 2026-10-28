@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Outubro 2026
 description: Atividades realizadas no lab em Outubro de 2026
 published: True
-date: 2026-10-23 19:31:44.998000+00:00
+date: 2026-10-28 19:39:40.573000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-10-14 19:30:12.486000+00:00
@@ -42,4 +42,4 @@ Durante a atividade, houve uma aproximação com a população local e pudemos t
 
 A visita foi encerrada em função da alta probabilidade de chuva, que impossibilitaria o retorno a Santos. Durante a travessia de retorno, o barco que estávamos teve uma falha e ficamos alguns minutos atracados no pier do Museu Histórico da Fortaleza de Santo Amaro da Barra Grande até que o barco de resgate chegou.
 
-Programamos a segunda visita para primeira semana de novembro de 2026, para realizarmos: a coleta audiovisual do documentário, assim como realizar a intervenção na obra, com colagens, branquinho e tinta para a apresentação no Museu do Imigrante dia 19.
+Programamos a segunda visita para dezembro para realizarmos a coleta audiovisual do documentário, assim como a oficina da ZASF Ipupiara.
