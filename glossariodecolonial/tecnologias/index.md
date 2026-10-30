@@ -2,7 +2,7 @@
 title: Tecnologias
 description: inventividades, adaptações de instrumentos e criação de novas ferramentas
 published: True
-date: 2026-08-25 18:18:07.564000+00:00
+date: 2026-10-30 10:09:14.803000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:45:12.207000+00:00
@@ -49,7 +49,7 @@ Bem antes de usarmos água para esfriar *data centers*, enviarmos foguetes para 
 
 **Moringa**: Recipiente utilizado para guardar água.
 
-**Móquem**: Grelha artesanal de madeira usada para defumar carne ou peixe. 
+**Móquem**:  É uma tecnologia ancestral indígena de gestão de alimentos, do tempo e do território. Consiste em um tipo de grelha, estrado ou jirau feito com varas verdes de madeira, bambu ou gravetos, apoiado sobre forquilhas a certa distância do fogo para defumar carne ou peixe.
 
 **Penas**: Penugem de animais que são utilizadas na cabeça com diferentes objetivos, entre eles o adorno. 
 

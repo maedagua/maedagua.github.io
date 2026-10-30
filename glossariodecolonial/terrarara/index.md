@@ -2,7 +2,7 @@
 title: Terra Rara
 description: Elementos do ecossistema (bióticos e abióticos)
 published: True
-date: 2026-10-21 18:53:25.733000+00:00
+date: 2026-10-30 10:07:45.624000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-06 22:15:01.576000+00:00
@@ -36,7 +36,7 @@ Imagine o deslumbre dos portugueses quando chegaram no litoral paulista em um di
 
 **Mata Atlântica**: Bioma com biodiversidade exuberante, tropical, vegetação complexa. Infelizmente encontra-se em processo de [intensa fragmentação e destruição](https://www.ibflorestas.org.br/bioma-mata-atlantica), iniciada com a exploração do Pau-Brasil no século XVI.
 
-**Morros**: Ilhas com morros e morros presentes no desenho da costa. Antes compunham uma paisagem perfeita, com um desenho subindo acima do nível do mar. Hoje, marcados por deslizamentos, ocupações irregulares e desmatamento. 
+**Morros**: Ilhas com morros e morros presentes no desenho da costa. Antes compunham uma paisagem preservada, com um desenho subindo acima do nível do mar. Hoje, marcados por deslizamentos, ocupações irregulares e desmatamento. 
 
 **Pássaros**: Possivelmente gaivotas (*Larus dominicanus*) de grande incidência na região. Mas que também simbolizam a [variedade de aves da região](https://www.wikiaves.com.br/municipio_3548500).
 
