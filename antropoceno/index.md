@@ -1,8 +1,8 @@
 ---
-title: Antropoceno e Populações Costeiras no Brasil
+title: Antropoceno e Vulnerabilidade de Populações Costeiras no Brasil
 description: por Laryssa Vitoria, Maira Begalli e Leonardo Mello
 published: True
-date: 2026-11-04 19:03:49.999000+00:00
+date: 2026-11-06 20:54:29.888000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-30 17:40:46.418000+00:00

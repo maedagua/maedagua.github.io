@@ -2,7 +2,7 @@
 title: Diários de Pesquisa
 description: None
 published: True
-date: 2026-10-14 19:27:36.899000+00:00
+date: 2026-11-06 15:44:50.769000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-07-12 11:14:10.952000+00:00
@@ -24,3 +24,4 @@ dateCreated: 2025-07-12 11:14:10.952000+00:00
 - [Junho]({{ '/diarios/2026-06' | relative_url }})
 - [Setembro]({{ '/diarios/2026-09' | relative_url }})
 - [Outubro]({{ '/diarios/2026-10' | relative_url }})
+- [Novembro]({{ '/diarios/2026-11' | relative_url }})
