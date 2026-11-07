@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-10-27 19:13:43.851000+00:00
+date: 2026-11-06 21:54:44.337000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -35,7 +35,7 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 - **feito** Até 25/10: **Sistematização da coleta, verbetes e análise crítica, com caracterização socioecológica do território**;
 
-- Até 30/10: **Diagramação e upload** de pdf;
+- **feito** Até 30/10: **Diagramação e upload** de pdf;
 
 - Até 18/11: **Elaboração da Apresentação para Seminário no Museu do Imigrante** abordando: Processo de colonização inicial x práticas do branco salvador, envolvimento de populações costeiras/pesqueiras vulneráveis, quem são essas populações, novas lógicas de colaboração sem exposição;
 
@@ -57,9 +57,9 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 
 - **Equipe: Desdobramento**: DURANTE OUTUBRO
 
-1. **Criação das sirenes, com os colaboradores** (além do som em sim, disponibilizar a lógica de criação e referências) - Ana e Victor;
+1. **feito** **Criação das sirenes, com os colaboradores** (além do som em sim, disponibilizar a lógica de criação e referências) - Ana e Victor;
 
-2. Estruturação e Elaboração do **artigo coletivo**, análise de dados quentes, com apoio da Fernanda Scur;
+2. **feito** Estruturação e Elaboração do **artigo coletivo**
 
 3. Redação e Submissão em 23/11, [aqui](https://periodicos.unb.br/index.php/dasquestoes/about/submissions), considerando [formatos](https://periodicos.unb.br/index.php/dasquestoes/announcement/view/1032)
 .
@@ -67,7 +67,8 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### ZASF
 
-- fevereiro (se possível, próximo ao dia 2): workshop para pescadores artesanais, conectar com pós-doc Amanda, doutorando Vini + pescadores
+- prévio: para pescadores Góis, implementação
+- fevereiro (se possível, próximo ao dia 2): workshop alunos pós-graduação UNISANTA, com os relatos
 - Importância de zonas autônomas sem fio,conceito e introdução;
 - Aplicações;
 - Montagem e instalação
@@ -77,7 +78,6 @@ Reconhecimento da Colônia, apresentação do projeto e coleta para o Glossário
 .
 ### MINI DOCUMENTÁRIO
 
-- Dezembro - Segunda visita estruturada, para coleta audiovisual + ZASF
 - edição e roteirização: dezembro - janeiro
 - fevereiro (se possível, próximo ao dia 2): com Roda de Conversa + exibição com Carol, Ana, Victor e Terrenas, com alunos de pós-graduação
 .
