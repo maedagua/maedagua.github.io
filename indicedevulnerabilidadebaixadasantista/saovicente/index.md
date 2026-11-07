@@ -2,7 +2,7 @@
 title: São Vicente
 description: None
 published: True
-date: 2026-10-27 18:54:56.526000+00:00
+date: 2026-11-07 17:52:44.973000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:24:57.594000+00:00
@@ -15,6 +15,8 @@ dateCreated: 2026-07-09 22:24:57.594000+00:00
 
 
 ### Vulnerabilidade Costeira 70 - muito vulnerável
+
+**Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
 
 [São Vicente](https://cidades.ibge.gov.br/brasil/sp/sao-vicente/panorama) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326*, ocupando um território de 148,15 km². 
 
