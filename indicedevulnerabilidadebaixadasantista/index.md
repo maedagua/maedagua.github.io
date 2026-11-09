@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-11-07 16:20:02.535000+00:00
+date: 2026-11-09 16:40:25.979000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -13,11 +13,25 @@ dateCreated: 2026-06-10 13:15:37.220000+00:00
 
 # Siren
 
-Na mitologia grega as [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia) eram descritas como criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares atraindo marinheiros com canções hipnóticas. Embora as origens dessas histórias sejam difusas, é provável que suas trajetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, quem ignorasse às canções de uma sereia, deveria morrer. Quando as sereias passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as criaturas bioluminescentes nas zonas abissais.
+Na mitologia grega as [sereias](https://www.nationalgeographicbrasil.com/historia/2023/05/a-origem-das-sereias-o-que-diz-a-historia) foram descritas como criaturas híbridas com corpo de pássaros e rosto de mulher, que viviam nos oceanos e mares inebriando marinheiros com canções hipnóticas. Embora as origens dessas histórias sejam difusas, é provável que suas trajetórias estejam relacionadas com o mundo dos mortos, assim como a das [Valquírias](https://pt.wikipedia.org/wiki/Valqu%C3%ADrias). Segundo a lenda, quem ignorasse às canções de uma sereia, deveria morrer. Quando as sereias passaram a ser massivamente ignoradas, perderam o seu dom, e se esconderam no fundo do mar com as criaturas bioluminescentes nas zonas abissais.
 
 Com a emergência climática e a vulnerabilidade das populações costeiras e pesqueiras, acentuanda pelo ["Super" El Niño de 2026-2027](https://wmo-int.translate.goog/news/media-centre/wmo-prepare-el-nino?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc), as sereias vieram à tona, novamente, para emitir sirenes em forma de cantos.
 
 ![badgesiren.png]({{ '/assets/media/badgesiren.png' | relative_url }})
+
+> “(...) é magia que nós fazemos, é sagrado e grandioso. Existem lendas sobre pessoas que nasceram com o dom de fazer música tão autêntica, que pode rasgar o véu entre a vida e a morte, evocando espíritos do passado e do futuro”. [Sinners](https://www.youtube.com/watch?v=S7jo5Cr6WUA).
+
+
+##### Sirene de  Iemanjá, Oxum, e Nana Buruquê - ouça no Spotify ou Podomatic
+
+
+Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, estresse térmico e poluição para mensurar a vulnerabilidade dos nove municípios da Baixada Santista (Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos, São Vicente ), litoral sul do Estado de São Paulo. 
+
+![baixadasantista.png]({{ '/assets/media/baixadasantista.png' | relative_url }})
+Fonte: [Quintanilha, 2012](https://www.researchgate.net/publication/275985484_Modelagem_para_integracao_de_dados_sobre_macrobentos_em_Infraestrutura_de_Dados_Espaciais).
+
+A Baixada Santista é  a [17ª região metropolitana](
+https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga cerca de 12% da população brasileira,  parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
 
 A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municípios da Baixada Santista, correlacionando diferentes camadas de dados, a partir da perspectiva de uma ["análise quente"](https://www.youtube.com/watch?v=hd7JhiKQmi8&t=20) utilizando: 
 
@@ -35,13 +49,15 @@ Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (médi
 
 ![tabelaivcosteira.png]({{ '/assets/media/tabelaivcosteira.png' | relative_url }})
 
-**Média para Baixada em Geral
-Sirene da Baixada em Geral
-Diferenças entre o menos e mais
-Similaridades dos que estão agrupados
-Falta de políticas públicas gerais**
+Ao aplicarmos Siren para toda a Baixada Santista, o resultado mostrado é importante vulnerabilidade (58/100), um número equivalente do município do Guarujá, o quinto mais vulnerável. Um resultado que em números absolutos e no ranking representa exatamente a média geral da pontuação do índice e da quantidade de municípios. Porém esse resultado não mostra um equilíbrio por si só, já que os municípios além de vivenciarem realidades bastantes heterogêneas, também é composto por extremos de Peruíbe e Cubatão.
 
-Os dados de Siren para cada município, juntamente com as composições sonoras foram disponibilizadas em páginas wiki colaborativas, com uma breve análise crítica de cada cidade, que podem ser editadas posteriormente. Para os municípios Bertioga, Cubatão, Guarujá, Praia Grande, Santos, São Vicente, foi acrescentado um dado descritivo relativo a contaminantes que não foi adicionado como variável em Siren por não haver dados disponíveis para os nove municípios. 
+![tabelasirenbxd.png]({{ '/assets/media/tabelasirenbxd.png' | relative_url }})
+
+Em um extremo temos Cubatão, uma cidade rodeada de manguezais alagáveis, com alto passivo de contaminantes, moradias irregulares, Produto Interno Bruto (PIB) de mais de R$ 240.000,00, um modelo que sublinha a lógica de esgotamento e hiperexploração de recursos que trouxe a humanidade às crises que estamos vivenciando. Do outro, Peruíbe um território que abriga uma grande porção de Mata Atlântica mas possui um PIB de pouco mais de R$ 33.000,00 (IPS Brasil, 2026).
+
+O modelo de estruturação da Baixada Santista, focado na exploração de recursos, mão de obra e turismo, sem projetos voltados à estruturas sustentáveis, pagamento de serviços ambientais, inovação e valorização de cultura e características locais, se repete até hoje. Porém, em um contexto temporal que exige urgência e não repetição. 
+
+Os dados de Siren para cada município, juntamente com as composições sonoras foram disponibilizadas em páginas wiki colaborativas (que podem ser acessadas no final dessa página), com uma breve análise crítica de cada cidade, que podem ser editadas posteriormente. Para os municípios Bertioga, Cubatão, Guarujá, Praia Grande, Santos, São Vicente, foi acrescentado um dado descritivo relativo a contaminantes que não foi adicionado como variável em Siren por não haver dados disponíveis para os nove municípios. 
 
 Para a análise de contaminantes, utilizada de forma complementar como crítica territorial, foram levantados 1668 pontos georreferenciados de ocorrência de metais ou metalóides. Os municípios que tiveram valores de concentração de metais foram Santos (837, 50%), Cubatão (477, 29%), São Vicente (171, 10%), Bertioga (107, 6%), Guarujá (65, 4%) e Praia grande (11, 1%). Dentre os metais estudados estão Alumínio (Al), ferro (Fe), prata (Ag), arsênio (As), cádmio (Cd), cobalto (Co), cromo (Cr), cobre (Cu), gálio (Ga), mercúrio (Hg), lantânio (La), lítio (Li), manganês (Mn), níquel (Ni), chumbo (Pb), paládio (Pd), platina (Pt), ródio (Rh), antimônio (Sb), escândio (Sc), selênio (Se), estanho (Sn), estrôncio (Sr), titânio (Ti), vanádio (V) e zinco (Zn). 
 
