@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-11-09 16:40:25.979000+00:00
+date: 2026-11-10 12:01:20.294000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -37,7 +37,7 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 - O [Índice de Progresso Social (IPS/Imazon)](https://ipsbrasil.org.br/explore/scorecard/1100015), que mede a qualidade de vida da população a partir da correlação de saneamento, saúde, educação, moradia, segurança e acesso a oportunidades. Quanto maior a nota, melhor a situação. Como o nosso índice mede vulnerabilidade, e não progresso, invertemos essa nota: subtraímos o valor de 100. Assim, uma cidade com nota social mais baixa aparece com mais vulnerabilidade, e todas as variáveis passam a apontar na mesma direção, onde número maior significa situação mais delicada;
 
-- Aumento do Nível do Mar: Usamos a ferramenta [Coastal Risk Screening Tool]({{ 'coastal.climatecentral.org' | relative_url }}), da Climate Central, com um cenário de 1 metro de elevação do mar. O mapa mostra quais áreas de cada cidade ficariam abaixo da linha da maré. Observamos o tamanho e a natureza dessas áreas: regiões industriais, de estuário e densamente povoadas pesam mais do que trechos de praia pouco ocupados;
+- Aumento do Nível do Mar: Usamos a ferramenta [Coastal Risk Screening Tool](http://coastal.climatecentral.org), da Climate Central, com um cenário de 1 metro de elevação do mar. O mapa mostra quais áreas de cada cidade ficariam abaixo da linha da maré. Observamos o tamanho e a natureza dessas áreas: regiões industriais, de estuário e densamente povoadas pesam mais do que trechos de praia pouco ocupados;
 
 - Poluição nas áreas de risco: analisamos se as áreas que podem ser alcançadas pelo mar também sofrem com contaminação, e de que tipo (industrial, portuária, esgoto). As fontes principais são os relatórios da Companhia Ambiental do Estado de São Paulo - CETESB e estudos científicos sobre o estuário e os manguezais da região. O risco é que o avanço do mar remexa e espalhe poluentes que já estão depositados no solo e nos sedimentos;
 
