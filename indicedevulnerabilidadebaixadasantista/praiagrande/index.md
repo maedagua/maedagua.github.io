@@ -2,7 +2,7 @@
 title: Praia Grande
 description: None
 published: True
-date: 2026-11-12 11:04:15.344000+00:00
+date: 2026-11-12 17:58:11.890000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:23:35.614000+00:00
@@ -15,7 +15,7 @@ dateCreated: 2026-07-09 22:23:35.614000+00:00
 
 ### Vulnerabilidade Costeira 65 - muito vulnerável
 
-**Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
+**Sirene de Olokun**, ouça no Spotify ou Podomatic
 
 [Praia Grande](http://https://cidades.ibge.gov.br/brasil/sp/praiagrande/panorama) (24°00′22″S, 46°24′10″W) possui área de 149,65 km² e população  estimada de 368.539 habitantes. Foi emancipada de São Vicente por Lei Estadual em 1964, com a formalização como município em 19 de janeiro de 1967. 
 
