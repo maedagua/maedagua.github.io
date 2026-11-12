@@ -2,7 +2,7 @@
 title: Monguagá
 description: None
 published: True
-date: 2026-11-07 17:51:36.895000+00:00
+date: 2026-11-12 11:16:52.284000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:22:13.004000+00:00
@@ -20,7 +20,7 @@ dateCreated: 2026-07-09 22:22:13.004000+00:00
 **Sirene de Oxum**, ouça no Spotify ou Podomatic
 
 
-[Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes*. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
+[Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
 
 ![mongagua.jpg]({{ '/assets/media/mongagua.jpg' | relative_url }})
 Fonte: Costa Norte.
@@ -38,5 +38,3 @@ Em janeiro de 2026, três eventos em sequência mostraram o efeito acumulado da 
 
 O principal risco apontado foi a saturação do solo, que aumenta a chance de deslizamentos mesmo com chuvas menores. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, e não ausência de contaminação.
 
----------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.

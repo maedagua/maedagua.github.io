@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Novembro 2026
 description: Atividades realizadas no lab em Novembro de 2026
 published: True
-date: 2026-11-11 10:49:52.316000+00:00
+date: 2026-11-12 11:21:53.888000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-11-06 15:46:23.016000+00:00
@@ -21,7 +21,7 @@ dateCreated: 2026-11-06 15:46:23.016000+00:00
 
 Nos reunimos no Sesc Ipiranga, em um domingo chuvoso e frio, por volta das 14 horas. O objetivo era mapear qual a (contra)narrativa construida de forma colaborativa ao longo da jornada de escutas e, a partir dela, interferir na obra "Fundação de São Vicente", tendo como referência base a obra de [Gê Viana, na Bienal de 2026](https://36.bienal.org.br/eventos/ativacao-ge-viana-quando-o-som-beijar-o-mar-as-encruzilhadas-do-atlantico-reggae-e-fe-conversa-com-carlos-benedito-celia-sampaio-e-thiago-de-paula-e-discotecagem-com-n/). Nesse encontro especial, contamos com a presença de Carol Saravalli, que trouxe seu olhar e técnica criativa.  
 
-![terrararanovsesc.png]({{ '/assets/media/terrararanovsesc.png' | relative_url }})
+![img-20261111-wa0066.jpg]({{ '/assets/media/img-20261111-wa0066.jpg' | relative_url }})
 
 Sempre guiadas com a Metodologia do Envolvimento, iniciamos o encontro com uma conversa de aterramento e uma prática lúdica de colagem,a partir do convite para ilustrar nossa perspectiva ou desejo de futuro. Durante o processo, compartilhamos memórias da vida e aprendizados. E, ao fim da prática, apresentamos nossas visões para o grupo. 
 
@@ -31,7 +31,7 @@ Depois de resolvermos o imbróglio, retomamos nossa atividade.
 
 Discutimos sobre a contra-narrativa que se desenhou a partir da pesquisa de campo e chegamos no consenso de que havia uma oportunidade, uma brecha para direcionar a obra para uma representação mais ativa e combativa dos povos originários, desequilibrando a dinâmica de poder do colonizador que a obra original tentar reforçar. Com recortes de revistas e imagens previamente curadas a partir das orientações de entrevistados, interferimos na obra. Com o branquinho, apagamos alguns vestígios do colonizador.
 
-![museuterrarara.png]({{ '/assets/media/museuterrarara.png' | relative_url }})
+![img-20261111-wa0065.jpg]({{ '/assets/media/img-20261111-wa0065.jpg' | relative_url }})
 
 Com a obra finalizada, seguimos para o Museu do Ipiranga, a poucos metros dali para uma sessão de fotos para registrar a obra atualizada em frente à moradia da obra original. Não recebemos autorização prévia para fazer o registro internamente, mas conseguimos ótimas imagens e vídeos dentro do jardim e em frente ao museu para a construção do documentário. 
 

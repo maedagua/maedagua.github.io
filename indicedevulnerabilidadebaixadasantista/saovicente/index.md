@@ -2,7 +2,7 @@
 title: São Vicente
 description: None
 published: True
-date: 2026-11-09 16:37:09.457000+00:00
+date: 2026-11-12 17:45:28.711000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:24:57.594000+00:00
@@ -16,9 +16,9 @@ dateCreated: 2026-07-09 22:24:57.594000+00:00
 
 ### Vulnerabilidade Costeira 70 - muito vulnerável
 
-**Sirene de Nanã Buruquê**, ouça no Spotify ou Podomatic
+**Sirene de Olokum**, ouça no Spotify ou Podomatic
 
-[São Vicente](https://cidades.ibge.gov.br/brasil/sp/sao-vicente/panorama) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326*, ocupando um território de 148,15 km². 
+[São Vicente](https://cidades.ibge.gov.br/brasil/sp/sao-vicente/panorama) (23°57′48″S, 46°23′32″W) é reconhecida historicamente como a primeira vila do Brasil, fundada em 1532. Sua população é de 338.326, ocupando um território de 148,15 km². 
 
 ![marcopadrao.jpeg]({{ '/assets/media/marcopadrao.jpeg' | relative_url }})
 
@@ -38,6 +38,3 @@ A vulnerabilidade territorial de São Vicente é predominantemente hidrológica.
 Como medida mitigadora, o [município criou projetos de macrodrenagem](https://semil.sp.gov.br/2024/11/secretaria-visita-fase-final-da-obra-contra-enchentes-em-sao-vicente/), anunciados como [a maior intervenção de prevenção a enchentes do país](https://www.egeaa.com.br/2026/09/09/sao-vicente-a-maior-obra-de-prevencao-contra-enchentes-do-brasil/). As obras, compreendem o alargamento do [canal da Avenida Eduardo Souto de 6 para 10 metros e a instalação de comportas em oito pontos estratégicos](https://g1.globo.com/sp/santos-regiao/noticia/2024/03/19/sao-vicente-sp-inicia-projeto-de-combate-as-enchentes-com-reurbanizacao-da-avenida-eduardo-souto.ghtml) - enquanto, paralelamente, estudos [geoambientais alertam](https://www.redalyc.org/pdf/3213/321327191008.pdf) para a instabilidade e fragilidade das encostas urbanizadas. 
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient analisamos) 171 pontos amostrados, representando 10% do total regional, o SQGQ médio obtido foi de 1,17 (TEL), indicando ambiente sob forte risco de impacto.
-
---------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.

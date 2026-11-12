@@ -2,7 +2,7 @@
 title: Itanhaém
 description: None
 published: True
-date: 2026-11-07 17:51:07.480000+00:00
+date: 2026-11-12 11:16:14.218000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:21:26.414000+00:00
@@ -19,7 +19,7 @@ dateCreated: 2026-07-09 22:21:26.414000+00:00
 
 **Sirene de Oxum**, ouça no Spotify ou Podomatic
 
-[Itanhaém](https://cidades.ibge.gov.br/brasil/sp/itanhaem/panorama) (24°10′50″S, 46°46′58″W), possui área de 601,71 km² e população de 118.495 habitantes*. Foi fundado em 1532 e elevado a vila em 1561, o que o coloca entre os mais antigos do país. 
+[Itanhaém](https://cidades.ibge.gov.br/brasil/sp/itanhaem/panorama) (24°10′50″S, 46°46′58″W), possui área de 601,71 km² e população de 118.495 habitantes. Foi fundado em 1532 e elevado a vila em 1561, o que o coloca entre os mais antigos do país. 
 
 ![itanhaem.jpg]({{ '/assets/media/itanhaem.jpg' | relative_url }})
 Fonte: Sindigraficos.
@@ -35,5 +35,3 @@ O [Plano Municipal de Contingência](https://transparencia.itanhaem.sp.gov.br/wp
 
 O mapa de projeção de alagamentos, do Climate Central, mostra área expressiva abaixo da linha da maré ao longo do Rio Itanhaém. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado.
 
----------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.

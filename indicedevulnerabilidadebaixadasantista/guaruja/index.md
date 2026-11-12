@@ -2,7 +2,7 @@
 title: Guarujá
 description: None
 published: True
-date: 2026-11-07 17:50:10.451000+00:00
+date: 2026-11-12 11:15:21.975000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:20:43.595000+00:00
@@ -18,7 +18,7 @@ dateCreated: 2026-07-09 22:20:43.595000+00:00
 
 **Sirene de Oxum**, ouça no Spotify ou Podomatic
 
-[Guarujá](https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama) (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes*, foi emancipado em 1934 após desmembramento de Santos. 
+[Guarujá](https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama) (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes, foi emancipado em 1934 após desmembramento de Santos. 
 
 ![pitangueiras.png]({{ '/assets/media/pitangueiras.png' | relative_url }})
 
@@ -39,6 +39,3 @@ Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sedi
 ![tabelaguaruja.png]({{ '/assets/media/tabelaguaruja.png' | relative_url }})
 
 Os cenários de [risco hidrológico e geológico](https://periodicos.unisantos.br/leopoldianum/article/download/910/771/2251) derivam diretamente do processo histórico de ocupação desordenada de encostas e áreas de várzea. O baixo desempenho no indicador de moradia reflete com precisão os segmentos populacionais submetidos à maior exposição socioambiental.
-
---------
-*Estimativa relativa ao ano de 2025, do IPS Brasil 2026.
