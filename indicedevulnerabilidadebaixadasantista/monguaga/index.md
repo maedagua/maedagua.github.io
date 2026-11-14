@@ -2,7 +2,7 @@
 title: Monguagá
 description: None
 published: True
-date: 2026-11-12 11:16:52.284000+00:00
+date: 2026-11-14 18:29:56.091000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:22:13.004000+00:00
@@ -17,17 +17,19 @@ dateCreated: 2026-07-09 22:22:13.004000+00:00
 ### Vulnerabilidade Costeira 50 - importante vulnerabilidade
 
 
-**Sirene de Oxum**, ouça no Spotify ou Podomatic
+**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 
 [Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
 
 ![mongagua.jpg]({{ '/assets/media/mongagua.jpg' | relative_url }})
+
 Fonte: Costa Norte.
 
 Apresenta IPS de 61,94 (2.115ª colocação nacional e 596ª no estado), e a dimensão Oportunidades, com nota de 35,42 (5.479ª posição), é a mais baixa da Baixada Santista.
 
 ![scorecardmongagua.png]({{ '/assets/media/scorecardmongagua.png' | relative_url }})
+
 Fonte: IPS Brasil, 2026.
 
 Cerca de 80% do território ainda é florestado, junto a encostas íngremes, mas o crescimento urbano desordenado tem avançado sobre as áreas mais frágeis. 

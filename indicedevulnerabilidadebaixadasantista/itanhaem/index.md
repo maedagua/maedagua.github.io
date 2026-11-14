@@ -2,7 +2,7 @@
 title: Itanhaém
 description: None
 published: True
-date: 2026-11-12 11:16:14.218000+00:00
+date: 2026-11-14 18:29:13.070000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:21:26.414000+00:00
@@ -17,16 +17,18 @@ dateCreated: 2026-07-09 22:21:26.414000+00:00
 ### Vulnerabilidade Costeira 51 - importante vulnerabilidade
 
 
-**Sirene de Oxum**, ouça no Spotify ou Podomatic
+**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Itanhaém](https://cidades.ibge.gov.br/brasil/sp/itanhaem/panorama) (24°10′50″S, 46°46′58″W), possui área de 601,71 km² e população de 118.495 habitantes. Foi fundado em 1532 e elevado a vila em 1561, o que o coloca entre os mais antigos do país. 
 
 ![itanhaem.jpg]({{ '/assets/media/itanhaem.jpg' | relative_url }})
+
 Fonte: Sindigraficos.
 
 Apresenta IPS de 64,46 (1.063ª colocação nacional e 459ª no estado), e a dimensão Oportunidades, com nota de 38,68 (5.033ª posição), é a mais baixa do município.
 
 ![scorecarditanhaem.png]({{ '/assets/media/scorecarditanhaem.png' | relative_url }})
+
 Fonte: IPS Brasil, 2026.
 
 O [Plano Municipal de Contingência](https://transparencia.itanhaem.sp.gov.br/wp-content/uploads/2025/12/PLAMCON_ITANHAEM_2025_2026.pdf) da própria prefeitura reconhece que o relevo e a drenagem insuficiente deixam a cidade vulnerável a alagamentos, e classifica um ponto da costa (ITA-12-1) como risco R4, muito alto, de erosão costeira. Como resposta, a prefeitura iniciou em junho de 2026 o [desassoreamento de 1.200 metros do Rio Campininha, com previsão de cinco meses, para reduzir alagamentos nos bairros Savoy, Laranjeiras, Cidade Anchieta e Ivoty](https://diariodoestadogo.com.br/itanhaem-sp-prefeitura-inicia-desassoreamento-do-rio-campininha-para-evitar-alagamentos/). 

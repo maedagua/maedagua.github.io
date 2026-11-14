@@ -2,7 +2,7 @@
 title: Bertioga
 description: None
 published: True
-date: 2026-11-12 11:19:22.810000+00:00
+date: 2026-11-14 18:28:29.084000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:19:21.896000+00:00
@@ -15,18 +15,20 @@ dateCreated: 2026-07-09 22:19:21.896000+00:00
 
 ### Vulnerabilidade Costeira 47 - importante vulnerabilidade
 
-**Sirene de Oxum**, ouça no Spotify ou Podomatic
+**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Bertioga](https://cidades.ibge.gov.br/brasil/sp/bertioga/panorama) (23°51′17″S, 46°08′20″W), possui área de 491,55 km² e população estimada de 67.436 habitantes. Teve povoamento a partir de 1531 e emancipação de Santos em 1991. 
 
 
 ![prefeituradebertioga.png]({{ '/assets/media/prefeituradebertioga.png' | relative_url }})
+
 Fonte: Prefeitura de Bertioga.
 
 
 Apresenta IPS de 62,91 (1.708ª colocação nacional e 568ª no estado). As dimensões Fundamentos do Bem-estar (73,08, 228ª posição) e Qualidade do Meio Ambiente (62,45, 807ª posição) são relativamente fortes, mas Oportunidades, com nota de 41,42 (3.996ª posição), é a mais baixa do município, e o Índice de Vulnerabilidade Climática dos Municípios (IVCM) é classificado como relativamente fraco, sempre em comparação com municípios de PIB per capita semelhante.
 
 ![scorecardbertioga.png]({{ '/assets/media/scorecardbertioga.png' | relative_url }})
+
 Fonte: IPS Brasil, 2026.
 
 

@@ -7,6 +7,8 @@ title: Untitled
 
 ## **Terra Rara**
 
+#### Acesse aqui o Glossário Decolonial
+
 Nos últimos anos, cresceram as discussões sobre [Terras Raras](https://pt.wikipedia.org/wiki/Terras-raras). Mas o contexto não é novo: [colonialismo, exploração e tudo o que conhecemos](https://outraspalavras.net/tecnologiaemdisputa/por-nova-estrategia-para-terras-raras-e-ia/).
 
 ![terras_raras_1.png]({{ '/assets/media/terras_raras_1.png' | relative_url }})
