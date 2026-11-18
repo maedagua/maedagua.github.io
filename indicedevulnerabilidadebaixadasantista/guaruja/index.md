@@ -2,7 +2,7 @@
 title: Guarujá
 description: None
 published: True
-date: 2026-11-14 18:27:52.005000+00:00
+date: 2026-11-18 15:43:45.873000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:20:43.595000+00:00
@@ -15,8 +15,7 @@ dateCreated: 2026-07-09 22:20:43.595000+00:00
 
 ### Vulnerabilidade Costeira 58,8 - importante vulnerabilidade
 
-
-**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Guarujá](https://cidades.ibge.gov.br/brasil/sp/guaruja/panorama) (23°59′37″S, 46°15′23″W) possui uma área de 144,79 km² com população estimada de 294.871 habitantes, foi emancipado em 1934 após desmembramento de Santos. 
 
@@ -36,6 +35,6 @@ Na zona costeira, o mapeamento estadual de risco à [erosão sinaliza risco muit
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient) analisamos 65 pontos, equivalentes a 4% da amostra), o SQGQ médio registrou 0,61 (TEL), sinalizando ambiente sob risco de impacto.
 
-![tabelaguaruja.png]({{ '/assets/media/tabelaguaruja.png' | relative_url }})
+![tabelafinalguaruja.png]({{ '/assets/media/tabelafinalguaruja.png' | relative_url }})
 
 Os cenários de [risco hidrológico e geológico](https://periodicos.unisantos.br/leopoldianum/article/download/910/771/2251) derivam diretamente do processo histórico de ocupação desordenada de encostas e áreas de várzea. O baixo desempenho no indicador de moradia reflete com precisão os segmentos populacionais submetidos à maior exposição socioambiental.

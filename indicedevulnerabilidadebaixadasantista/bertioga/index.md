@@ -2,7 +2,7 @@
 title: Bertioga
 description: None
 published: True
-date: 2026-11-14 18:28:29.084000+00:00
+date: 2026-11-18 15:38:42.393000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:19:21.896000+00:00
@@ -15,7 +15,7 @@ dateCreated: 2026-07-09 22:19:21.896000+00:00
 
 ### Vulnerabilidade Costeira 47 - importante vulnerabilidade
 
-**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Bertioga](https://cidades.ibge.gov.br/brasil/sp/bertioga/panorama) (23°51′17″S, 46°08′20″W), possui área de 491,55 km² e população estimada de 67.436 habitantes. Teve povoamento a partir de 1531 e emancipação de Santos em 1991. 
 
@@ -37,6 +37,6 @@ O município combina preservação e risco. O Parque Estadual Restinga de Bertio
 
 Em relação ao Quociente das Diretrizes de Qualidade de Sedimentos (SQGQ - Sediment Quality Guideline Quotient), analisamos 107 pontos, equivalentes a 6% da amostra, e o SQGQ médio registrou 0,70 (TEL), sinalizando ambiente sob risco de impacto, e 0,17 (PEL), risco discreto; o máximo foi de 1,77 (TEL), em faixa de forte risco, e 0,42 (PEL).
 
-![tabelabertioga.png]({{ '/assets/media/tabelabertioga.png' | relative_url }})
+![tabelafinalbertioga.png]({{ '/assets/media/tabelafinalbertioga.png' | relative_url }})
 
 O desafio de Bertioga é proteger o que ainda está preservado sem deixar que a dependência de um acesso principal, pela Serra Mogi-Bertioga, se torne um fator adicional de vulnerabilidade diante de chuvas extremas. A classificação fraca do IVCM e os eventos recentes indicam que o risco climático do município já é concreto, e a preservação ambiental, embora relevante, não elimina a exposição.

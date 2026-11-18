@@ -2,7 +2,7 @@
 title: Monguagá
 description: None
 published: True
-date: 2026-11-14 18:29:56.091000+00:00
+date: 2026-11-18 15:48:26.076000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:22:13.004000+00:00
@@ -16,9 +16,7 @@ dateCreated: 2026-07-09 22:22:13.004000+00:00
 
 ### Vulnerabilidade Costeira 50 - importante vulnerabilidade
 
-
-**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
-
+**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_52_47-08_00)
 
 [Mongaguá](https://cidades.ibge.gov.br/brasil/sp/mongagua/panorama)  (24°05′15″S, 46°37′44″W), possui área de 142,75 km² e população estimada de 64.845 habitantes. Foi emancipada em 1959, mas teve um importante crescimento populacional (33,82%) entre 2010 e 2022. 
 
@@ -36,7 +34,7 @@ Cerca de 80% do território ainda é florestado, junto a encostas íngremes, mas
 
 Em janeiro de 2026, três eventos em sequência mostraram o efeito acumulado da falta de planejamento territorial adequado: 1) Um temporal em 4 de janeiro deixou cerca de [30 pessoas desabrigadas](https://www.dgabc.com.br/Noticia/4277613/temporal-causa-estragos-no-litoral-paulista-mongagua-e-uma-das-mais-afetadas); 2) Entre 19 e 21 de janeiro, novas chuvas levaram a prefeitura a decretar situação de emergência e a pedir [ajuda humanitária](https://www.metropoles.com/sao-paulo/chuva-litoral-sp); 3) [No final do mês](https://www.diariodolitoral.com.br/cotidiano/ja-castigada-por-enchentes-mongagua-agora-enfrenta-ciclone-e-novas/), um ciclone extratropical com ventos de até 70 km/h chegou quando a cidade ainda se recuperava, com prejuízos superiores a R$ 2 milhões. 
 
-![tabelamongagua.png]({{ '/assets/media/tabelamongagua.png' | relative_url }})
+![tabelafinalmongagua.png]({{ '/assets/media/tabelafinalmongagua.png' | relative_url }})
 
 O principal risco apontado foi a saturação do solo, que aumenta a chance de deslizamentos mesmo com chuvas menores. O município não consta do levantamento de sedimentos do projeto, o que indica ausência de dado, e não ausência de contaminação.
 

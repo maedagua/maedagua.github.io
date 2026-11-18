@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-11-14 18:24:05.831000+00:00
+date: 2026-11-18 14:45:54.085000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -22,7 +22,7 @@ Com a emergência climática e a vulnerabilidade das populações costeiras e pe
 > “(...) é magia que nós fazemos, é sagrado e grandioso. Existem lendas sobre pessoas que nasceram com o dom de fazer música tão autêntica, que pode rasgar o véu entre a vida e a morte, evocando espíritos do passado e do futuro”. [Sinners](https://www.youtube.com/watch?v=S7jo5Cr6WUA).
 
 
-##### Sirene de  Iemanjá, Oxum, e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
+##### Sirene de  Oxum, Iemanjá e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
 
 
 Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, estresse térmico e poluição para mensurar a vulnerabilidade dos nove municípios da Baixada Santista (Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos, São Vicente ), litoral sul do Estado de São Paulo. 
@@ -32,7 +32,7 @@ Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, e
 Fonte: [Quintanilha, 2012](https://www.researchgate.net/publication/275985484_Modelagem_para_integracao_de_dados_sobre_macrobentos_em_Infraestrutura_de_Dados_Espaciais).
 
 A Baixada Santista é  a [17ª região metropolitana](
-https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga cerca de 12% da população brasileira,  parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
+https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga o parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
 
 A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municípios da Baixada Santista, correlacionando diferentes camadas de dados, a partir da perspectiva de uma ["análise quente"](https://www.youtube.com/watch?v=hd7JhiKQmi8&t=20) utilizando: 
 
@@ -46,13 +46,13 @@ A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municí
 
 Cada variável foi colocada em uma escala de 0 a 100, em que 100 significa a situação mais vulnerável. Como o IPS já possui uma escala numérica, apenas invertemos. Para o nível do mar e a poluição aplicamos classificações (baixo, moderado, alto, crítico), e para cada classificação atribuímos um valor nessa escala. A medida de 0 a 100 não é uma unidade física, como metros ou toneladas: é uma régua criada para que tipos de dados diferentes possam ser comparados e somados. O índice final é a média das quatro variáveis, todas com o mesmo peso, 25% cada. 
 
-Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Iemanjá/azul-média, Oxum/amarela-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
+Ao final, foram estabelecidas três escalas de vulnerabilidade para Siren (média até 40 pontos, importante de 40 à 60 pontos, e alta mais de 60 pontos), com cores semafóricas relativas as três Orixás que transitam nos ambientes de água, sendo: Oxum/amarela-média, Iemanjá/azul-importante, e Olokun/preta-alta. Essa escala também gerou três sirenes de alerta específicas. Com isso, criamos uma leitura de cada cidade da Baixada Santista, traduzida em um canto, em uma leitura sonora, que quanto mais vulnerável mais aguda fica.
 
-![tabelasirenajustada.png]({{ '/assets/media/tabelasirenajustada.png' | relative_url }})
+![tabelageralips2.png]({{ '/assets/media/tabelageralips2.png' | relative_url }})
 
 Ao aplicarmos Siren para toda a Baixada Santista, o resultado mostrado é importante vulnerabilidade (58/100), um número equivalente do município do Guarujá, o quinto mais vulnerável. Um resultado que em números absolutos e no ranking representa exatamente a média geral da pontuação do índice e da quantidade de municípios. Porém esse resultado não mostra um equilíbrio por si só, já que os municípios além de vivenciarem realidades bastantes heterogêneas, também é composto por extremos de Peruíbe e Cubatão.
 
-![tabelasirenbxd.png]({{ '/assets/media/tabelasirenbxd.png' | relative_url }})
+![tabelamediaips.png]({{ '/assets/media/tabelamediaips.png' | relative_url }})
 
 Em um extremo temos Cubatão, uma cidade rodeada de manguezais alagáveis, com alto passivo de contaminantes, moradias irregulares, Produto Interno Bruto (PIB) de mais de R$ 240.000,00, um modelo que sublinha a lógica de esgotamento e hiperexploração de recursos que trouxe a humanidade às crises que estamos vivenciando. Do outro, Peruíbe um território que abriga uma grande porção de Mata Atlântica mas possui um PIB de pouco mais de R$ 33.000,00 (IPS Brasil, 2026).
 

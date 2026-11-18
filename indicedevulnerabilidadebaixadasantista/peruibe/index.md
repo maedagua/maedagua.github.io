@@ -2,7 +2,7 @@
 title: Peruíbe
 description: None
 published: True
-date: 2026-11-14 18:26:05.099000+00:00
+date: 2026-11-18 16:29:48.940000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-07-09 22:22:55.868000+00:00
@@ -15,7 +15,7 @@ dateCreated: 2026-07-09 22:22:55.868000+00:00
 
 ### Vulnerabilidade Costeira 33 - média vulnerabilidade
 
-**Sirene de Iemanjá**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_50_32-08_00)
+**Sirene de Oxum**, [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T10_50_32-08_00)
 
 [Peruíbe](https://cidades.ibge.gov.br/brasil/sp/peruibe/panorama)  (24°19′12″S, 46°59′54″W), possui área de 326,22 km² e uma população estimada de 70.629 habitantes. Fundada em 18 de fevereiro de 1959, é a cidade menos vulnerável pelo cálculo de Siren.
 
@@ -31,7 +31,7 @@ Fonte: IPS Brasil, 2026.
 
 Mesmo assim, as chuvas atingiram o município em 2026 com intensidade. Em fevereiro, um temporal registrou 56 mm em um dia e mais de 280 mm em três dias, deixando mais de [300 pessoas desabrigadas](https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-desabrigam-mais-de-300-pessoas-em-peruibe) e cerca de 100 desalojadas, e a prefeitura decretou situação de emergência. O [governo estadual](https://www.agenciasp.sp.gov.br/governo-de-sp-reforca-atendimento-e-vistorias-em-areas-alagadas-em-peruibe/) montou três abrigos e acolheu 231 pessoas, e a enchente atingiu áreas próximas a rios, como o Jardim Caraguava. Em 12 de março de 2026, menos de um mês depois, um novo alagamento deixou [60 moradores desabrigados](https://spdiario.com.br/noticias/noticias-de-sp/chuvas-intensas-voltam-a-causar-alagamentos-em-peruibe-e-60-moradores-sao-levados-para-abrigo.html0). 
 
-![tabelaperuibe.png]({{ '/assets/media/tabelaperuibe.png' | relative_url }})
+![tabelafinalperuibe.png]({{ '/assets/media/tabelafinalperuibe.png' | relative_url }})
 
 Peruíbe também possui uma grande área de Mata Atlântica perservada, [integrada à Estação Ecológica Juréia-Itatins](https://uc.socioambiental.org/arp/880), que abriga trilhas, cachoeiras, populações indígenas e caiçaras.
 
