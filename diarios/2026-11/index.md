@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Novembro 2026
 description: Atividades realizadas no lab em Novembro de 2026
 published: True
-date: 2026-11-12 11:21:53.888000+00:00
+date: 2026-11-18 18:49:01.563000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-11-06 15:46:23.016000+00:00
@@ -13,6 +13,14 @@ dateCreated: 2026-11-06 15:46:23.016000+00:00
 
 # Diários de Pesquisa - Novembro
 
+## MAIRA + Terrenas
+### 19.11.2026 Simpósio
+
+.
+.
+.
+
+---------------------------
 
 ## MAIRA + Terrenas + Carol Saravalli
 ### 08.11.2026
