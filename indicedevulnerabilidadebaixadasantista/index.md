@@ -2,7 +2,7 @@
 title: Siren
 description: Índice de Vulnerabilidade Costeira da Baixada Santista
 published: True
-date: 2026-11-18 14:45:54.085000+00:00
+date: 2026-11-21 21:35:08.154000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-06-10 13:15:37.220000+00:00
@@ -21,10 +21,6 @@ Com a emergência climática e a vulnerabilidade das populações costeiras e pe
 
 > “(...) é magia que nós fazemos, é sagrado e grandioso. Existem lendas sobre pessoas que nasceram com o dom de fazer música tão autêntica, que pode rasgar o véu entre a vida e a morte, evocando espíritos do passado e do futuro”. [Sinners](https://www.youtube.com/watch?v=S7jo5Cr6WUA).
 
-
-##### Sirene de  Oxum, Iemanjá e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
-
-
 Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, estresse térmico e poluição para mensurar a vulnerabilidade dos nove municípios da Baixada Santista (Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos, São Vicente ), litoral sul do Estado de São Paulo. 
 
 ![baixadasantista.png]({{ '/assets/media/baixadasantista.png' | relative_url }})
@@ -32,7 +28,7 @@ Siren agrega dados sobre clima, indicadores sociais, aumento do nível do mar, e
 Fonte: [Quintanilha, 2012](https://www.researchgate.net/publication/275985484_Modelagem_para_integracao_de_dados_sobre_macrobentos_em_Infraestrutura_de_Dados_Espaciais).
 
 A Baixada Santista é  a [17ª região metropolitana](
-https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga o parque industrial de Cubatão e o complexo portuário de Santos, responsável por mais de um terço de todo o comércio exterior do Brasil e 55% da renda nacional, o Porto de Santos é o maior e mais importante complexo portuário da América do Sul. 
+https://www.emtu.sp.gov.br/emtu/institucional/quem-somos/baixada-santista.fss) mais populosa do Brasil, abriga o parque industrial de Cubatão e o complexo portuário de Santos, o maior e mais importante complexo portuário da América do Sul. 
 
 A proposta de Siren consiste em avaliar a Vulnerabilidade Costeira dos 9 Municípios da Baixada Santista, correlacionando diferentes camadas de dados, a partir da perspectiva de uma ["análise quente"](https://www.youtube.com/watch?v=hd7JhiKQmi8&t=20) utilizando: 
 
@@ -55,6 +51,8 @@ Ao aplicarmos Siren para toda a Baixada Santista, o resultado mostrado é import
 ![tabelamediaips.png]({{ '/assets/media/tabelamediaips.png' | relative_url }})
 
 Em um extremo temos Cubatão, uma cidade rodeada de manguezais alagáveis, com alto passivo de contaminantes, moradias irregulares, Produto Interno Bruto (PIB) de mais de R$ 240.000,00, um modelo que sublinha a lógica de esgotamento e hiperexploração de recursos que trouxe a humanidade às crises que estamos vivenciando. Do outro, Peruíbe um território que abriga uma grande porção de Mata Atlântica mas possui um PIB de pouco mais de R$ 33.000,00 (IPS Brasil, 2026).
+
+##### Sirene de  Oxum, Iemanjá e Olokum - [ouça no Podomatic](https://www.podomatic.com/podcasts/lab-ecohumana-unisantapodcast/episodes/2026-11-12T12_08_38-08_00)
 
 O modelo de estruturação da Baixada Santista, focado na exploração de recursos, mão de obra e turismo, sem projetos voltados à estruturas sustentáveis, pagamento de serviços ambientais, inovação e valorização de cultura e características locais, se repete até hoje. Porém, em um contexto temporal que exige urgência e não repetição. 
 
