@@ -2,7 +2,7 @@
 title: Diários de Pesquisa - Setembro 2026
 description: Atividades realizadas no lab em Setembro de 2026
 published: True
-date: 2026-11-25 15:27:43.869000+00:00
+date: 2026-11-27 23:24:17.340000+00:00
 tags: None
 editor: markdown
 dateCreated: 2026-09-21 11:43:27.463000+00:00
@@ -23,17 +23,18 @@ Desde junho, após a realização do Simpósio de Pós-graduação na UNISANTA, 
 .
 #### TERRA RARA: Glossário Decolonial Colaborativo
 
-[Atividades] Concluídas (https://fonte.wiki/projetos/maedagua/glossariodecolonial)
+[Atividades](https://fonte.wiki/projetos/maedagua/glossariodecolonial) Concluídas 
 .
 
 #### SIREN: ÍNDICE DE VULNERABILIDADE COSTEIRA
 
-[Atividades] Concluídas (https://fonte.wiki/pt-br/projetos/maedagua/indicedevulnerabilidadebaixadasantista)
+[Atividades](https://fonte.wiki/pt-br/projetos/maedagua/indicedevulnerabilidadebaixadasantista) Concluídas 
 .
 
 ### MINI DOCUMENTÁRIO
 
-- edição, roteirização e finalização: dezembro
+- edição, roteirização e apresentação no INCI: dezembro
+- [envio como produção artística]( https://climacom.mudancasclimaticas.net.br/pagina-principal/amor-a-terra-amor-aterra/): dezembro
 .
 ### ZASF
 
@@ -49,3 +50,4 @@ Desde junho, após a realização do Simpósio de Pós-graduação na UNISANTA, 
 .
 ### RELATÓRIO FINAL
 - Organização/entrega: jan e fev/2026
+- Publicação na revista: [abril 2027](https://seer.ufrgs.br/index.php/iluminuras/announcement/view/2256)
